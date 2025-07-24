@@ -1,0 +1,2264 @@
+id	taxonomicStatus	scientificName	family	modified	acceptedNameUsageID
+04765	accepted	Dietes iridioides (L.) Sweet ex Klatt	Iridaceae	2012-11-15	04765
+02030	accepted	Brachystegia laurentii (De Wild.) Louis ex Hoyle	Fabaceae	2012-11-15	02030
+02070	accepted	Bridelia ferruginea Benth.	Phyllanthaceae	2012-11-15	02070
+02080	accepted	Bridelia micrantha (Hochst.) Baillon	Phyllanthaceae	2012-11-15	02080
+02160	accepted	Cadaba farinosa Forssk.	Capparaceae	2012-11-15	02160
+02161	synonym	Cadaba mombassana Gilg and Bened.	Capparaceae	2012-11-15	02160
+02170	accepted	Cadaba farinosa Forssk.  subsp. farinosa	Capparaceae	2012-11-15	02170
+11200	accepted	Schefflera volkensii (Engl.) Harms	Araliaceae	2012-11-15	11200
+11210	accepted	Schouwia thebaica Webb	Brassicaceae	2012-11-15	11210
+11220	accepted	Schwenckia americana L.	Solanaceae	2012-11-15	11220
+08960	accepted	Myrica salicifolia  Hochst. ex A. Rich.	Myricaceae	2012-11-15	08960
+08980	accepted	Nauclea latifolia Sm.	Rubiaceae	2012-11-15	08980
+08991	synonym	Sarcocephalus pobeguinii Pobéguin ex Pellegr.	Rubiaceae	2012-11-15	08990
+09550	accepted	Passiflora edulis Sims	Passifloraceae	2012-11-15	09550
+01120	accepted	Ambrosia maritima L.	Asteraceae	2012-11-15	01120
+01130	accepted	Ambrosia sp.	Asteraceae	2012-11-15	01130
+00615	accepted	Aframomum sp.	Zingiberaceae	2012-11-15	00615
+01150	accepted	Ampelocissus grantii (Bak.) Planch.	Vitaceae	2012-11-15	01150
+01160	accepted	Anacardium occidentale L.	Anacardiaceae	2012-11-15	01160
+01170	accepted	Ananas comosus (L.) Merr.	Bromeliaceae	2012-11-15	01170
+01180	accepted	Ananas sativus Schult. f.	Bromeliaceae	2012-11-15	01180
+01190	accepted	Andira inermis D.C.	Papilionaceae	2012-11-15	01190
+01200	accepted	Andrachne ovalis Müll. Arg.	Euphorbiaceae	2012-11-15	01200
+01210	accepted	Andropogon canaliculatus Schumach.	Poaceae	2012-11-15	01210
+01220	accepted	Andropogon gayanus Kunth	Poaceae	2012-11-15	01220
+10115	accepted	Pittosporum viridiflorum Sims	Pittosparaceae	2012-11-15	10115
+10965	accepted	Ruta chalepensis L.	Rutaceae	2012-11-15	10965
+09075	accepted	Nigella sativa L.	Ranunculaceae	2012-11-15	09075
+08690	accepted	Mitragyna inermis (Willd.) K.Schum.	Rubiaceae	2012-11-15	08690
+07901	synonym	Lannea stuhlmannii (Engl.) Engl.	Anacardiaceae	2012-11-15	07900
+12901	synonym	Vernonia stipulacea Klatt	Asteraceae	2012-11-15	12900
+06985	accepted	Hymenodictyon parvifolium Oliv.	Rubiaceae	2012-11-15	06985
+04275	accepted	Cucumis myriocarpus Naud.	Cucurbitaceae	2012-11-15	04275
+04685	accepted	Desmodium repandum (Vahl) DC.	Fabaceae	2012-11-15	04685
+04965	accepted	Dissotis senegambiensis (Guill. & Perr. )Triana  var. alpestris (Taub.) A. & R. Fernandes	Melastomataceae	2012-11-15	04965
+05822	accepted	Euphorbia schimperiana Scheele	Euphorbiaceae	2012-11-15	05822
+00200	accepted	Acacia nilotica (L.) Willd. ex  Del. var. nilotica	Mimosaceae	2012-11-15	00200
+00220	accepted	Acacia pennata Willd.	Mimosaceae	2012-11-15	00220
+05480	accepted	Erucastrum arabicum Fischer & Meyer	Brassicaceae	2012-11-15	05480
+05510	accepted	Erythrococca bongensis Pax	Euphorbiaceae	2012-11-15	05510
+05530	accepted	Erythrophleum lasianthum Corb.	Fabaceae	2012-11-15	05530
+05570	accepted	Eucalyptus grandis Hill & Maiden	Myrtaceae	2012-11-15	05570
+05585	accepted	Eucalyptus saligna Sm.	Myrtaceae	2012-11-15	05585
+05620	accepted	Eucomis undulata Ait.	Hyacinthaceae	2012-11-15	05620
+05630	accepted	Euphorbia abyssinica J.F.Gmel.	Euphorbiaceae	2012-11-15	05630
+05660	accepted	Euphorbia convolvuloides Hochst. ex  Benth.	Euphorbiaceae	2012-11-15	05660
+05680	accepted	Euphorbia echinus Coss. & Hook.	Euphorbiaceae	2012-11-15	05680
+05690	accepted	Euphorbia grandicornis Goebel	Euphorbiaceae	2012-11-15	05690
+05710	accepted	Euphorbia heterochroma Pax	Euphorbiaceae	2012-11-15	05710
+06100	accepted	Galium aparinoides Forssk.	Rubiaceae	2012-11-15	06100
+06120	accepted	Gardenia ternifolia Schumach. & Thonn.	Rubiaceae	2012-11-15	06120
+11940	accepted	Steganotaenia araliacea Hochst.	Apiaceae	2012-11-15	11940
+12650	accepted	Triumfetta sp.	Tiliaceae	2012-11-15	12650
+11731	synonym	Solanum sisymbriifolium Lam.	Solanaceae	2012-11-15	11730
+11740	accepted	Solanum sp.	Solanaceae	2012-11-15	11740
+02520	accepted	Carduus leptacanthus Fresen.	Asteraceae	2012-11-15	02520
+12910	accepted	Vernonia podocoma Sch. Bip. Ex Scheinf. & Aschers.	Asteraceae	2012-11-15	12910
+12930	accepted	Vernonia smithiana Less.	Asteraceae	2012-11-15	12930
+12950	accepted	Vernonia subuligera O. Hoffm.	Asteraceae	2012-11-15	12950
+03541	synonym	Colocasia antiquorum Schott & Endl.	Araceae	2012-11-15	03540
+10161	synonym	Plectranthus comosus Sims	Lamiaceae	2012-11-15	10160
+07490	accepted	Jatropha curcas L.	Euphorbiaceae	2012-11-15	07490
+02537	synonym	Carissa spinarum L.	Apocynaceae	2012-11-15	02535
+00997	accepted	Aloe trichosantha A.Berger	Aloaceae	2012-11-15	00997
+03962	synonym	Cordia monoica Roxb.	Boraginaceae	2012-11-15	03961
+09171	synonym	Ocimum urticifolium Roth	Lamiaceae	2012-11-15	09170
+01420	accepted	Asparagus abyssinicus Hochst. ex  A. Rich.	Asparagaceae	2012-11-15	01420
+05731	synonym	Euphorbia barteri N.E.Br.	Euphorbiaceae	2012-11-15	05730
+11622	synonym	Solanum macrocarpon L.	Solanaceae	2012-11-15	11620
+00414	synonym	Achyranthes obovata Peter.	Amaranthaceae	2012-11-15	00410
+06301	synonym	Gossypium arboreum auct.	Malvaceae	2012-11-15	06300
+07470	accepted	Jasminum floribundum R. Br. ex Fresen.	Oleaceae	2012-11-15	07470
+06745	accepted	Heliotropium cinerascens A.DC.	Boraginaceae	2012-11-15	06745
+08105	accepted	Leucas abyssinica (Benth.) Briq.	Lamiaceae	2012-11-15	08105
+11642	accepted	Solanum glabratum Dunal	Solanaceae	2012-11-15	11642
+13192	accepted	Zaleya pentandra (L.) C.Jeffrey	Aizoaceae	2012-11-15	13192
+00965	accepted	Aloe pubescens Reynolds	Aloaceae	2012-11-15	00965
+03215	accepted	Citrus aurantium L.	Rutaceae	2012-11-15	03215
+04353	accepted	Curcuma longa L.	Zingiberaceae	2012-11-15	04353
+05725	accepted	Euphorbia ingens E.Mey. ex Boiss.	Euphorbiaceae	2012-11-15	05725
+07785	accepted	Lagenaria breviflora (Benth.) Roberty	Cucurbitaceae	2012-11-15	07785
+10078	accepted	Piper nigrum L.	Piperaceae	2012-11-15	10078
+10125	accepted	Plantago major L.	Plantaginaceae	2012-11-15	10125
+07455	accepted	Jasminum abyssinicum Hoscht. Ex DC.	Oleaceae	2012-11-15	07455
+13051	synonym	Vitex simplicifolia Oliv.	Verbenaceae	2012-11-15	13050
+10732	accepted	Rauvolfia vomitoria Afzel.	Apocynaceae	2012-11-15	10732
+00760	accepted	Albizia anthelmintica Brongn.	Fabaceae	2012-11-15	00760
+05450	accepted	Eriosema psoraleoides (Lam.) G. Don	Fabaceae	2012-11-15	05450
+05451	synonym	Eriosema cajanoides (Guill. et Perr.) Hook. f.	Fabaceae	2012-11-15	05450
+05490	accepted	Erythrina abyssinica Lam. ex DC.	Fabaceae	2012-11-15	05490
+05500	accepted	Erythrina senegalensis A.DC.	Fabaceae	2012-11-15	05500
+05520	accepted	Erythrophleum guineense G. Don	Fabaceae	2012-11-15	05520
+05521	synonym	Erythrophleum suaveolens (Guill. & Perr.) Brenan	Fabaceae	2012-11-15	05520
+05540	accepted	Eucalyptus sp.	Myrtaceae	2012-11-15	05540
+08760	accepted	Momordica spinosa (Gilg) Chiov.	Cucurbitaceae	2012-11-15	08760
+08770	accepted	Monadenium lugardae N.E.Br.	Euphorbiaceae	2012-11-15	08770
+08790	accepted	Monsonia angustifolia E. Mey. ex A. Rich.	Geraniaceae	2012-11-15	08790
+08850	accepted	Moringa oleifera Lam.	Moringaceae	2012-11-15	08850
+08861	synonym	Hyperanthera ruspoliana (Engl.) Chiov.	Moringaceae	2012-11-15	08860
+08890	accepted	Mucuna pruriens (L.) DC.	Fabaceae	2012-11-15	08890
+08930	accepted	Musa sapientum L.	Musaceae	2012-11-15	08930
+08950	accepted	Myrica kilimandscharica Engl.	Myricaceae	2012-11-15	08950
+08970	accepted	Myrsine africana L.	Myrsinaceae	2012-11-15	08970
+11360	accepted	Senecio ruwenzoriensis S. Moore	Asteraceae	2012-11-15	11360
+11380	accepted	Senecio stuhlmannii Klatt	Asteraceae	2012-11-15	11380
+07320	accepted	Ipomoea batatas (L.) Lam.	Convolvulaceae	2012-11-15	07320
+07340	accepted	Ipomoea cairica (L.) Sweet	Convolvulaceae	2012-11-15	07340
+07350	accepted	Ipomoea coscinosperma Hochst.	Convolvulaceae	2012-11-15	07350
+07360	accepted	Ipomoea eriocarpa R. Br.	Convolvulaceae	2012-11-15	07360
+07380	accepted	Ipomoea involucrata P. Beauv.	Convolvulaceae	2012-11-15	07380
+07390	accepted	Ipomoea longituba  Hall. f.	Convolvulaceae	2012-11-15	07390
+07440	accepted	Ipomoea spathulata Hall. f.	Convolvulaceae	2012-11-15	07440
+07450	accepted	Isoberlinia angolensis (Benth.) Hoyle & Brenan	Fabaceae	2012-11-15	07450
+02360	accepted	Capparis corymbosa Lam.	Capparaceae	2012-11-15	02360
+02381	synonym	Capparis acuminata De Wild.	Capparaceae	2012-11-15	02380
+02412	synonym	Capparis persicifolia A.Rich.	Capparaceae	2012-11-15	02410
+02411	synonym	Capparis polymorpha Guill. & Pers.	Capparaceae	2012-11-15	02410
+02525	accepted	Carduus nyassanus (S. Moore) R.E. Fr.	Asteraceae	2012-11-15	02525
+04515	accepted	Cynoglossum coeruleum A.DC.	Boraginaceae	2012-11-15	04515
+06040	accepted	Ficus thonningii Blume	Moraceae	2012-11-15	06040
+06041	synonym	Ficus iteophylla Miq.	Moraceae	2012-11-15	06040
+06050	accepted	Ficus vogelii  (Miq.) Miq.	Moraceae	2012-11-15	06050
+06051	synonym	Ficus lutea Vahl	Moraceae	2012-11-15	06050
+06060	accepted	Foeniculum vulgare Mill.	Apiaceae	2012-11-15	06060
+06061	synonym	Foeniculum officinale All.	Apiaceae	2012-11-15	06060
+06113	accepted	Garcinia buchananii Baker	Clusiaceae	2012-11-15	06113
+06130	accepted	Geniosporum rotundifolium  Briq.	Lamiaceae	2012-11-15	06130
+06131	synonym	Geniosporum paludosum Bak.	Lamiaceae	2012-11-15	06130
+06300	accepted	Gossypium herbaceum L.	Malvaceae	2012-11-15	06300
+06330	accepted	Gouania longispicata Engl.	Rhamnaceae	2012-11-15	06330
+06340	accepted	Grewia bicolor Juss.	Tiliaceae	2012-11-15	06340
+06370	accepted	Grewia flava DC.	Tiliaceae	2012-11-15	06370
+11240	accepted	Sclerocarya birrea  (A. Rich.) Hochst.	Anacardiaceae	2012-11-15	11240
+11250	accepted	Sclerocarya birrea (A. Rich.) Hochst. subsp. birrea Sond.	Anacardiaceae	2012-11-15	11250
+11260	accepted	Sclerocarya caffra Sond.	Anacardiaceae	2012-11-15	11260
+12590	accepted	Trichodesma zeylanicum (Burm.) R. Br.	Boraginaceae	2012-11-15	12590
+00880	accepted	Aloe barteri Bak.	Aloaceae	2012-11-15	00880
+00150	accepted	Acacia mildbraedii Harms	Mimosaceae	2012-11-15	00150
+00870	accepted	Allophylus africanus P. Beauv.	Sapindaceae	2012-11-15	00870
+00890	accepted	Aloe broomii Schönl.	Aloaceae	2012-11-15	00890
+00900	accepted	Aloe chabaudii Schönl.	Aloaceae	2012-11-15	00900
+00910	accepted	Aloe ferox Miller	Aloaceae	2012-11-15	00910
+00920	accepted	Aloe graminicola Reynolds	Aloaceae	2012-11-15	00920
+05395	accepted	Enteropogon macrostachyus (Hochst. ex A.Rich.) Munro ex Benth.	Poaceae	2012-11-15	05395
+06520	accepted	Haemanthus multiflorus Martyn	Amaryllidaceae	2012-11-15	06520
+12450	accepted	Thymus vulgaris L.	Lamiaceae	2012-11-15	12450
+12470	accepted	Tinospora bakis (A. Rich.) Miers	Menispermaceae	2012-11-15	12470
+01500	accepted	Aspilia pluriseta Schweinf.	Asteraceae	2012-11-15	01500
+01510	accepted	Astragalus vogelii (Webb) Bornm.	Fabaceae	2012-11-15	01510
+01520	accepted	Astripomoea grantii (Rendle) Verdc.	Convolvulaceae	2012-11-15	01520
+01530	accepted	Asystasia gangetica (L.) T. Anders.	Acanthaceae	2012-11-15	01530
+01540	accepted	Atriplex halimus L.	Chenopodiaceae	2012-11-15	01540
+01560	accepted	Avicennia africana P. Beauv.	Avicenniaceae	2012-11-15	01560
+01570	accepted	Azadirachta indica A. Juss.	Meliaceae	2012-11-15	01570
+01571	synonym	Melia azadirachta L.	Meliaceae	2012-11-15	01570
+01580	accepted	Azolla sp.	Salviniaceae	2012-11-15	01580
+01250	accepted	Anisopappus africanus (Hook. f.) Oliv. & Hiern	Asteraceae	2012-11-15	01250
+08580	accepted	Microglossa densiflora Hook.f.	Asteraceae	2012-11-15	08580
+01680	accepted	Beckeropsis uniseta (Nees) K. Schum.	Poaceae	2012-11-15	01680
+01690	accepted	Berkheya spekeana Oliv.	Asteraceae	2012-11-15	01690
+06580	accepted	Haumaniastrum galeopsifolium (Bak.) Duv. & Plancke	Lamiaceae	2012-11-15	06580
+06610	accepted	Heeria pulcherrima (Schweinf.) O. Ktze	Anacardiaceae	2012-11-15	06610
+06611	synonym	Ozoroa pulcherrima (Schweinf.) R. & A. Fernandes	Anacardiaceae	2012-11-15	06610
+11280	accepted	Sebaea crassulifolia Cham. & Schl.	Gentianaceae	2012-11-15	11280
+11290	accepted	Securidaca longipedunculata Fresen.	Polygalaceae	2012-11-15	11290
+11301	synonym	Flueggea virosa (Roxb. ex Willd.) Voigt	Phyllanthaceae	2012-11-15	11300
+11302	synonym	Flueggea microcarpa Blume	Phyllanthaceae	2012-11-15	11300
+11860	accepted	Spathodea campanulata P. Beauv.	Bignoniaceae	2012-11-15	11860
+11880	accepted	Sphaeranthus bullatus Matt. F.	Asteraceae	2012-11-15	11880
+11300	accepted	Securinega virosa (Roxb. ex Willd.) Baill.	Euphorbiaceae	2012-11-15	11300
+11303	synonym	Securinega abyssinica A. Rich.	Phyllanthaceae	2012-11-15	11300
+08981	synonym	Sarcocephalus esculentus Afzel. ex Sabine	Rubiaceae	2012-11-15	08980
+08990	accepted	Nauclea pobeguinii (Pobéguin ex Pellegr.) Petit	Rubiaceae	2012-11-15	08990
+09020	accepted	Neorautanenia mitis (A. Rich.) Verdc.	Fabaceae	2012-11-15	09020
+09040	accepted	Nerium oleander L.	Apocynaceae	2012-11-15	09040
+09050	accepted	Newbouldia laevis (P.Beauv.) Seemann ex Bureau	Bignoniaceae	2012-11-15	09050
+09060	accepted	Nicotiana rustica L.	Solanaceae	2012-11-15	09060
+09130	accepted	Ochna pulchra Hook. f.	Ochnaceae	2012-11-15	09130
+09150	accepted	Ocimum americanum L.	Lamiaceae	2012-11-15	09150
+09151	synonym	Ocimum canum Sims.	Lamiaceae	2012-11-15	09150
+09900	accepted	Phaseolus sp.	Fabaceae	2012-11-15	09900
+09910	accepted	Phaseolus vulgaris L.	Fabaceae	2012-11-15	09910
+07290	accepted	Inula glomerata Oliver & Hiern	Asteraceae	2012-11-15	07290
+07420	accepted	Ipomoea repens Lam.	Convolvulaceae	2012-11-15	07420
+07421	synonym	Ipomoea asarifolia (Desr.) Roem. & Schult.	Convolvulaceae	2012-11-15	07420
+07330	accepted	Ipomoea blepharophylla Hall. f.	Convolvulaceae	2012-11-15	07330
+12080	accepted	Sutera pinnatifida O. Ktze.	Scrophulariaceae	2012-11-15	12080
+12570	accepted	Trichilia emetica Vahl	Meliaceae	2012-11-15	12570
+06710	accepted	Helichrysum nudifolium (L.) Less.	Asteraceae	2012-11-15	06710
+06750	accepted	Heliotropium indicum L.	Boraginaceae	2012-11-15	06750
+08520	accepted	Melia volkensii Guerke	Meliaceae	2012-11-15	08520
+08540	accepted	Melinis minutiflora P. Beauv.	Poaceae	2012-11-15	08540
+08550	accepted	Mentha  sp.	Lamiaceae	2012-11-15	08550
+08570	accepted	Mesembryanthemum div. sp.	Aizoaceae	2012-11-15	08570
+08020	accepted	Leersia hexandra Sw.	Poaceae	2012-11-15	08020
+08030	accepted	Leonotis dysophylla Benth.	Lamiaceae	2012-11-15	08030
+08040	accepted	Leonotis leonurus (L.) R.Br	Lamiaceae	2012-11-15	08040
+11350	accepted	Senecio petitianus A. Rich.	Asteraceae	2012-11-15	11350
+11351	synonym	Senecio hadiensis Forssk.	Asteraceae	2012-11-15	11350
+02461	synonym	Caralluma mouretti  A. Chev.	Asclepiadaceae	2012-11-15	02460
+02480	accepted	Caralluma speciosa N.E. Br.	Asclepiadaceae	2012-11-15	02480
+02500	accepted	Cardiospermum halicacabum L.	Sapindaceae	2012-11-15	02500
+02510	accepted	Carduus div. sp.	Asteraceae	2012-11-15	02510
+02530	accepted	Carica papaya L.	Caricaceae	2012-11-15	02530
+02550	accepted	Cassia absus L.	Fabaceae	2012-11-15	02550
+02790	accepted	Celosia schweinfurthiana Schinz	Amaranthaceae	2012-11-15	02790
+02810	accepted	Celosia trigyna L.	Amaranthaceae	2012-11-15	02810
+08600	accepted	Microglossa pyrifolia (Lam.) O. Ktze.	Asteraceae	2012-11-15	08600
+08601	synonym	Microglossa volubilis (Wallich) DC.	Asteraceae	2012-11-15	08600
+08691	synonym	Nauclea africana Willd.	Rubiaceae	2012-11-15	08690
+08710	accepted	Mitragyna stipulosa (DC.) O. Ktze	Rubiaceae	2012-11-15	08710
+08750	accepted	Momordica pterocarpa  A. Rich.	Cucurbitaceae	2012-11-15	08750
+06554	synonym	Arthrophytum scoparium (Pomel ) Iljin.	Chenopodiaceae	2012-11-15	06553
+07515	accepted	Juniperus oxycedrus L.	Cupressaceae	2012-11-15	07515
+08715	accepted	Moltkia ciliata (Forssk.) Maire	Boraginaceae	2012-11-15	08715
+08716	synonym	Lithospermum callosum Vahl.	Boraginaceae	2012-11-15	08715
+09095	accepted	Nucularia perrinii Batt.	Chenopodiaceae	2012-11-15	09095
+10735	accepted	Retama retam (Forssk.) Webb.	Fabaceae	2012-11-15	10735
+09011	synonym	Parinari macrophylla Sabine	Chrysobalanaceae	2012-11-15	09010
+09490	accepted	Parkia africana R. Br.	Fabaceae	2012-11-15	09490
+09500	accepted	Parkia biglobosa ( Jacq.) R.Br. ex G. Don	Fabaceae	2012-11-15	09500
+09501	synonym	Parkia clappertoniana Keay	Fabaceae	2012-11-15	09500
+09510	accepted	Parkia filicoidea Welw.	Fabaceae	2012-11-15	09510
+02830	accepted	Celtis mildbraedii Engl.	Ulmaceae	2012-11-15	02830
+02841	synonym	Celtis brownii Rendle	Ulmaceae	2012-11-15	02840
+11650	accepted	Solanum incanum L.	Solanaceae	2012-11-15	11650
+11660	accepted	Solanum indicum L.	Solanaceae	2012-11-15	11660
+11870	accepted	Spermacoce princeae (K. Schum.) Verdc.	Rubiaceae	2012-11-15	11870
+12370	accepted	Terminalia glaucescens  Planch. ex  Benth.	Combretaceae	2012-11-15	12370
+12371	synonym	Terminalia schimperiana  Hochst.	Combretaceae	2012-11-15	12370
+11060	accepted	Salsola dendroides Pall. var. africana Brenan	Chenopodiaceae	2012-11-15	11060
+12865	accepted	Vernonia jugalis Oliv. & Hiern	Asteraceae	2012-11-15	12865
+00455	accepted	Acrocephalus galeopsifolium Bak.	Lamiaceae	2012-11-15	00455
+08495	accepted	Maytenus arbutifolia (Hochst. ex A.Rich.) R.Wilczek	Celastraceae	2012-11-15	08495
+08905	accepted	Mukia maderaspatana (L.) M.J. Roem.	Cucurbitaceae	2012-11-15	08905
+03460	accepted	Cochlospermum tinctorium Perr. ex  A. Rich.	Bixaceae	2012-11-15	03460
+08330	accepted	Lysimachia ruhmeriana Vatke	Primulaceae	2012-11-15	08330
+08352	synonym	Maerua bukobensis Gilg & Bened.	Capparaceae	2012-11-15	08350
+08351	synonym	Maerua arenicola sensu Eyles	Capparaceae	2012-11-15	08350
+11310	accepted	Senecio cydoniifolius O. Hoffm.	Asteraceae	2012-11-15	11310
+11410	accepted	Sesamum angustifolium (Oliv.) Engl.	Pedaliaceae	2012-11-15	11410
+11421	synonym	Sesamum orientale L.	Pedaliaceae	2012-11-15	11420
+11432	synonym	Sesbania pachycarpa DC.	Fabaceae	2012-11-15	11430
+11431	synonym	Sesbania bispinosa (Jacq.) W. F. Wight	Fabaceae	2012-11-15	11430
+11440	accepted	Sesbania macrantha  Welw. ex Phillipps & Hutch.	Fabaceae	2012-11-15	11440
+11470	accepted	Sesbania sp.	Fabaceae	2012-11-15	11470
+12575	accepted	Trichilia prieuriana A.Juss.	Meliaceae	2012-11-15	12575
+12897	accepted	Vernonia hymenolepis A.Rich.	Asteraceae	2012-11-15	12897
+01378	accepted	Artemisia absinthium L	Asteraceae	2012-11-15	01378
+11520	accepted	Sida cordifolia L.	Malvaceae	2012-11-15	11520
+03830	accepted	Convolvulus spinosus Burm.f.	Convolvulaceae	2012-11-15	03830
+03850	accepted	Conyza bonariensis  (L.) Cronq.	Asteraceae	2012-11-15	03850
+03880	accepted	Conyza sumatrensis (Retz.) E.K. Walker	Asteraceae	2012-11-15	03880
+04280	accepted	Cucumis prophetarum L.	Cucurbitaceae	2012-11-15	04280
+04300	accepted	Cucurbita maxima Duchesne ex Lam.	Cucurbitaceae	2012-11-15	04300
+04320	accepted	Culcasia scandens P. Beauv.	Araceae	2012-11-15	04320
+04390	accepted	Cussonia barteri Seem.	Araliaceae	2012-11-15	04390
+04391	synonym	Cussonia djalonensis A. Chev.	Araliaceae	2012-11-15	04390
+04400	accepted	Cyathea manniana  Hook.	Cyatheaceae	2012-11-15	04400
+13240	accepted	Zanthoxylum usambarense (Engl.) Kokwaro	Rutaceae	2012-11-15	13240
+13250	accepted	Zea mays L.	Poaceae	2012-11-15	13250
+02120	accepted	Bryophyllum pinnatum (Lam.) Kurz	Crassulaceae	2012-11-15	02120
+02536	synonym	Carissa pubescens A. DC.	Apocynaceae	2012-11-15	02535
+02540	accepted	Carthamnus tinctorius L.	Asteraceae	2012-11-15	02540
+02560	accepted	Cassia alata L.	Fabaceae	2012-11-15	02560
+02661	synonym	Senna septemtrionalis (Viv.) Irwin & Barneby	Fabaceae	2012-11-15	02660
+11400	accepted	Sesamum angolense Welw.	Pedaliaceae	2012-11-15	11400
+11430	accepted	Sesbania aculeata Pers.	Fabaceae	2012-11-15	11430
+06425	accepted	Grewia trichocarpa Hochst. ex A.Rich.	Tiliaceae	2012-11-15	06425
+06421	synonym	Chadara tenax Forssk.	Tiliaceae	2012-11-15	06420
+06470	accepted	Guizotia scabra (Vis.) Chiov.	Asteraceae	2012-11-15	06470
+03320	accepted	Clerodendrum glabrum E. Mey.	Verbenaceae	2012-11-15	03320
+03340	accepted	Clerodendrum myricoides (Hochst.) R. Br. ex Vatke	Verbenaceae	2012-11-15	03340
+03360	accepted	Clerodendrum schweinfurthii Guerke var longitubum	Verbenaceae	2012-11-15	03360
+04440	accepted	Cymbopogon nervatus (Hochst.) Chiov.	Poaceae	2012-11-15	04440
+04450	accepted	Cymbopogon proximus (Hochst. ex A. Rich) Stapf.	Poaceae	2012-11-15	04450
+05340	accepted	Ensete ventricosum (Welw.) Cheesman	Musaceae	2012-11-15	05340
+05341	synonym	Musa ensete Gmel.	Musaceae	2012-11-15	05340
+05350	accepted	Entada abyssinica  Steud. ex A. Rich.	Fabaceae	2012-11-15	05350
+05360	accepted	Entada africana Guill. & Perr.	Fabaceae	2012-11-15	05360
+05361	synonym	Entada sudanica Schweinf.	Fabaceae	2012-11-15	05360
+09640	accepted	Pavonia urens Cav.	Malvaceae	2012-11-15	09640
+09650	accepted	Pelargonium pulveratum Colv. ex Sweet	Geraniaceae	2012-11-15	09650
+09700	accepted	Pennisetum purpureum Schumach.	Poaceae	2012-11-15	09700
+09730	accepted	Pennisetum typhoides (Burm.) Stapf. & Hubb.	Poaceae	2012-11-15	09730
+09750	accepted	Pentadiplandra brazzeana  Baill.	Capparaceae	2012-11-15	09750
+09810	accepted	Pentas zanzibarica  (Klotzsch) Vatke	Rubiaceae	2012-11-15	09810
+09830	accepted	Pergularia extensa (Jacq.) N.E. Br.	Asclepiadaceae	2012-11-15	09830
+02581	synonym	Senna didymobotrya (Fresen) Irwin & Barneby	Fabaceae	2012-11-15	02580
+02590	accepted	Cassia hirsuta  L.	Fabaceae	2012-11-15	02590
+02620	accepted	Cassia mimosoides L.	Fabaceae	2012-11-15	02620
+02641	synonym	Senna occidentalis (L.) Link	Fabaceae	2012-11-15	02640
+02650	accepted	Cassia petersiana Bolle	Fabaceae	2012-11-15	02650
+02570	accepted	Cassia angustifola Vahl.	Fabaceae	2012-11-15	02570
+08995	accepted	Nelsonia canescens (Lam.) Spreng.	Acanthaceae	2012-11-15	08995
+05635	accepted	Euphorbia aegyptica Boiss	Euphorbiaceae	2012-11-15	05635
+03931	synonym	Cordia holstii Guerke	Boraginaceae	2012-11-15	03930
+03960	accepted	Cordia myxa L.	Boraginaceae	2012-11-15	03960
+03970	accepted	Cordyla pinnata (Lepr. ex A. Rich.) Milne-Redh.	Fabaceae	2012-11-15	03970
+03980	accepted	Cordyline terminalis Kunth	Agavaceae	2012-11-15	03980
+09980	accepted	Phyllanthus pentandrus  Schumach. & Thonn.	Phyllanthaceae	2012-11-15	09980
+10000	accepted	Physalis peruviana L.	Solanaceae	2012-11-15	10000
+10020	accepted	Phytolacca heptandra Retz.	Phytolaccaceae	2012-11-15	10020
+10030	accepted	Picris humilis DC.	Asteraceae	2012-11-15	10030
+01671	synonym	Piliostigma rufescens (Lam.) Benth.	Fabaceae	2012-11-15	01670
+03410	accepted	Clutia sp.	Euphorbiaceae	2012-11-15	03410
+03420	accepted	Coccinia adoensis (A. Rich.) Cogn.	Cucurbitaceae	2012-11-15	03420
+03440	accepted	Cocculus leaeba DC.	Menispermaceae	2012-11-15	03440
+03470	accepted	Coffea arabica L.	Rubiaceae	2012-11-15	03470
+03530	accepted	Colocasia sp.	Araceae	2012-11-15	03530
+03560	accepted	Combretum  aculeatum Vent.	Combretaceae	2012-11-15	03560
+03590	accepted	Combretum dolichopetalum Engl. & Diels	Combretaceae	2012-11-15	03590
+03601	synonym	Combretum passargei Engl. et Diels	Combretaceae	2012-11-15	03600
+10420	accepted	Protea hirta Klotzsch	Proteaceae	2012-11-15	10420
+10430	accepted	Protea madiensis Oliv.	Proteaceae	2012-11-15	10430
+05770	accepted	Euphorbia officinarum  L.	Euphorbiaceae	2012-11-15	05770
+05771	synonym	Euphorbia beauvmierana Hook. f. & Cosson	Euphorbiaceae	2012-11-15	05770
+05780	accepted	Euphorbia polycnemoides Hochst. ex Boiss.	Euphorbiaceae	2012-11-15	05780
+05800	accepted	Euphorbia resinifera Berg.	Euphorbiaceae	2012-11-15	05800
+05810	accepted	Euphorbia robecchii Pax	Euphorbiaceae	2012-11-15	05810
+05820	accepted	Euphorbia sapinii De Wild.	Euphorbiaceae	2012-11-15	05820
+05850	accepted	Euphorbia truncata N.E.Br.	Euphorbiaceae	2012-11-15	05850
+05880	accepted	Fagara zanthoxyloides Lam.	Rutaceae	2012-11-15	05880
+05890	accepted	Faurea arborea Engl.	Proteaceae	2012-11-15	05890
+05900	accepted	Feretia apodanthera Del.	Rubiaceae	2012-11-15	05900
+05910	accepted	Ferula communis L.	Apiaceae	2012-11-15	05910
+05921	synonym	Ficus sur Forssk.	Moraceae	2012-11-15	05920
+05930	accepted	Ficus elastica Roxb.	Moraceae	2012-11-15	05930
+05940	accepted	Ficus exasperata Vahl	Moraceae	2012-11-15	05940
+05950	accepted	Ficus glumosa Del.	Moraceae	2012-11-15	05950
+05970	accepted	Ficus ingens (Miq.) Miq.	Moraceae	2012-11-15	05970
+05980	accepted	Ficus maclaudi  ?	Moraceae	2012-11-15	05980
+05991	synonym	Ficus ovata Valh var. octomelifolia (Warb.) Mildbr. & Burret	Moraceae	2012-11-15	05990
+06010	accepted	Ficus populifolia Vahl	Moraceae	2012-11-15	06010
+06030	accepted	Ficus sycomorus L.	Moraceae	2012-11-15	06030
+06031	synonym	Ficus damarensis Engl.	Moraceae	2012-11-15	06030
+06080	accepted	Galenia africana L.	Aizoaceae	2012-11-15	06080
+06090	accepted	Galinsoga parviflora Cav.	Asteraceae	2012-11-15	06090
+00260	accepted	Acacia senegal (L.) Willd.	Mimosaceae	2012-11-15	00260
+00261	synonym	Acacia verek Guill. & Perr.	Mimosaceae	2012-11-15	00260
+00262	synonym	Mimosa senegal L.	Fabaceae	2012-11-15	00260
+00280	accepted	Acacia seyal Del.	Mimosaceae	2012-11-15	00280
+00285	accepted	Acacia seyal Del. var. seyal	Mimosaceae	2012-11-15	00285
+00390	accepted	Acanthospermum hispidum DC.	Asteraceae	2012-11-15	00390
+00412	synonym	Achyranthes indica (L.) Mill.	Amaranthaceae	2012-11-15	00410
+00411	synonym	Achyranthes annua Dinter	Amaranthaceae	2012-11-15	00410
+00410	accepted	Achyranthes aspera L.	Amaranthaceae	2012-11-15	00410
+03290	accepted	Cleome arabica L.	Capparaceae	2012-11-15	03290
+03300	accepted	Cleome paradoxa R. Br. ex  DC.	Capparaceae	2012-11-15	03300
+03310	accepted	Clerodendrum discolor  (Klotzch) Vatke	Verbenaceae	2012-11-15	03310
+03350	accepted	Clerodendrum rotundifolium Oliv.	Verbenaceae	2012-11-15	03350
+03370	accepted	Clerodendrum sp.	Verbenaceae	2012-11-15	03370
+03381	synonym	Clitoria mearnsii De Wild.	Fabaceae	2012-11-15	03380
+03395	accepted	Clutia heterophylla Willd.	Euphorbiaceae	2012-11-15	03395
+04760	accepted	Dicoma anomala Sond.	Asteraceae	2012-11-15	04760
+04870	accepted	Dioscorea sylvatica (Kunth) Eckl. var. paniculata	Dioscoreaceae	2012-11-15	04870
+04900	accepted	Diospyros scabra (Chiov.) Cuf.	Ebenaceae	2012-11-15	04900
+04911	synonym	Diplolophium abyssinicum Benth. & Hook.	Apiaceae	2012-11-15	04910
+04950	accepted	Dissotis pterocaulos Wickens	Melastomataceae	2012-11-15	04950
+04985	accepted	Dobera loranthifolia (Warb.) Harms	Salvadoraceae	2012-11-15	04985
+05010	accepted	Dolichos malosamus Bak.	Fabaceae	2012-11-15	05010
+05020	accepted	Dolichos oliveri Schweinf.	Fabaceae	2012-11-15	05020
+10530	accepted	Psorospermum corymbiferum Hochr.	Hypericaceae	2012-11-15	10530
+10550	accepted	Psorospermum senegalense Spach	Hypericaceae	2012-11-15	10550
+10560	accepted	Ptaeroxylon obliquum (Thunb.) Radlk.	Rutaceae	2012-11-15	10560
+10570	accepted	Pteleopsis suberosa   Engl. & Diels	Combretaceae	2012-11-15	10570
+13131	synonym	Physalis somnifera L.	Solanaceae	2012-11-15	13130
+13180	accepted	Xymalos monospora (Harv.) Baill.	Monimiaceae	2012-11-15	13180
+13200	accepted	Zanthoxylum chalybeum Engl. var. molle Kwakoro	Rutaceae	2012-11-15	13200
+13210	accepted	Zanthoxylum decaryi H. Per.	Rutaceae	2012-11-15	13210
+13220	accepted	Zanthoxylum gilletii (De Wild.) Waterman	Rutaceae	2012-11-15	13220
+13230	accepted	Zanthoxylum chalybeum Engl.	Rutaceae	2012-11-15	13230
+04920	accepted	Diplorhynchus condylocarpon (Muell. Arg.) Pichon	Apocynaceae	2012-11-15	04920
+04930	accepted	Dissotis brazzae  Cogn.	Melastomataceae	2012-11-15	04930
+04940	accepted	Dissotis canescens (E. Meyer ex Graham) Hook. f.	Melastomataceae	2012-11-15	04940
+04990	accepted	Dodonaea viscosa (L.) Jacq.	Sapindaceae	2012-11-15	04990
+04991	synonym	Dodonaea angustifolia L. f.	Sapindaceae	2012-11-15	04990
+10461	synonym	Cedrela  kotschyi Schweinf.	Meliaceae	2012-11-15	10460
+10470	accepted	Pseudolachnostylis maprouneifolia Pax	Euphorbiaceae	2012-11-15	10470
+10542	accepted	Psorospermum guineense (L.) Hochr.	Hypericaceae	2012-11-15	10542
+02660	accepted	Cassia septemtrionalis Viv.	Fabaceae	2012-11-15	02660
+02670	accepted	Cassia siamea Lam.	Fabaceae	2012-11-15	02670
+11800	accepted	Sonchus schweinfurthii Oliv. & Hiern	Asteraceae	2012-11-15	11800
+11822	synonym	Sorghum vulgare subsp. durra (Forssk.) Maire & Weiller	Poaceae	2012-11-15	11820
+11821	synonym	Holcus bicolor L.	Poaceae	2012-11-15	11820
+11830	accepted	Sorghum caudatum Stapf var. colorans Snowden	Poaceae	2012-11-15	11830
+11850	accepted	Sorghum vulgare Pers.	Poaceae	2012-11-15	11850
+00421	synonym	Spilanthes mauritiana (A. Rich. ex Pers.) DC.	Asteraceae	2012-11-15	00422
+12600	accepted	Trigonella foenum-graecum L.	Fabaceae	2012-11-15	12600
+12870	accepted	Vernonia karaguensis Oliver & Hiern. ex  Oliver	Asteraceae	2012-11-15	12870
+03610	accepted	Combretum micranthum G. Don	Combretaceae	2012-11-15	03610
+03611	synonym	Combretum raimbaultii Heck.	Combretaceae	2012-11-15	03610
+03621	synonym	Combretum ankolense Bagshawe & Bak. f.	Combretaceae	2012-11-15	03620
+03620	accepted	Combretum molle R. Br.	Combretaceae	2012-11-15	03620
+03630	accepted	Combretum nigricans Lepr. ex Guill. & Perr.	Combretaceae	2012-11-15	03630
+03631	synonym	Combretum elliotii Engl. & Diels	Combretaceae	2012-11-15	03630
+03635	accepted	Combretum sp.	Combretaceae	2012-11-15	03635
+03646	accepted	Commelina cyanotis ?	Commelinaceae	2012-11-15	03646
+03660	accepted	Commelina diffusa Burm. f.	Commelinaceae	2012-11-15	03660
+03671	synonym	Commelina falcata Hassk.	Commelinaceae	2012-11-15	03670
+08050	accepted	Leonotis nepetifolia (L.) R.Br.	Lamiaceae	2012-11-15	08050
+08070	accepted	Leptadenia hastata (Pers.) Decne.	Asclepiadaceae	2012-11-15	08070
+07638	accepted	Kedrostis foetidissima (Jacq.) Cogn.	Cucurbitaceae	2012-11-15	07638
+09238	synonym	Olinia volkensii Engl.	Oliniaceae	2012-11-15	09236
+11450	accepted	Sesbania sesban (L.) Merr.	Fabaceae	2012-11-15	11450
+11460	accepted	Sesbania sesban (L.) Merr. var. nubica Chiov.	Fabaceae	2012-11-15	11460
+10720	accepted	Raphia sudanica A. Chev.	Arecaceae	2012-11-15	10720
+10730	accepted	Rauvolfia caffra Sond.	Apocynaceae	2012-11-15	10730
+10750	accepted	Rhodocodon madagascariensis Baker	Liliaceae	2012-11-15	10750
+10790	accepted	Rhus erosa Thunb.	Anacardiaceae	2012-11-15	10790
+10801	synonym	Rhus glaucescens A. Rich.	Anacardiaceae	2012-11-15	10800
+12260	accepted	Tarchonantus camphoratus L.	Crassulaceae	2012-11-15	12260
+12270	accepted	Tarenna graveolens (S.Moore) Bremek.	Rubiaceae	2012-11-15	12270
+12290	accepted	Teclea simplicifolia (Engl.) Verdoorn	Rutaceae	2012-11-15	12290
+12300	accepted	Tephrosia macropoda Harv.	Fabaceae	2012-11-15	12300
+12330	accepted	Tephrosia sp.	Fabaceae	2012-11-15	12330
+12340	accepted	Tephrosia vogelii Hook. f.	Fabaceae	2012-11-15	12340
+12360	accepted	Terminalia brownii Fries	Combretaceae	2012-11-15	12360
+12390	accepted	Terminalia sp.	Combretaceae	2012-11-15	12390
+12420	accepted	Thuja articulata Vahl	Cupressaceae	2012-11-15	12420
+12421	synonym	Tetraclinis articulata (Vahl) Masters	Cupressaceae	2012-11-15	12420
+12430	accepted	Thunbergia alata  Bojer ex Sims	Acanthaceae	2012-11-15	12430
+00830	accepted	Aleurites fordii Hemsley	Euphorbiaceae	2012-11-15	00830
+00850	accepted	Allium porum L.	Alliaceae	2012-11-15	00850
+00860	accepted	Allium sativum L.	Alliaceae	2012-11-15	00860
+01440	accepted	Asparagus asparagoides (L.)  Wight	Asparagaceae	2012-11-15	01440
+01450	accepted	Asparagus racemosus  Willd.	Asparagaceae	2012-11-15	01450
+01460	accepted	Asparagus virgatus  Bak.	Asparagaceae	2012-11-15	01460
+01470	accepted	Aspilia africana (Pers.) C.A. Adams	Asteraceae	2012-11-15	01470
+01471	synonym	Aspilia latifolia Oliv. & Hiern	Asteraceae	2012-11-15	01470
+00531	synonym	Adenium obesum (Forssk.) Roemer & Schultes	Apocynaceae	2012-11-15	00530
+00541	synonym	Justicia engleriana Lindau.	Acanthaceae	2012-11-15	00540
+07920	accepted	Lantana camara L.	Verbenaceae	2012-11-15	07920
+07921	synonym	Lantana antidotalis Thonning.	Verbenaceae	2012-11-15	07920
+07940	accepted	Lantana trifolia L.	Verbenaceae	2012-11-15	07940
+07980	accepted	Launaea cornuta (Oliv. & Hiern) C. Jeffrey.	Asteraceae	2012-11-15	07980
+08000	accepted	Lawsonia inermis L.	Lythraceae	2012-11-15	08000
+08240	accepted	Lonchocarpus laxiflorus Guill. & Perr.	Fabaceae	2012-11-15	08240
+08241	synonym	Lonchocarpus philenoptera Benth.	Fabaceae	2012-11-15	08240
+03990	accepted	Cornulaca monacantha Del.	Chenopodiaceae	2012-11-15	03990
+04010	accepted	Cotyledon barbeyi Schweinf. ex  Bak.	Crassulaceae	2012-11-15	04010
+01660	accepted	Basella alba L.	Basellaceae	2012-11-15	01660
+01670	accepted	Bauhinia rufescens Lam.	Fabaceae	2012-11-15	01670
+02400	accepted	Capparis spinosa L.	Capparaceae	2012-11-15	02400
+02420	accepted	Capsicum annuum L.	Solanaceae	2012-11-15	02420
+09540	accepted	Parquetina nigrescens (Afzel.) Bullock	Periplocaceae	2012-11-15	09540
+09560	accepted	Paullinia pinnata L.	Sapindaceae	2012-11-15	09560
+05610	accepted	Euclea lanceolata E. Mey. ex A. DC.	Ebenaceae	2012-11-15	05610
+02662	synonym	Cassia laevigata Willd	Fabaceae	2012-11-15	02660
+04392	synonym	Cussonia kirkii Seem.	Araliaceae	2012-11-15	04390
+01071	synonym	Amaranthus caudatus sensu FWTA	Amaranthaceae	2012-11-15	01070
+05881	synonym	Zanthoxylum zanthoxyloides (Lam.) Zepernick & Timler	Rutaceae	2012-11-15	05880
+09695	accepted	Pennisetum polystachion (L.) Schult	Poaceae	2012-11-15	09695
+04425	accepted	Cymbopogon citratus (DC.) Stapf	Poaceae	2012-11-15	04425
+11835	accepted	Sorghum guinensis (L.) Moench	Poaceae	2012-11-15	11835
+00115	accepted	Acacia karroo Hayne	Mimosaceae	2012-11-15	00115
+00425	accepted	Acokanthera oppositifolia (L.) Codd	Apocynaceae	2012-11-15	00425
+00665	accepted	Agapanthus praecox Willd.	Alliaceae	2012-11-15	00665
+00995	accepted	Aloe tenuior Haw.	Aloaceae	2012-11-15	00995
+01352	accepted	Araujia sericifera Brot.	Apocynaceae	2012-11-15	01352
+01354	accepted	Arctotis arctoides (L.f.) O.Hoffm.	Asteraceae	2012-11-15	01354
+01453	synonym	Asparagus plumosus Baker	Asparagaceae	2012-11-15	01452
+08150	accepted	Lippia adoensis Hochst.	Verbenaceae	2012-11-15	08150
+08250	accepted	Lophira lanceolata Van Tiegh. ex  Keay	Ochnaceae	2012-11-15	08250
+08310	accepted	Lycopersicon esculentum Mill.	Solanaceae	2012-11-15	08310
+07730	accepted	Kotschya africana   Endl.	Fabaceae	2012-11-15	07730
+07750	accepted	Lablab purpureus (L.) Sweet	Fabaceae	2012-11-15	07750
+07751	synonym	Lablab niger Medic.	Fabaceae	2012-11-15	07750
+07770	accepted	Lactuca taraxacifolia (Willd.) Schum.	Asteraceae	2012-11-15	07770
+07771	synonym	Launea taraxacifolia (Willd.) Amin	Asteraceae	2012-11-15	07770
+07850	accepted	Lannea acida A. Rich.	Anacardiaceae	2012-11-15	07850
+08591	synonym	Conyza pyrrhopappa A. Rich. subsp. oblongifolia (O	Asteraceae	2012-11-15	08590
+02261	synonym	Calpurnia subdecandra (L'Hérit.) Schweick.	Fabaceae	2012-11-15	02260
+08060	accepted	Lepidium sativum L.	Brassicaceae	2012-11-15	08060
+08091	synonym	Leptadenia arborea (Forssk.) Schweinf.	Asclepiadaceae	2012-11-15	08090
+06261	synonym	Lasiosiphon kraussianus (Meisn.) Burtt Davy	Thymelaeaceae	2012-11-15	06260
+00010	accepted	Abrus precatorius L.	Fabaceae	2012-11-15	00010
+00020	accepted	Abrus precatorius L. subsp. africanus Verdc.	Fabaceae	2012-11-15	00020
+01454	accepted	Asparagus suaveolens (Burch.) Oberm.	Asparagaceae	2012-11-15	01454
+01575	accepted	Azima tetracantha Lam.	Salvadoraceae	2012-11-15	01575
+02015	accepted	Brachylaena ilicifolia (Lam.) Phill.& Schweick	Asteraceae	2012-11-15	02015
+02125	accepted	Bulbine alooides (L.) Willd.	Asphodelaceae	2012-11-15	02125
+12560	accepted	Trianthema portulacastrum  L.	Aizoaceae	2012-11-15	12560
+12620	accepted	Triumfetta macrophylla  Schumann.	Tiliaceae	2012-11-15	12620
+12630	accepted	Triumfetta pentandra A. Rich.	Tiliaceae	2012-11-15	12630
+12675	accepted	Tylosema fassoglensis (Schweinf.) Torre & Hillc.	Fabaceae	2012-11-15	12675
+12690	accepted	Typha capensis Rohrb.	Typhaceae	2012-11-15	12690
+11885	accepted	Sphaeranthus gomphrenoides O. Hoffm.	Asteraceae	2012-11-15	11885
+02611	synonym	Cassia obovata Collad.	Fabaceae	2012-11-15	02610
+02612	synonym	Senna italica Mill.	Fabaceae	2012-11-15	02610
+10260	accepted	Polygonum hydropiper L.	Polygonaceae	2012-11-15	10260
+10270	accepted	Polygonum meissnerianum  Cham. Schlecht.	Polygonaceae	2012-11-15	10270
+10280	accepted	Polygonum pulchrum Blume	Polygonaceae	2012-11-15	10280
+10300	accepted	Polygonum setosulum  Hochst. ex A. Rich.	Polygonaceae	2012-11-15	10300
+10320	accepted	Polystachya cultriformis Lindl.	Orchidaceae	2012-11-15	10320
+13340	accepted	Zornia pratensis Milne-Redh. subsp. pratensis	Fabaceae	2012-11-15	13340
+13350	accepted	Zornia setosa Bak. f.	Fabaceae	2012-11-15	13350
+12510	accepted	Traganum nudatum Del.	Chenopodiaceae	2012-11-15	12510
+12530	accepted	Tragia furialis Bojer	Euphorbiaceae	2012-11-15	12530
+08602	synonym	Conyza pyrifolia Lam.	Asteraceae	2012-11-15	08600
+08610	accepted	Microglossa sp.	Asteraceae	2012-11-15	08610
+08620	accepted	Micromeria purtschelleri Guerke	Lamiaceae	2012-11-15	08620
+08621	synonym	Satureja biflora (Buch.- Ham.ex  D.Don) Briq.	Lamiaceae	2012-11-15	08620
+12251	synonym	Englerina woodfordioides (Schweinf.) Balle	Loranthaceae	2012-11-15	12250
+12501	synonym	Toddalia asiatica (L.) Lam.	Rutaceae	2012-11-15	12500
+05190	accepted	Dyschoriste radicans Auct. non (Hochst. ex A. Rich.) Nees	Acanthaceae	2012-11-15	05190
+05200	accepted	Echinops longisetus A.Rich.	Asteraceae	2012-11-15	05200
+06591	synonym	Ozoroa insignis Del.	Anacardiaceae	2012-11-15	06590
+01030	accepted	Alternanthera pungens H. B. & K.	Amaranthaceae	2012-11-15	01030
+01031	synonym	Alternanthera repens O. Ktze.	Amaranthaceae	2012-11-15	01030
+10660	accepted	Pupalia lappacea (L.) Juss.	Amaranthaceae	2012-11-15	10660
+10680	accepted	Pycnostachys erici-rosenii  R.E. Fries	Lamiaceae	2012-11-15	10680
+10710	accepted	Rapanea melanophloeos (L.) Mez	Primulaceae	2012-11-15	10710
+10740	accepted	Rhamnus prinoides L' Hérit.	Rhamnaceae	2012-11-15	10740
+10760	accepted	Rhoicissus revoilii  Planch.	Vitaceae	2012-11-15	10760
+10761	synonym	Rhoicissus erythrodes var. ferruginea sensu. Eyles	Vitaceae	2012-11-15	10760
+08622	synonym	Satureja punctata (Bth.) Briq.	Lamiaceae	2012-11-15	08620
+08623	synonym	Micromeria biflora Auct	Lamiaceae	2012-11-15	08620
+08630	accepted	Mikania chenopodiifolia Willd.	Asteraceae	2012-11-15	08630
+08631	synonym	Mikania cordata (Burm. f.) B. L. Robinson var. cordata	Asteraceae	2012-11-15	08630
+08640	accepted	Mikania cordata (Burm.f.) B.L. Robinson	Asteraceae	2012-11-15	08640
+08641	synonym	Mikania capensis DC.	Asteraceae	2012-11-15	08640
+08680	accepted	Mitragyna ciliata Aubrév.& Pellegr.	Rubiaceae	2012-11-15	08680
+08700	accepted	Mitragyna rubrostipulata (Schum.) Hav.	Rubiaceae	2012-11-15	08700
+08730	accepted	Momordica charantia L.	Cucurbitaceae	2012-11-15	08730
+08740	accepted	Momordica foetida Schumach.	Cucurbitaceae	2012-11-15	08740
+08741	synonym	Momordica schimperiana Naud.	Cucurbitaceae	2012-11-15	08740
+11481	synonym	Setaria chevalieri Stapf	Poaceae	2012-11-15	11480
+11712	synonym	Solanum judaicum Bess	Solanaceae	2012-11-15	11710
+11711	synonym	Solanum nodiflorum Jacq.	Solanaceae	2012-11-15	11710
+09200	accepted	Oenanthe palustris (Chiov.) Norman	Apiaceae	2012-11-15	09200
+09221	synonym	Paivaeusa dactylophylla Welw. ex Oliv.	Euphorbiaceae	2012-11-15	09220
+10110	accepted	Pittosporum ochrosiifolium Bojer	Pittosporaceae	2012-11-15	10110
+10950	accepted	Rumex sp.	Polygonaceae	2012-11-15	10950
+09240	accepted	Opilia celtidifolia (Guill. & Perr.) Endl.	Opiliaceae	2012-11-15	09240
+09241	synonym	Opilia amentacea Roxb.	Opiliaceae	2012-11-15	09240
+09250	accepted	Opuntia ficus-indica (L.) Mill.	Cactaceae	2012-11-15	09250
+09270	accepted	Ormocarpum trichocarpum (Taub.) Harms	Fabaceae	2012-11-15	09270
+09300	accepted	Ostryoderris stuhlmannii (Taub.) Dunn ex Harms	Fabaceae	2012-11-15	09300
+09301	synonym	Xeroderris stuhlmannii (Taub.) Mendonça & Sousa	Fabaceae	2012-11-15	09300
+09310	accepted	Osyris abyssinica Hochst. ex  A.Rich.	Santalaceae	2012-11-15	09310
+09311	synonym	Osyris lanceolata Hochst. & Steudel	Santalaceae	2012-11-15	09310
+09350	accepted	Oxalis corniculata L.	Oxalidaceae	2012-11-15	09350
+06620	accepted	Heeria reticulata (Bak. f.) Engl.	Anacardiaceae	2012-11-15	06620
+06621	synonym	Ozoroa reticulata (Bak. f.) R. & A. Fernandes	Anacardiaceae	2012-11-15	06620
+09440	accepted	Parinari curatellifolia  Planch. ex  Benth.	Chrysobalanaceae	2012-11-15	09440
+09441	synonym	Parinari curatellifolia  Planch. ex  Benth.  subsp. mobola (Oliv.) R. A. Graham	Chrysobalanaceae	2012-11-15	09440
+00440	accepted	Acokanthera venenata G. Don	Apocynaceae	2012-11-15	00440
+00881	synonym	Aloe buettneri A. Berger	Aloaceae	2012-11-15	00880
+06810	accepted	Hibiscus cannabinus L.	Malvaceae	2012-11-15	06810
+07260	accepted	Indigofera spicata Forssk.	Fabaceae	2012-11-15	07260
+09340	accepted	Oxalis anthelmintica A. Rich.	Oxalidaceae	2012-11-15	09340
+11451	synonym	Sesbania aegyptiaca Poir.	Fabaceae	2012-11-15	11450
+11175	accepted	Sarcocephalus latifolius (Smith) Bruce	Rubiaceae	2012-11-15	11175
+10095	accepted	Pistia stratiotes L.	Araceae	2012-11-15	10095
+02965	accepted	Clorophytum comosum (Thumb.) Jacq.	Anthericaceae	2012-11-15	02965
+01805	accepted	Boerhavia diffusa L.	Nyctaginaceae	2012-11-15	01805
+08906	synonym	Melothria maderaspatana (L.) Cogn.	Cucurbitaceae	2012-11-15	08905
+08340	accepted	Macrosphyra longistyla  (DC.) Hiern	Rubiaceae	2012-11-15	08340
+08370	accepted	Maerua somalensis Pax	Capparaceae	2012-11-15	08370
+08400	accepted	Maesa lanceolata Forssk. var. mildbraedii (Gilg & G.Schellenb.) Lebrun	Myrsinaceae	2012-11-15	08400
+08410	accepted	Malpighia alternifolia Schumach. & Thonn.	Malpighiaceae	2012-11-15	08410
+00300	accepted	Acacia sieberiana var. vermoesenii (De Wild.) Keay & Brenan	Mimosaceae	2012-11-15	00300
+03875	accepted	Conyza pyrrhopapa Sch.-Bip. ex A. Rich.	Asteraceae	2012-11-15	03875
+03876	synonym	Microglossa angolensis Oliv. & Hiern	Asteraceae	2012-11-15	03875
+05515	accepted	Erythrococca polyandra (Pax & K. Hoffm.) Prain var flacida (Pax) A. R. Sm.	Euphorbiaceae	2012-11-15	05515
+05516	synonym	Erythrococca oleracera Prain	Euphorbiaceae	2012-11-15	05515
+07755	accepted	Lactuca attenuata Stebbins	Asteraceae	2012-11-15	07755
+11915	accepted	Sporobolus sp.	Poaceae	2012-11-15	11915
+00490	accepted	Adenia gummifera  (Harv.) Harms	Passifloraceae	2012-11-15	00490
+00510	accepted	Adenia venenata Forssk.	Passifloraceae	2012-11-15	00510
+00520	accepted	Adenia volkensii Harms	Passifloraceae	2012-11-15	00520
+00535	synonym	Nerium obesum Forssk.	Apocynaceae	2012-11-15	00530
+00540	accepted	Adhatoda engleriana (Lindau) C.B. Clarke	Acanthaceae	2012-11-15	00540
+00640	accepted	Afrormosia laxiflora (Benth. ex Bak.) Harms	Fabaceae	2012-11-15	00640
+00641	synonym	Pericopsis laxiflora (Benth. ex  Bak.) van Meeuwen	Fabaceae	2012-11-15	00640
+00642	synonym	Ormosia laxiflora Benth. ex Bak.	Fabaceae	2012-11-15	00640
+00671	synonym	Agauria polyphylla Baker	Ericaceae	2012-11-15	00670
+00930	accepted	Aloe greatheadii Schönl.	Aloaceae	2012-11-15	00930
+00940	accepted	Aloe hendrickxii Reynolds	Aloaceae	2012-11-15	00940
+05255	accepted	Ekebergia benguelensis C. DC.	Meliaceae	2012-11-15	05255
+11715	accepted	Solanum renschii Vatke	Solanaceae	2012-11-15	11715
+02535	accepted	Carissa edulis (Forssk.) Vahl	Apocynaceae	2012-11-15	02535
+05210	accepted	Echiochilon lithospermoides Moore	Boraginaceae	2012-11-15	05210
+04617	accepted	Cyphostemma natalitium (Szyszyl.) J.J.M.van der Merwe	Vitaceae	2012-11-15	04617
+12010	accepted	Stereospermum kunthianum Cham.	Bignoniaceae	2012-11-15	12010
+01491	synonym	Aspilia chrysops S. Moore	Asteraceae	2012-11-15	01490
+04020	accepted	Crassocephalum bojeri (DC.) Robyns	Asteraceae	2012-11-15	04020
+04060	accepted	Crassula lycopodioides Lam.	Crassulaceae	2012-11-15	04060
+04070	accepted	Crinum bulbisperum  Milne-Redh. & Schw.	Amaryllidaceae	2012-11-15	04070
+04090	accepted	Crinum stuhlmannii Baker	Amaryllidaceae	2012-11-15	04090
+04100	accepted	Crossandra massaica Mildbr.	Acanthaceae	2012-11-15	04100
+04110	accepted	Crossandra nilotica Oliver	Acanthaceae	2012-11-15	04110
+04140	accepted	Crotalaria naragutensis  Hutch.	Fabaceae	2012-11-15	04140
+04150	accepted	Crotalaria perrottetii  DC.	Fabaceae	2012-11-15	04150
+04160	accepted	Croton dichogamus Pax	Euphorbiaceae	2012-11-15	04160
+04180	accepted	Croton macrostachyus Hochst. ex  Del.	Euphorbiaceae	2012-11-15	04180
+04200	accepted	Croton pseudopulchellus Pax	Euphorbiaceae	2012-11-15	04200
+04230	accepted	Cucumis aculeatus Cogn.	Cucurbitaceae	2012-11-15	04230
+04240	accepted	Cucumis dipsaceus Ehrenb. ex Spach	Cucurbitaceae	2012-11-15	04240
+08681	synonym	Mitragyna macrophylla Hiern	Rubiaceae	2012-11-15	08680
+11902	accepted	Spirostachys africana Sond.	Euphorbiaceae	2012-11-15	11902
+11904	accepted	Spondias mombin L.	Anacardiaceae	2012-11-15	11904
+00533	synonym	Adenium somalense var. crispum Chiov.	Apocynaceae	2012-11-15	00530
+00532	synonym	Adenium obesum (Forssk.) Roemer & Schultes var. multiflorum  A REVOIR  A REVOIR  A REVOIR  A REVOIR	Apocynaceae	2012-11-15	00530
+13320	accepted	Ziziphus spina-christi  (L.) Desf. var. spina-christi	Rhamnaceae	2012-11-15	13320
+02770	accepted	Cedrus atlantica (Endl.) Carrière	Pinaceae	2012-11-15	02770
+04125	accepted	Crotalaria aegyptiaca Benth.	Fabaceae	2012-11-15	04125
+01155	accepted	Anabasis aphylla L. subsp. africana (Murb.) Maire	Chenopodiaceae	2012-11-15	01155
+01165	accepted	Anagyris foetida L.	Fabaceae	2012-11-15	01165
+02135	accepted	Bunium div. sp.	Apiaceae	2012-11-15	02135
+02855	accepted	Ceratonia siliqua L.	Fabaceae	2012-11-15	02855
+09236	accepted	Olinia rochetiana Juss.	Oliniaceae	2012-11-15	09236
+13205	accepted	Zanthoxylum davyi (I.Verd.) P.G.Waterman	Rutaceae	2012-11-15	13205
+13206	synonym	Fagara davyi I.Verd.	Rutaceae	2012-11-15	13205
+02551	synonym	Chamaecrista absus (L.) Irwin & Barneby	Fabaceae	2012-11-15	02550
+00731	synonym	Ajuga bracteosa Wallich ex Bentham	Lamiaceae	2012-11-15	00730
+10765	accepted	Rhoicissus tomentosa (Lam.) Wild & R.B.Drumm.	Vitaceae	2012-11-15	10765
+10935	accepted	Rumex lanceolatus Thunb.	Polygonaceae	2012-11-15	10935
+11035	accepted	Salix sp.	Salicaceae	2012-11-15	11035
+11202	accepted	Schotia brachypetala Sond.	Fabaceae	2012-11-15	11202
+11222	accepted	Scilla natalensis Planch.	Hyacinthaceae	2012-11-15	11222
+11224	accepted	Scilla nervosa (Burch.) Jessop	Hyacinthaceae	2012-11-15	11224
+11347	accepted	Senecio oxyriifolius DC.	Asteraceae	2012-11-15	11347
+11385	accepted	Senecio tamoides DC.	Asteraceae	2012-11-15	11385
+11536	accepted	Siphonochilus aethiopicus (Schweinnf.) B.L. Burtt	Zingiberaceae	2012-11-15	11536
+11665	accepted	Solanum lichtensteinii Willd.	Solanaceae	2012-11-15	11665
+11667	accepted	Solanum linnaeanum Hepper & Jaeger	Solanaceae	2012-11-15	11667
+11668	synonym	Solanum hermannii Dun. (invalid name)	Solanaceae	2012-11-15	11667
+11901	accepted	Spirostachys abbrevia Sond.   Non Stork	Euphorbiaceae	2012-11-15	11901
+12015	accepted	Streptocarpus prolixus C.B.Clarke	Gesneriaceae	2012-11-15	12015
+12030	accepted	Strophanthus speciosus (Ward & Harv.) Reber	Apocynaceae	2012-11-15	12030
+12125	accepted	Synadenium cupulare (Boiss.) L.C.Wheeler	Euphorbiaceae	2012-11-15	12125
+12295	accepted	Tephrosia kraussiana Meisn.	Fabaceae	2012-11-15	12295
+12756	accepted	Urginea physodes (Jacq.) Baker	Hyacinthaceae	2012-11-15	12756
+12902	accepted	Vernonia neocorymbosa Hilliard	Asteraceae	2012-11-15	12902
+00816	synonym	Alchemilla rothii Oliv.	Rosaceae	2012-11-15	00815
+13115	accepted	Watsonia tabularis J.W.Mathews & L.Bolus	Iridaceae	2012-11-15	13115
+10431	accepted	Protea simplex E.Phillips	Proteaceae	2012-11-15	10431
+00060	accepted	Acacia amythethophylla Steud. ex  A. Rich.	Mimosaceae	2012-11-15	00060
+00032	accepted	Abutilon hirtum (Lam.) Sweet	Malvaceae	2012-11-15	00032
+00111	accepted	Acacia gerrardii Benth.	Mimosaceae	2012-11-15	00111
+05065	accepted	Dombeya rotundifolia (Hochst.) Planch.	Sterculiaceae	2012-11-15	05065
+05155	accepted	Dryopteris athamantica (Kunze) Kuntze non Stork	Aspidiaceae	2012-11-15	05155
+05332	accepted	Emex australis Steinh.	Polygonaceae	2012-11-15	05332
+05588	accepted	Euclea coriacea A.DC.	Ebenaceae	2012-11-15	05588
+05625	accepted	Eulophia speciosa (R.Br. ex Lindl.) Bolus	Orchidaceae	2012-11-15	05625
+05665	accepted	Euphorbia cooperi N.E.Br. ex A.Berger	Euphorbiaceae	2012-11-15	05665
+05861	accepted	Exomis microphylla (Thunb.) Aellen	Chenopodiaceae	2012-11-15	05861
+06769	accepted	Heteromorpha trifoliata (H.L.Wendl.) Eckl. & Zeyh.	Apiaceae	2012-11-15	06769
+06855	accepted	Hibiscus malacospermus (Turcz.) E.Mey. ex Harv.	Malvaceae	2012-11-15	06855
+07015	accepted	Hypoestes aristata (Vahl) Sol. ex Roem. & Schult.	Acanthaceae	2012-11-15	07015
+08024	accepted	Ledebouria cooperi (Hook.f.) Jessop	Hyacinthaceae	2012-11-15	08024
+08345	accepted	Macrotyloma axillare (E.Mey.) Verdc..	Fabaceae	2012-11-15	08345
+08497	accepted	Maytenus heterophylla (Eckl. & Zeyh.) N.Robson	Celastraceae	2012-11-15	08497
+08585	accepted	Microglossa mespilifolia (Less.) B.L.Rob.	Asteraceae	2012-11-15	08585
+08805	accepted	Monsonia emarginata (L.f.) L'Hér.	Geraniaceae	2012-11-15	08805
+09382	accepted	Ozoroa paniculosa (Sond.) R.Fern. & A.Fern.	Anacardiaceae	2012-11-15	09382
+09645	accepted	Pelargonium luridum (Andrews) Sweet	Geraniaceae	2012-11-15	09645
+09665	accepted	Pelargonium sidoides DC.	Geraniaceae	2012-11-15	09665
+09765	accepted	Pentanisia prunelloides (Klotzsch ex Eckl. & Zeyh.) Walp. subsp. Prunelloides	Rubiaceae	2012-11-15	09765
+10025	accepted	Phytolacca octandra L.	Phytolaccaceae	2012-11-15	10025
+10229	accepted	Polygala hottentotta C.Presl	Polygalaceae	2012-11-15	10229
+10327	accepted	Polystichum sp.	Aspidiaceae	2012-11-15	10327
+10407	accepted	Printzia pyrifolia Less.	Asteraceae	2012-11-15	10407
+10415	accepted	Protea caffra Meisn.	Proteaceae	2012-11-15	10415
+10433	accepted	Protea welwitschii Engl.	Proteaceae	2012-11-15	10433
+10757	accepted	Rhoicissus digitata (L.f.) Gilg & M.Brandt	Vitaceae	2012-11-15	10757
+00145	accepted	Acacia mellifera (Vahl) Benth. subsp. Mellifera	Mimosaceae	2012-11-15	00145
+00315	accepted	Acacia spirocarpa Hochst. ex A.Rich.	Mimosaceae	2012-11-15	00315
+00422	accepted	Acmella caulirhiza Delile	Asteraceae	2012-11-15	00422
+00555	accepted	Aeollanthus sp.	Lamiaceae	2012-11-15	00555
+00757	accepted	Albizia amara subsp. sericocephala (Benth.) Brenan	Fabaceae	2012-11-15	00757
+00905	accepted	Aloe dawei A.Berger	Aloaceae	2012-11-15	00905
+00998	accepted	Aloe tweediae Christian	Aloaceae	2012-11-15	00998
+02385	accepted	Capparis fascicularis DC. var.elaeagnoides	Capparaceae	2012-11-15	02385
+02085	accepted	Bridelia scleroneura Müll.Arg.	Phyllanthaceae	2012-11-15	02085
+02397	accepted	Capparis sp.	Capparaceae	2012-11-15	02397
+02455	accepted	Caralluma dummeri N.E.Br.	Asclepiadaceae	2012-11-15	02455
+02877	accepted	Chasmanthera dependens Hochst.	Menispermaceae	2012-11-15	02877
+03165	accepted	Cissus rotundifolia (Forssk.) Vahl	Vitaceae	2012-11-15	03165
+03225	accepted	Citrus sp.	Rutaceae	2012-11-15	03225
+04015	accepted	Crabbea velutina S. Moore	Acanthaceae	2012-11-15	04015
+04557	accepted	Cyperus fischerianus G.W.Schimp. ex A.Rich.	Cyperaceae	2012-11-15	04557
+04619	accepted	Cyphostemma ukerewense (Gilg) Desc.	Vitaceae	2012-11-15	04619
+05647	accepted	Euphorbia bongensis Kotschy & Peyr. ex Boiss.	Euphorbiaceae	2012-11-15	05647
+05882	accepted	Fagaropsis angolensis (Engl.) Dale	Rutaceae	2012-11-15	05882
+06115	accepted	Gardenia jovis-tonantis (Welw.) Hiern	Rubiaceae	2012-11-15	06115
+06252	accepted	Gnaphalium purpureum L.	Asteraceae	2012-11-15	06252
+06512	accepted	Habenaria lindblomii Schltr.	Orchidaceae	2012-11-15	06512
+06925	accepted	Homoglossum sp.	Iridaceae	2012-11-15	06925
+07565	accepted	Kalanchoe citrina Schweinf.	Crassulaceae	2012-11-15	07565
+07699	accepted	Kleinia odora (Forssk.) A.Berger	Asteraceae	2012-11-15	07699
+07865	accepted	Lannea humilis (Oliv.) Engl.	Anacardiaceae	2012-11-15	07865
+08364	accepted	Maerua edulis (Gilg & Gilg-Ben.) DeWolf	Capparaceae	2012-11-15	08364
+08366	accepted	Maerua parvifolia Pax	Capparaceae	2012-11-15	08366
+08415	accepted	Mammea africana Sabine	Clusiaceae	2012-11-15	08415
+09245	accepted	Opuntia cochenillifera (L.) Mill.	Cactaceae	2012-11-15	09245
+09405	accepted	Papaver somniferum L.	Papavaraceae	2012-11-15	09405
+09982	accepted	Phyllanthus sp.	Phyllanthaceae	2012-11-15	09982
+10417	accepted	Protea gaguedi J.F.Gmel.	Proteaceae	2012-11-15	10417
+11155	accepted	Sansevieria robusta N.E.Br.	Dracaenaceae	2012-11-15	11155
+11165	accepted	Sansevieria suffruticosa N.E.Br.	Dracaenaceae	2012-11-15	11165
+11425	accepted	Sesamum sp.	Pedaliaceae	2012-11-15	11425
+11641	accepted	Solanum giganteum Jacq.	Solanaceae	2012-11-15	11641
+11886	accepted	Sphaeranthus suaveolens (Forssk.) DC.	Asteraceae	2012-11-15	11886
+11888	accepted	Sphaeranthus ukambensis Vatke & O.Hoffm.	Asteraceae	2012-11-15	11888
+12207	accepted	Talinum triangulare (Jacq.) Willd.	Portulacaceae	2012-11-15	12207
+12577	accepted	Trichilia prieuriana subsp. vermoesenii J.J.de Wilde	Meliaceae	2012-11-15	12577
+12667	accepted	Turraea floribunda Hochst.	Meliaceae	2012-11-15	12667
+13095	accepted	Warburgia salutaris (Bertol.f.) Chiov.	Canellaceae	2012-11-15	13095
+05135	accepted	Dregea rubicunda K.Schum.	Apocynaceae	2012-11-15	05135
+01371	synonym	Aristolochia bracteolata Lam.	Aristolochiaceae	2012-11-15	01370
+02701	synonym	Senna sp.	Fabaceae	2012-11-15	02700
+11490	accepted	Sida acuta Burm. f.	Malvaceae	2012-11-15	11490
+01490	accepted	Aspilia mossambicensis (Oliv.) Wild	Asteraceae	2012-11-15	01490
+01273	synonym	Annona chrysophylla Bojer	Annonaceae	2012-11-15	01270
+11420	accepted	Sesamum indicum L.	Pedaliaceae	2012-11-15	11420
+01143	accepted	Amorphophallus gallaensis (Engl.) N.E.Br.	Primulaceae	2012-11-15	01143
+03035	accepted	Cirsium englerianum O.Hoffm.	Asteraceae	2012-11-15	03035
+07205	accepted	Indigofera garckeana Vatke	Fabaceae	2012-11-15	07205
+09775	accepted	Pentas lanceolata (Forssk.) Deflers	Rubiaceae	2012-11-15	09775
+12335	accepted	Tephrosia villosa (L.) Pers.	Fabaceae	2012-11-15	12335
+13193	accepted	Zantedeschia albomaculata (Hook.) Baill.	Araceae	2012-11-15	13193
+00902	accepted	Aloe cooperi Baker	Aloaceae	2012-11-15	00902
+01135	accepted	Ammocharis coranica (Ker Gawl.) Herb.	Amaryllidaceae	2012-11-15	01135
+01461	synonym	Protasparagus virgatus (Bak.) Oberm.	Asparagaceae	2012-11-15	01460
+04085	accepted	Crinum moorei Hook.f.	Amaryllidaceae	2012-11-15	04085
+04091	synonym	Crinum delagoense I.Verd.	Amaryllidaceae	2012-11-15	04090
+02014	accepted	Brachylaena elliptica (Thunb.) DC.	Asteraceae	2012-11-15	02014
+04171	synonym	Croton zambesicus Müll.Arg.	Euphorbiaceae	2012-11-15	04170
+01696	synonym	Bersama abyssinica subsp. engleriana (Gürke) F.White	Melianthaceae	2012-11-15	01695
+02964	accepted	Chromolaena odorata (L.) R.M.King & H.Rob.	Asteraceae	2012-11-15	02964
+07494	accepted	Jatropha gossypiifolia L.	Euphorbiaceae	2012-11-15	07494
+11575	accepted	Solanum americanum Mill.	Solanaceae	2012-11-15	11575
+05131	synonym	Dracaena mannii Baker	Dracaenaceae	2012-11-15	05130
+00423	synonym	Spilanthes filicaulis (Schumach. & Thonn.) C.D.Adams	Asteraceae	2012-11-15	00422
+01725	accepted	Biophytum abyssinicum Steud. ex A.Rich.	Oxalidaceae	2012-11-15	01725
+07543	accepted	Justicia betonica L.	Acanthaceae	2012-11-15	07543
+09776	accepted	Pentas lanceolata subsp. quartiniana (A.Rich.) Verdc.	Rubiaceae	2012-11-15	09776
+09981	accepted	Phyllanthus sepialis Müll.Arg.	Phyllanthaceae	2012-11-15	09981
+12170	accepted	Syzygium guineense (Willd.) DC.	Myrtaceae	2012-11-15	12170
+00600	accepted	Aframomum melegueta (Roscoe) K.Schum.	Zingiberaceae	2012-11-15	00600
+00610	accepted	Aframomum sanguineum (K. Schum.) K. Schum.	Zingiberaceae	2012-11-15	00610
+00630	accepted	Aframomum sulcatum (Oliv. et Hanb.) K. Schum.	Zingiberaceae	2012-11-15	00630
+00650	accepted	Afzelia africana Smith ex Pers.	Fabaceae	2012-11-15	00650
+00660	accepted	Afzelia quanzensis Welw.	Fabaceae	2012-11-15	00660
+00670	accepted	Agauria salicifolia (Comm. ex Lam.) Hook.f. ex Oliv.	Ericaceae	2012-11-15	00670
+00680	accepted	Agave americana L.	Agavaceae	2012-11-15	00680
+00690	accepted	Agave sisalana Perr.	Agavaceae	2012-11-15	00690
+00700	accepted	Ageratum conyzoides L.	Asteraceae	2012-11-15	00700
+00710	accepted	Agrimonia eupatoria L.	Rosaceae	2012-11-15	00710
+00720	accepted	Aidia micrantha (K. Schum.) F. White	Rubiaceae	2012-11-15	00720
+00730	accepted	Ajuga integrifolia Buch-Ham	Lamiaceae	2012-11-15	00730
+00740	accepted	Ajuga remota Benth.	Lamiaceae	2012-11-15	00740
+00750	accepted	Alangium chinense (Lour.) Harms	Alangiaceae	2012-11-15	00750
+00770	accepted	Albizia chinensis (Osbeck) Merrill	Fabaceae	2012-11-15	00770
+00780	accepted	Albizia coriaria  Welw. ex  Oliv.	Fabaceae	2012-11-15	00780
+00790	accepted	Albizia grandibracteata Taub.	Fabaceae	2012-11-15	00790
+00795	accepted	Albizia petersiana (Bolle) Oliv.	Fabaceae	2012-11-15	00795
+00800	accepted	Albizia zygia (DC.) J.F. Macbr.	Fabaceae	2012-11-15	00800
+00810	accepted	Albuca cooperi Bak.	Hyacinthaceae	2012-11-15	00810
+05640	accepted	Euphorbia balsamifera Ait.	Euphorbiaceae	2012-11-15	05640
+05641	synonym	Euphorbia sepium N. E. Br.	Euphorbiaceae	2012-11-15	05640
+07690	accepted	Kigelia africana (Lam.) Benth.	Bignoniaceae	2012-11-15	07690
+07691	synonym	Kigelia pinnata (Jacq.) DC.	Bignoniaceae	2012-11-15	07690
+06220	accepted	Gloriosa superba L.	Colchicaceae	2012-11-15	06220
+06250	accepted	Glycine wightii (Wight & Arn.) Verdc.	Lamiaceae	2012-11-15	06250
+04051	synonym	Gynura vitellina Benth.	Asteraceae	2012-11-15	04050
+04050	accepted	Crassocephalum vitellinum (Benth.) S. Moore	Asteraceae	2012-11-15	04050
+01710	accepted	Bersama tysoniana Oliv.	Melianthaceae	2012-11-15	01710
+01720	accepted	Bidens pilosa L.	Asteraceae	2012-11-15	01720
+01730	accepted	Biophytum helenae Buscal. & Muschl.	Oxalidaceae	2012-11-15	01730
+01740	accepted	Biophytum petersianum Klotzch	Oxalidaceae	2012-11-15	01740
+01750	accepted	Biophytum zenkeri Guill.	Oxalidaceae	2012-11-15	01750
+01760	accepted	Blepharis integrifolia (L.f.) E.Meyer	Acanthaceae	2012-11-15	01760
+01770	accepted	Blepharis linariifolia Pers.	Acanthaceae	2012-11-15	01770
+01771	synonym	Blepharis hirta Hochst. ex  Nees	Acanthaceae	2012-11-15	01770
+01780	accepted	Blepharispermum pubescens S. Moore	Asteraceae	2012-11-15	01780
+01790	accepted	Blighia sapida Koenig	Sapindaceae	2012-11-15	01790
+01800	accepted	Blumea alata (D. Don) DC.	Asteraceae	2012-11-15	01800
+01810	accepted	Boerhavia plumbaginea  Cav.	Nyctaginaceae	2012-11-15	01810
+01820	accepted	Bombax costatum Pellegr. & Vuill.	Bombacaceae	2012-11-15	01820
+02020	accepted	Brachystegia boehmii Taub.	Fabaceae	2012-11-15	02020
+02040	accepted	Brassica juncea (L.) Czernj. & Coss.	Brassicaceae	2012-11-15	02040
+02561	synonym	Senna alata L.	Fabaceae	2012-11-15	02560
+02010	accepted	Brachiaria sp.	Poaceae	2012-11-15	02010
+08420	accepted	Mammea americana L.	Clusiaceae	2012-11-15	08420
+08430	accepted	Mangifera indica L.	Anacardiaceae	2012-11-15	08430
+08480	accepted	Marsdenia cordifolia Choux	Apocynaceae	2012-11-15	08480
+08665	accepted	Millettia ferruginea (Hochst.) Baker	Fabaceae	2012-11-15	08665
+10405	accepted	Prenanthes subpeltata Stebbins	Asteraceae	2012-11-15	10405
+08205	accepted	Lobelia rhynchopetalum (Hochst. ex A.Rich.) Hemsl.	Lobeliaceae	2012-11-15	08205
+08285	accepted	Lotus corniculatus L.	Fabaceae	2012-11-15	08285
+08055	accepted	Leonotis ocymifolia (Burm.f.) Iwarsson	Lamiaceae	2012-11-15	08055
+07615	accepted	Kalanchoe petitiana A.Rich.	Crassulaceae	2012-11-15	07615
+12900	accepted	Vernonia myriantha Hook.f.	Asteraceae	2012-11-15	12900
+11533	accepted	Silene macrosolen Steud. ex A.Rich.	Caryophyllaceae	2012-11-15	11533
+00550	accepted	Adiantum poiretii Wikstr.	Pteridaceae	2012-11-15	00550
+02260	accepted	Calpurnia aurea (Ait.) Benth.	Fabaceae	2012-11-15	02260
+03281	synonym	Clematopsis villosa (DC.) Hutch.	Ranunculaceae	2012-11-15	03280
+12120	accepted	Synadenium compactum  L.E.Br.	Euphorbiaceae	2012-11-15	12120
+12140	accepted	Synadenium sp.	Euphorbiaceae	2012-11-15	12140
+12150	accepted	Synadenium volkensii Pax	Euphorbiaceae	2012-11-15	12150
+12172	accepted	Syzygium guineense subsp. macrocarpum (Engl.) F.White	Myrtaceae	2012-11-15	12172
+12180	accepted	Tabernaemontana stapfiana Britten	Apocynaceae	2012-11-15	12180
+12200	accepted	Tagetes minuta L.	Asteraceae	2012-11-15	12200
+12210	accepted	Tamaricacia sp.	ZZ	2012-11-15	12210
+12230	accepted	Tamarix aphylla L.	Tamaricaceae	2012-11-15	12230
+12240	accepted	Tamarix sp.	Tamaricaceae	2012-11-15	12240
+12250	accepted	Tapinanthus bangwensis (Engl. & Krause) Danser	Loranthaceae	2012-11-15	12250
+13010	accepted	Vigna unguiculata (L.) A. Walp.	Fabaceae	2012-11-15	13010
+13030	accepted	Virectaria major (Schum.) Verdc.	Rubiaceae	2012-11-15	13030
+13040	accepted	Vitex doniana Sweet	Verbenaceae	2012-11-15	13040
+13050	accepted	Vitex madiensis Oliv.	Verbenaceae	2012-11-15	13050
+13060	accepted	Vitex sp.	Verbenaceae	2012-11-15	13060
+13070	accepted	Vitex thomasii De Wild.	Verbenaceae	2012-11-15	13070
+13080	accepted	Volkensia glomerata O. Hoffm.	Asteraceae	2012-11-15	13080
+13100	accepted	Warburgia ugandensis Sprague	Canellaceae	2012-11-15	13100
+13110	accepted	Watsonia densiflora Bak.	Iridaceae	2012-11-15	13110
+12820	accepted	Vernonia auriculifera Hiern	Asteraceae	2012-11-15	12820
+12840	accepted	Vernonia corymbosa Less.	Asteraceae	2012-11-15	12840
+12850	accepted	Vernonia exertiflora Back	Asteraceae	2012-11-15	12850
+12860	accepted	Vernonia guineensis Benth.	Asteraceae	2012-11-15	12860
+12880	accepted	Vernonia kirungae  R. E. Fries	Asteraceae	2012-11-15	12880
+12905	accepted	Vernonia nigritiana  Oliv. & Hiern	Asteraceae	2012-11-15	12905
+12920	accepted	Vernonia pogosperma Klatt	Asteraceae	2012-11-15	12920
+12940	accepted	Vernonia sp.	Asteraceae	2012-11-15	12940
+12960	accepted	Vernonia thomsoniana  Oliv. & Hiern	Asteraceae	2012-11-15	12960
+12980	accepted	Vicia paucifolia Bak.	Fabaceae	2012-11-15	12980
+12990	accepted	Vigna esculenta (De Wild.) De Wild.	Fabaceae	2012-11-15	12990
+13000	accepted	Vigna parkeri  Bak. subsp. maranguensis (Taubert)	Fabaceae	2012-11-15	13000
+09030	accepted	Nepeta azurea R. Br. ex  Benth.	Lamiaceae	2012-11-15	09030
+09090	accepted	Nothosaerva brachiata (L.) Wight	Amaranthaceae	2012-11-15	09090
+09100	accepted	Nuxia congesta Fresen.	Loganiaceae	2012-11-15	09100
+09110	accepted	Nymphaea calliantha Conard	Nymphaeaceae	2012-11-15	09110
+09120	accepted	Nymphaea lotus L.	Nymphaeaceae	2012-11-15	09120
+09140	accepted	Ochna sp.	Ochnaceae	2012-11-15	09140
+09160	accepted	Ocimum basilicum L.	Lamiaceae	2012-11-15	09160
+09175	accepted	Ocimum kilimandscharicum Baker ex Gürke	Lamiaceae	2012-11-15	09175
+09191	synonym	Ocimum viride Willd.	Lamiaceae	2012-11-15	09190
+09201	synonym	Stephanorossia palustris Chiov.	Apiaceae	2012-11-15	09200
+09210	accepted	Oldenlandia herbacea (L.) Roxb.	Rubiaceae	2012-11-15	09210
+09220	accepted	Oldfieldia dactylophylla (Welw. ex Oliv.) J. Léon	Euphorbiaceae	2012-11-15	09220
+09230	accepted	Olea africana Miller	Oleaceae	2012-11-15	09230
+11461	synonym	Sesbania aegyptiaca auct. plur. pro majore parte, non Pers.	Fabaceae	2012-11-15	11460
+11492	synonym	Sida stipulata Cav.	Malvaceae	2012-11-15	11490
+11500	accepted	Sida alba L.	Malvaceae	2012-11-15	11500
+11491	synonym	Sida carpinifolia L.f.	Malvaceae	2012-11-15	11490
+11530	accepted	Sida rhombifolia L.	Malvaceae	2012-11-15	11530
+11541	synonym	Solanum aculeastrum Dunal var. albifolium (C.H.Wright) Bitter	Solanaceae	2012-11-15	11540
+11570	accepted	Solanum aethiopicum L.	Solanaceae	2012-11-15	11570
+11600	accepted	Solanum capsicoides Allioni	Solanaceae	2012-11-15	11600
+11601	synonym	Solanum aculeatissimum Jacq.	Solanaceae	2012-11-15	11600
+11620	accepted	Solanum dasyphyllum Schumach. & Thonn.	Solanaceae	2012-11-15	11620
+11621	synonym	Solanum duplosinuatum Klotzsch	Solanaceae	2012-11-15	11620
+11652	synonym	Solanum coagulans Forssk.	Solanaceae	2012-11-15	11650
+11651	synonym	Solanum melongena L. var. incanum (L.) Kuntze	Solanaceae	2012-11-15	11650
+10450	accepted	Pseudarthria hookeri Wight & Arn.	Fabaceae	2012-11-15	10450
+11680	accepted	Solanum marginatum L. f.	Solanaceae	2012-11-15	11680
+13311	synonym	Ziziphus africana P. Mill.	Rhamnaceae	2012-11-15	13310
+13310	accepted	Ziziphus spina-christi  (L.) Desf.	Rhamnaceae	2012-11-15	13310
+10661	synonym	Achyranthes atropurpurea Lam.	Amaranthaceae	2012-11-15	10660
+12028	accepted	Striga sp.	Scrophulariaceae	2012-11-15	12028
+12720	accepted	Urena lobata L.	Malvaceae	2012-11-15	12720
+11100	accepted	Salvadora persica L.	Salvadoraceae	2012-11-15	11100
+11030	accepted	Salix safsaf Forssk.	Salicaceae	2012-11-15	11030
+05270	accepted	Elaeis guineensis Jacq.	Palmae	2012-11-15	05270
+05280	accepted	Elaeodendron buchananii (Loes.) Loes.	Celastraceae	2012-11-15	05280
+05290	accepted	Elephantopus plurisetus (O. Hoffm.) Clonts	Asteraceae	2012-11-15	05290
+04880	accepted	Dioscorea sylvatica Eckl.	Dioscoreaceae	2012-11-15	04880
+04890	accepted	Diospyros mespiliformis Hochst. ex  DC.	Ebenaceae	2012-11-15	04890
+04910	accepted	Diplolophium africanum Turcz.	Apiaceae	2012-11-15	04910
+04922	synonym	Diplorhynchus angustifolia Stapf	Apocynaceae	2012-11-15	04920
+04921	synonym	Diplorhynchus angolensis Büttner	Apocynaceae	2012-11-15	04920
+07020	accepted	Hypoestes forskalaei (Vahl) Sol. ex Roemer & Schul	Acanthaceae	2012-11-15	07020
+07471	synonym	Jasminum grandiflorum L. subsp. floribundum (R.Br. ex Fresen.) P.S.Green	Oleaceae	2012-11-15	07470
+05790	accepted	Euphorbia prostrata Ait.	Euphorbiaceae	2012-11-15	05790
+05830	accepted	Euphorbia tirucalli L.	Euphorbiaceae	2012-11-15	05830
+05831	synonym	Euphorbia laro Drake	Euphorbiaceae	2012-11-15	05830
+05840	accepted	Euphorbia triaculeata Forst.	Euphorbiaceae	2012-11-15	05840
+05860	accepted	Evolvulus alsinoides (L.) L.	Convolvulaceae	2012-11-15	05860
+05870	accepted	Fagara chalybea (Engl.) Engl.	Rutaceae	2012-11-15	05870
+05390	accepted	Entadopsis abyssinica (Steud. ex A. Rich.) Gilbert	Fabaceae	2012-11-15	05390
+03852	synonym	Erigeron floribundus (Kunth) Schults - Bip.	Asteraceae	2012-11-15	03850
+12440	accepted	Thunbergia lancifolia T. Anders.	Acanthaceae	2012-11-15	12440
+04251	synonym	Cucumis figarei Del. ex Naud.	Cucurbitaceae	2012-11-15	04250
+04261	synonym	Cucumis cognatus Cogn.	Cucurbitaceae	2012-11-15	04260
+04270	accepted	Cucumis metuliferus E.Mey. ex Naudin	Cucurbitaceae	2012-11-15	04270
+04290	accepted	Cucumis sp.	Cucurbitaceae	2012-11-15	04290
+04310	accepted	Cucurbita pepo L.	Cucurbitaceae	2012-11-15	04310
+04330	accepted	Cuminum cyminum L.	Apiaceae	2012-11-15	04330
+04340	accepted	Cupressus lusitanica Mill.	Cupressaceae	2012-11-15	04340
+04350	accepted	Curculigo pilosa (Schumach. & Thonn.) Engl.	Hypoxidaceae	2012-11-15	04350
+03380	accepted	Clitoria ternatea L.	Fabaceae	2012-11-15	03380
+03390	accepted	Clutia abyssinica Jaub. & Spach.	Euphorbiaceae	2012-11-15	03390
+03391	synonym	Clutia abyssinica vars. calvescens (partly) firma	Euphorbiaceae	2012-11-15	03390
+10060	accepted	Pimpinella hirtella A.Rich.	Apiaceae	2012-11-15	10060
+10070	accepted	Piper capense L. f.	Piperaceae	2012-11-15	10070
+10090	accepted	Pisolithus sp.	Sclerodermataceae	2012-11-15	10090
+10100	accepted	Pisum sativum L.	Fabaceae	2012-11-15	10100
+10811	synonym	Rhus incana Brenan	Anacardiaceae	2012-11-15	10810
+10820	accepted	Rhynchelytrum repens (Willd.) Hubb.	Poaceae	2012-11-15	10820
+10840	accepted	Rhynchosia malacophylla  (Spreng.) Boj.	Fabaceae	2012-11-15	10840
+09180	accepted	Ocimum lamiifolium  Hochst. ex Benth.	Lamiaceae	2012-11-15	09180
+09190	accepted	Ocimum suave Willd.	Lamiaceae	2012-11-15	09190
+11160	accepted	Sansevieria sp.	Dracaenaceae	2012-11-15	11160
+11211	synonym	Schouwia schimperi Jaub. et Spach	Brassicaceae	2012-11-15	11210
+11480	accepted	Setaria megaphylla (Steud.) Dur. & Schinz	Poaceae	2012-11-15	11480
+06765	accepted	Hermannia coccocarpa K. Schum.	Malvaceae	2012-11-15	06765
+07698	accepted	Kiggelaria africana L.	Flacourtiaceae	2012-11-15	07698
+02067	accepted	Bridelia cathartica Bertol.f.	Phyllanthaceae	2012-11-15	02067
+11485	accepted	Setaria verticillata (L.) P.Beauv.	Poaceae	2012-11-15	11485
+12115	accepted	Symphonia globulifera L. f.	Clusiaceae	2012-11-15	12115
+04555	accepted	Cyperus bequaertii (Cherm.) Robyns & Tournay	Cyperaceae	2012-11-15	04555
+06047	accepted	Ficus vasta Forssk.	Moraceae	2012-11-15	06047
+08935	accepted	Myrianthus holstii Engl.	Moraceae	2012-11-15	08935
+09965	accepted	Phyllanthus niruri auct.	Phyllanthaceae	2012-11-15	09965
+04815	accepted	Dioscorea bulbifera L.	Dioscoreaceae	2012-11-15	04815
+00820	accepted	Alchornea cordifolia (Schum. & Thonn.) Müll. Arg.	Euphorbiaceae	2012-11-15	00820
+01315	accepted	Anthocleista grandiflora Gilg	Gentianaceae	2012-11-15	01315
+00825	accepted	Alchornea hirtella Benth.	Euphorbiaceae	2012-11-15	00825
+00595	accepted	Aframomum laurentii (De Wild. & T.Durand) K.Schum.	Zingiberaceae	2012-11-15	00595
+00792	accepted	Albizia gummifera (J.F.Gmel.) C.A.Sm.	Fabaceae	2012-11-15	00792
+03995	accepted	Costus dewevrei de Wild. & Th. Dur.	Costaceae	2012-11-15	03995
+04285	accepted	Cucumis sativus L.	Cucurbitaceae	2012-11-15	04285
+04397	accepted	Cyanotis lanata Benth.	Commelinaceae	2012-11-15	04397
+07765	accepted	Lactuca schimperi Jaub. & Spach	Asteraceae	2012-11-15	07765
+08058	accepted	Lepidium divaricatum Aiton	Brassicaceae	2012-11-15	08058
+08485	accepted	Matricaria chamomilla auct.	Asteraceae	2012-11-15	08485
+08675	accepted	Mirabilis jalapa L.	Nyctaginaceae	2012-11-15	08675
+08023	accepted	Leea guineensis G. Don	Leeaceae	2012-11-15	08023
+10228	accepted	Polycephalium lobatum (Pierre) Pierre ex Engl.	Icacinaceae	2012-11-15	10228
+12403	accepted	Tetrapleura tetraptera (Schumach. & Thonn.) Taub.	Fabaceae	2012-11-15	12403
+00875	accepted	Aloe babatiensis Christian & I.Verd.	Aloaceae	2012-11-15	00875
+01025	accepted	Alstonia congensis Engl.	Apocynaceae	2012-11-15	01025
+02758	accepted	Cedrela odorata L.	Meliaceae	2012-11-15	02758
+05415	accepted	Erianthemum dregei (Eckl & Zeyh) V. Tiegh	Loranthaceae	2012-11-15	05415
+10825	accepted	Rhynchosia ferruginea A. Rich	Fabaceae	2012-11-15	10825
+11287	accepted	Secamone parvifolia (Oliv.) Bullock	Apocynaceae	2012-11-15	11287
+02651	synonym	Senna petersiana (Bolle) Lock	Fabaceae	2012-11-15	02650
+11525	accepted	Sida ovata Forssk.	Malvaceae	2012-11-15	11525
+12475	accepted	Tinospora caffra (Miers) Troupin	Menispermaceae	2012-11-15	12475
+13035	accepted	Viscum tuberculatum A.	Viscaceae	2012-11-15	13035
+13135	accepted	Woodfordia uniflora (A. Rich.) Koehne	Lythraceae	2012-11-15	13135
+00588	accepted	Aframomum corrorima (Braun) P.C.M. Jansen	Zingiberaceae	2012-11-15	00588
+13221	synonym	Fagara macrophylla (Oliv.) Engl.	Rutaceae	2012-11-15	13220
+11051	synonym	Salsola rubescens Franch.	Chenopodiaceae	2012-11-15	11050
+00471	synonym	Adansonia sphaerocarpa A.Chev.	Bombacaceae	2012-11-15	00470
+00534	synonym	Adenium honghel A.DC.	Apocynaceae	2012-11-15	00530
+00530	accepted	Adenium multiflorum Klotzsch	Apocynaceae	2012-11-15	00530
+01270	accepted	Annona senegalensis Pers.	Annonaceae	2012-11-15	01270
+01661	synonym	Basella rubra L.	Basellaceae	2012-11-15	01660
+02045	accepted	Brassica oleracea L.	Brassicaceae	2012-11-15	02045
+03911	synonym	Corchorus somalicus Gandorger	Tiliaceae	2012-11-15	03910
+03712	synonym	Balsamea pilosa Engl.	Burseraceae	2012-11-15	03710
+10171	synonym	Plectranthus villosus T. Cooke	Lamiaceae	2012-11-15	10170
+12255	accepted	Tapinanthus sp.	Loranthaceae	2012-11-15	12255
+04023	synonym	Solanecio angulatus (Vahl) C.Jeffrey	Asteraceae	2012-11-15	04020
+02621	synonym	Chamaecrista mimosoides (L.) Greene	Fabaceae	2012-11-15	02620
+02302	synonym	Canavalia africana Dunn	Fabaceae	2012-11-15	02300
+09233	synonym	Olea europaea L. subsp. cuspidata (Wall. ex G.Don) Cif.	Oleaceae	2012-11-15	09232
+10441	synonym	Pygeum africanum Hook. f.	Rosaceae	2012-11-15	10440
+09685	accepted	Pennisetum glaucum (L.) R.Br.	Poaceae	2012-11-15	09685
+12365	accepted	Terminalia catappa L.	Combretaceae	2012-11-15	12365
+02180	accepted	Cadaba glandulosa Forssk.	Capparaceae	2012-11-15	02180
+02380	accepted	Capparis erythrocarpus Isert	Capparaceae	2012-11-15	02380
+02390	accepted	Capparis galeata Fres.	Capparaceae	2012-11-15	02390
+02200	accepted	Caesalpinia decapetala (Roth) Alston	Fabaceae	2012-11-15	02200
+02220	accepted	Calligonum comosum L' Hérit.	Polygonaceae	2012-11-15	02220
+02230	accepted	Callilepis laureola DC.	Asteraceae	2012-11-15	02230
+02240	accepted	Calophyllum inophyllum Lam.	Clusiaceae	2012-11-15	02240
+01980	accepted	Bothriocline longipes (Oliv. & Hiern ) N.E.Br.	Asteraceae	2012-11-15	01980
+01981	synonym	Erlangea spissa S. Moore	Asteraceae	2012-11-15	01980
+01990	accepted	Bothriocline ugandensis (S. Moore) M. Gilbert	Asteraceae	2012-11-15	01990
+02000	accepted	Brachiaria ruziziensis  Germain & Evrard	Poaceae	2012-11-15	02000
+01590	accepted	Bafodeya benna (Sc. Elliot) Prance	Rosaceae	2012-11-15	01590
+01610	accepted	Balanites orbicularis Sprague	Zygophyllaceae	2012-11-15	01610
+01620	accepted	Balanites rotundifolia (Tiegh.) Blatt.	Zygophyllaceae	2012-11-15	01620
+01630	accepted	Barleria acanthoides Vahl	Acanthaceae	2012-11-15	01630
+00950	accepted	Aloe kedongensis Reynolds	Aloaceae	2012-11-15	00950
+00960	accepted	Aloe lateritia Engl.	Aloaceae	2012-11-15	00960
+00970	accepted	Aloe saponaria (Aiton) Haw.	Aloaceae	2012-11-15	00970
+00980	accepted	Aloe secundiflora Engl.	Aloaceae	2012-11-15	00980
+01001	synonym	Aloe vulgaris Lam.	Aloaceae	2012-11-15	01000
+01010	accepted	Aloe volkensii  Engl.	Aloaceae	2012-11-15	01010
+01020	accepted	Aloe wilsonii Reynolds	Aloaceae	2012-11-15	01020
+01040	accepted	Alysicarpus glumaceus (Vahl) DC.	Fabaceae	2012-11-15	01040
+01050	accepted	Alysicarpus rugosus (Willd.) DC.	Fabaceae	2012-11-15	01050
+01060	accepted	Amaranthus graecizans L.	Amaranthaceae	2012-11-15	01060
+01070	accepted	Amaranthus hybridus L.	Amaranthaceae	2012-11-15	01070
+01080	accepted	Amaranthus lividus L.	Amaranthaceae	2012-11-15	01080
+01100	accepted	Amaranthus spinosus L.	Amaranthaceae	2012-11-15	01100
+01110	accepted	Amaranthus viridis L.	Amaranthaceae	2012-11-15	01110
+04970	accepted	Dissotis trothae Gilg	Melastomataceae	2012-11-15	04970
+02820	accepted	Celtis africana  Burm. f.	Ulmaceae	2012-11-15	02820
+02860	accepted	Ceratotheca sesamoides Endl.	Pedaliaceae	2012-11-15	02860
+02861	synonym	Sesamum heudelotii Stapf	Pedaliaceae	2012-11-15	02860
+02940	accepted	Chenopodium procerum  Hochst. ex  Moq.	Chenopodiaceae	2012-11-15	02940
+02950	accepted	Chenopodium sp.	Chenopodiaceae	2012-11-15	02950
+02980	accepted	Chrysanthemum cinerariifolium (Trevir.) Vis.	Asteraceae	2012-11-15	02980
+03000	accepted	Cinchona ledgeriana Moens	Rubiaceae	2012-11-15	03000
+00430	accepted	Acokanthera schimperi (A.DC.) Schweinf.	Apocynaceae	2012-11-15	00430
+05960	accepted	Ficus gnaphalocarpa (Miq.) Steud. ex A. Rich.	Moraceae	2012-11-15	05960
+06000	accepted	Ficus platyphylla Del.	Moraceae	2012-11-15	06000
+05380	accepted	Entada stuhlmannii (Taub.) Harms	Fabaceae	2012-11-15	05380
+05400	accepted	Eragrostis olivacea  K. Schumach.	Poaceae	2012-11-15	05400
+05410	accepted	Eragrostis tremula Steud.	Poaceae	2012-11-15	05410
+05430	accepted	Eriosema montanum Bak. f.	Fabaceae	2012-11-15	05430
+05440	accepted	Eriosema parviflorum E. Mey. sensu FWTA.	Fabaceae	2012-11-15	05440
+05460	accepted	Eriosema salignum E. Mey.	Fabaceae	2012-11-15	05460
+05470	accepted	Eriospermum abyssinicum Bak.	Eriospermaceae	2012-11-15	05470
+02870	accepted	Ceropegia aristolochioides Decne.	Asclepiadaceae	2012-11-15	02870
+03730	accepted	Commiphora fischeri Engl.	Burseraceae	2012-11-15	03730
+03740	accepted	Commiphora habessinica (O. Berg) Engl.	Burseraceae	2012-11-15	03740
+10440	accepted	Prunus africana (Hook. f.) Kalkman	Rosaceae	2012-11-15	10440
+10460	accepted	Pseudocedrela kotschyi  (Schweinf.) Harms	Meliaceae	2012-11-15	10460
+04625	accepted	Dalbergia lactea Vatke	Fabaceae	2012-11-15	04625
+04680	accepted	Derris elliptica (Sweet) Benth.	Fabaceae	2012-11-15	04680
+04700	accepted	Detarium senegalense J.F.Gmel.	Fabaceae	2012-11-15	04700
+11640	accepted	Solanum dennekense Dammer	Solanaceae	2012-11-15	11640
+11653	synonym	Solanum sanctum L.	Solanaceae	2012-11-15	11650
+11230	accepted	Scilla sp.	Hyacinthaceae	2012-11-15	11230
+01188	accepted	Anchomanes difformis (Bl.) Engl.	Araceae	2012-11-15	01188
+06295	accepted	Gossypium barbadense L.	Malvaceae	2012-11-15	06295
+11320	accepted	Senecio latifolius DC.	Asteraceae	2012-11-15	11320
+11710	accepted	Solanum nigrum L.	Solanaceae	2012-11-15	11710
+11750	accepted	Solanum spinosum ?	Solanaceae	2012-11-15	11750
+11770	accepted	Solanum tuberosum L.	Solanaceae	2012-11-15	11770
+02142	synonym	Butyrospermum parkii (G. Don) Kotschy	Sapotaceae	2012-11-15	02140
+02143	synonym	Vitellaria paradoxa Gaertner f.	Sapotaceae	2012-11-15	02140
+01960	accepted	Boswellia hildebrandtii Engl.	Burseraceae	2012-11-15	01960
+01991	synonym	Erlangea ugandensis S. Moore	Asteraceae	2012-11-15	01990
+05165	accepted	Dryopteris inaequalis (Schlecht.) Kuntze	Dryopteridaceae	2012-11-15	05165
+11787	accepted	Sonchus bipontini Asch.	Asteraceae	2012-11-15	11787
+11315	accepted	Senecio fresenii Sch. Bip.	Asteraceae	2012-11-15	11315
+12965	accepted	Veronica gunae Schweinf. ex Skan	Plantaginaceae	2012-11-15	12965
+11538	accepted	Solanecio gigas (Vatke) C.Jeffrey	Asteraceae	2012-11-15	11538
+11107	accepted	Salvia merjamie Forssk.	Lamiaceae	2012-11-15	11107
+11531	accepted	Sida schimperiana Hochst. ex A.Rich.	Malvaceae	2012-11-15	11531
+11355	accepted	Senecio ragazzii Chiov.	Asteraceae	2012-11-15	11355
+04928	accepted	Discopodium eremanthum Chiov.	Solanaceae	2012-11-15	04928
+04065	accepted	Crepis rueppellii Sch. Bip.	Asteraceae	2012-11-15	04065
+04415	accepted	Cycniopsis humifusa (Forssk.) Engl.	Scrophulariaceae	2012-11-15	04415
+09850	accepted	Periploca linearifolia  Dill. & A. Rich.	Apocynaceae	2012-11-15	09850
+09860	accepted	Periploca nigrescens Afz.	Apocynaceae	2012-11-15	09860
+09880	accepted	Persea americana Mill.	Lauraceae	2012-11-15	09880
+09890	accepted	Peucedanum angolense (Welw.) Cannon	Apiaceae	2012-11-15	09890
+09920	accepted	Phoenix reclinata Jacq.	Palmae	2012-11-15	09920
+09930	accepted	Phoenix sp.	Palmae	2012-11-15	09930
+09940	accepted	Phyllanthus amarus Schumach. & Thonn.	Phyllanthaceae	2012-11-15	09940
+09971	synonym	Phyllanthus capillaris Schumach. & Thonn.	Phyllanthaceae	2012-11-15	09970
+11170	accepted	Sarcobotrya strigosa (Benth) R. Vig.	Fabaceae	2012-11-15	11170
+07460	accepted	Jasminum dichotomum  Vahl	Oleaceae	2012-11-15	07460
+07480	accepted	Jasminum fluminense  Vell.	Oleaceae	2012-11-15	07480
+07505	accepted	Jatropha zeyheri Sond.	Euphorbiaceae	2012-11-15	07505
+07500	accepted	Jatropha sp.	Euphorbiaceae	2012-11-15	07500
+07510	accepted	Julbernardia globifera (Benth.) Troupin	Fabaceae	2012-11-15	07510
+07520	accepted	Juniperus phoenicea L.	Cupressaceae	2012-11-15	07520
+07530	accepted	Juniperus procera Hochst.  ex  A. Rich.	Cupressaceae	2012-11-15	07530
+07540	accepted	Juniperus sp.	Cupressaceae	2012-11-15	07540
+12550	accepted	Trianthema crystallina (Forssk.) Vahl	Aizoaceae	2012-11-15	12550
+04651	synonym	Datura alba (Bernh.) Rumph. ex  Nees	Solanaceae	2012-11-15	04650
+04830	accepted	Dioscorea dumetorum (Kunth) Pax	Dioscoreaceae	2012-11-15	04830
+04850	accepted	Dioscorea schimperiana Hochst. ex  Kunth	Dioscoreaceae	2012-11-15	04850
+04800	accepted	Dioscorea  sp.	Dioscoreaceae	2012-11-15	04800
+02640	accepted	Cassia occidentalis L.	Fabaceae	2012-11-15	02640
+03330	accepted	Clerodendrum johnstonii Oliv.	Verbenaceae	2012-11-15	03330
+06760	accepted	Heliotropium steudneri Vatke	Boraginaceae	2012-11-15	06760
+06790	accepted	Hibiscus asper Hook. f.	Malvaceae	2012-11-15	06790
+06800	accepted	Hibiscus calyphyllus Cav.	Malvaceae	2012-11-15	06800
+10290	accepted	Polygonum senegalense  Meisn.	Polygonaceae	2012-11-15	10290
+03900	accepted	Corchorus tridens L.	Tiliaceae	2012-11-15	03900
+03920	accepted	Cordia abyssinica R. Br.	Boraginaceae	2012-11-15	03920
+03941	synonym	Cordia sinensis Lam.	Boraginaceae	2012-11-15	03940
+03961	accepted	Cordia ovalis R.Br. ex A.DC.	Boraginaceae	2012-11-15	03961
+04000	accepted	Costus ligularis Bak.	Costaceae	2012-11-15	04000
+04022	synonym	Senecio subscandens Hochst. ex A. Rich.	Asteraceae	2012-11-15	04020
+04021	synonym	Senecio bojeri DC.	Asteraceae	2012-11-15	04020
+04030	accepted	Crassocephalum bumbense S. Moore	Asteraceae	2012-11-15	04030
+04031	synonym	Crassocephalum montuosum (S. Moore) Milne-Redh.	Asteraceae	2012-11-15	04030
+04040	accepted	Crassocephalum mannii  (Hook.f.) Milne-Redh.	Asteraceae	2012-11-15	04040
+04041	synonym	Crassocephalum multicorymbosum (Kl.) S. Moore Hook	Asteraceae	2012-11-15	04040
+04042	synonym	Senecio mannii Hook. f.	Asteraceae	2012-11-15	04040
+01230	accepted	Andropogon ischaemum L.	Poaceae	2012-11-15	01230
+01240	accepted	Andropogon sp.	Poaceae	2012-11-15	01240
+00160	accepted	Acacia neglecta Maiden & R.T.Baker	Mimosaceae	2012-11-15	00160
+00135	accepted	Acacia mearnsii De Wild.	Mimosaceae	2012-11-15	00135
+00141	synonym	Acacia senegal (L.) Willd. subsp. mellifera (Vahl)	Mimosaceae	2012-11-15	00140
+00181	synonym	Acacia arabica Willd.	Mimosaceae	2012-11-15	00180
+00035	accepted	Abutilon mauritianum (Jacq.) Medik.	Malvaceae	2012-11-15	00035
+12490	accepted	Tithonia diversifolia (Hemsley) A. Gray	Asteraceae	2012-11-15	12490
+13300	accepted	Ziziphus sp.	Rhamnaceae	2012-11-15	13300
+13330	accepted	Ziziphus zeyherana Sond.	Rhamnaceae	2012-11-15	13330
+08140	accepted	Lezernia inermis ?	ZZ	2012-11-15	08140
+08151	synonym	Lippia multiflora Moldenke	Verbenaceae	2012-11-15	08150
+08160	accepted	Lippia sp.	Verbenaceae	2012-11-15	08160
+08170	accepted	Lobelia giberroa Hemsl.	Lobeliaceae	2012-11-15	08170
+08200	accepted	Lobelia mildbraedii Engl.	Lobeliaceae	2012-11-15	08200
+08210	accepted	Lobelia wollastonii Bak.f.	Lobeliaceae	2012-11-15	08210
+08220	accepted	Lolium sp.	Poaceae	2012-11-15	08220
+08260	accepted	Loranthus acaciae Zucc.	Loranthaceae	2012-11-15	08260
+08270	accepted	Loranthus sp.	Loranthaceae	2012-11-15	08270
+08280	accepted	Loranthus zizyphifolius Engl.	Loranthaceae	2012-11-15	08280
+08290	accepted	Loudetia simplex  (Nees) Hubb.	Poaceae	2012-11-15	08290
+08300	accepted	Ludwigia abyssinica A. Rich.	Onagraceae	2012-11-15	08300
+08320	accepted	Lycopodium clavatum L.	Lycopodiaceae	2012-11-15	08320
+05240	accepted	Ehretia rigida Druce	Boraginaceae	2012-11-15	05240
+05250	accepted	Ehretia sylvatica Guerke	Boraginaceae	2012-11-15	05250
+05281	synonym	Cassine buchananii Loes.	Celastraceae	2012-11-15	05280
+05291	synonym	Elephantopus scaber L.	Asteraceae	2012-11-15	05290
+05370	accepted	Entada spicata Druce	Fabaceae	2012-11-15	05370
+11670	accepted	Solanum lycopersicum L.	Solanaceae	2012-11-15	11670
+11690	accepted	Solanum mauense Bitter	Solanaceae	2012-11-15	11690
+11700	accepted	Solanum merkeri Dammer	Solanaceae	2012-11-15	11700
+11720	accepted	Solanum sessilistellatum Bitter	Solanaceae	2012-11-15	11720
+11730	accepted	Solanum sodomeum L.	Solanaceae	2012-11-15	11730
+11840	accepted	Sorghum sp.	Poaceae	2012-11-15	11840
+11950	accepted	Stephania abyssinica  (Dill. & A. Rich.) Walp.	Menispermaceae	2012-11-15	11950
+11960	accepted	Stephania abyssinica (Dill. & A. Rich.) Walp. var. abyssinica	Menispermaceae	2012-11-15	11960
+11970	accepted	Sterculia cordifolia   (Cav.) R. Br.	Sterculiaceae	2012-11-15	11970
+11990	accepted	Sterculia setigera  Del.	Sterculiaceae	2012-11-15	11990
+12090	accepted	Swartzia madagascariensis Desv.	Fabaceae	2012-11-15	12090
+12100	accepted	Swertia calycina N. E. Br.	Gentianaceae	2012-11-15	12100
+12110	accepted	Symphonia gabonensis (Vesque) Pierre	Clusiaceae	2012-11-15	12110
+04660	accepted	Datura stramonium L.	Solanaceae	2012-11-15	04660
+09790	accepted	Pentas schimperana (A. Rich.) Vatke	Rubiaceae	2012-11-15	09790
+09800	accepted	Pentas sp.	Rubiaceae	2012-11-15	09800
+09820	accepted	Pentatropis spiralis (Forssk.) Decne.	Asclepiadaceae	2012-11-15	09820
+06570	accepted	Harungana madagascariensis  Lam. ex Poir.	Hypericaceae	2012-11-15	06570
+10540	accepted	Psorospermum febrifugum Spach	Hypericaceae	2012-11-15	10540
+05901	synonym	Feretia canthioides Hiern	Rubiaceae	2012-11-15	05900
+01385	accepted	Artemisia afra Jacq. ex  Willd.	Asteraceae	2012-11-15	01385
+01695	accepted	Bersama abyssinica Fres.	Melianthaceae	2012-11-15	01695
+03510	accepted	Coleus kilimandschari Guerke	Lamiaceae	2012-11-15	03510
+03640	accepted	Commelina africana L.	Commelinaceae	2012-11-15	03640
+12970	accepted	Vetiveria nigritana (Benth.) Stapf	Poaceae	2012-11-15	12970
+02440	accepted	Capsicum sp.	Solanaceae	2012-11-15	02440
+02460	accepted	Caralluma longidens N. E. Br.	Asclepiadaceae	2012-11-15	02460
+01400	accepted	Arthrocnemum glaucum (Del.) Ung.	Chenopodiaceae	2012-11-15	01400
+13270	accepted	Zingiber officinale Rosc.	Zingiberaceae	2012-11-15	13270
+13290	accepted	Ziziphus mauritiana Lam.	Rhamnaceae	2012-11-15	13290
+13291	synonym	Ziziphus jujuba  Lam.	Rhamnaceae	2012-11-15	13290
+04925	accepted	Diplotaxis div. sp.	Brassicaceae	2012-11-15	04925
+04926	accepted	Diplotaxis harra (Forssk.) Boiss.	Brassicaceae	2012-11-15	04926
+04927	accepted	Diplotaxis pitardiana Maire	Brassicaceae	2012-11-15	04927
+05205	accepted	Echinops spinosus L.	Asteraceae	2012-11-15	05205
+05765	accepted	Euphorbia obtusifolia Poiret subsp. regis-jubae (W	Euphorbiaceae	2012-11-15	05765
+06135	accepted	Genista saharae Coss. & Dur.	Fabaceae	2012-11-15	06135
+06553	accepted	Haloxylon scoparium Pomel	Chenopodiaceae	2012-11-15	06553
+05645	accepted	Euphorbia balsamifera Aiton var. sepium N.E. Brown	Euphorbiaceae	2012-11-15	05645
+03670	accepted	Commelina forskalaei Vahl	Commelinaceae	2012-11-15	03670
+03710	accepted	Commiphora africana (A. Rich.) Engl.	Burseraceae	2012-11-15	03710
+03711	synonym	Commiphora pilosa (Engl.) Engl.	Burseraceae	2012-11-15	03710
+12320	accepted	Tephrosia pumila (Lam. ) Persoon	Fabaceae	2012-11-15	12320
+12321	synonym	Tephrosia purpurea L. Persoon	Fabaceae	2012-11-15	12320
+12351	synonym	Terminalia dictyoneura  Diels	Combretaceae	2012-11-15	12350
+12350	accepted	Terminalia avicennioides Guill. & Perr.	Combretaceae	2012-11-15	12350
+06581	synonym	Acrocephalus debeerstii Briq. ex Th. Dur. & De Wil	Lamiaceae	2012-11-15	06580
+06590	accepted	Heeria insignis (Delile) Kuntze	Anacardiaceae	2012-11-15	06590
+12890	accepted	Vernonia lasiopus O. Hoffm.	Asteraceae	2012-11-15	12890
+12795	accepted	Vernonia adoensis Schultz-Bip. ex Walp.	Asteraceae	2012-11-15	12795
+10830	accepted	Rhynchosia hirta (Andr.) Meikle & Verdc.	Fabaceae	2012-11-15	10830
+10870	accepted	Ricinus communis L.	Euphorbiaceae	2012-11-15	10870
+10890	accepted	Rubia cordifolia L.	Rubiaceae	2012-11-15	10890
+10911	synonym	Rubus rigidus Smith.	Rosaceae	2012-11-15	10910
+10910	accepted	Rubus apetalus Poir.	Rosaceae	2012-11-15	10910
+10920	accepted	Rumex abyssinicus Jacq.	Polygonaceae	2012-11-15	10920
+09035	accepted	Nephrodium filix mas Rich.	Thelypteridaceae	2012-11-15	09035
+04612	accepted	Cyphostemma junceum (Webb) Wild & R.B.Drumm.	Vitaceae	2012-11-15	04612
+11785	accepted	Sonchus asper (L.) Hill.	Asteraceae	2012-11-15	11785
+04215	accepted	Cryptolepis oblingifolia (Meissn.) Schltr.	Asclepiadaceae	2012-11-15	04215
+01000	accepted	Aloe vera L.	Aloaceae	2012-11-15	01000
+10900	accepted	Rubia cordifolia L. subsp. conotricha (Gandoger) V	Rubiaceae	2012-11-15	10900
+10930	accepted	Rumex bequaertii De Wild.	Polygonaceae	2012-11-15	10930
+10940	accepted	Rumex nepalensis Spreng.	Polygonaceae	2012-11-15	10940
+11040	accepted	Salix subserrata Willd.	Salicaceae	2012-11-15	11040
+09831	synonym	Pergularia daemia (Forssk.) Chiov.	Asclepiadaceae	2012-11-15	09830
+09832	synonym	Cynanchum cordifolium Retz.	Asclepiadaceae	2012-11-15	09830
+09833	synonym	Cynanchum extensum Jacq.	Asclepiadaceae	2012-11-15	09830
+09840	accepted	Pergularia tomentosa L.	Asclepiadaceae	2012-11-15	09840
+09870	accepted	Periploca nigricans Schltr.	Apocynaceae	2012-11-15	09870
+09891	synonym	Lefebvrea grantii (Kingston ex Oliver) Droop	Apiaceae	2012-11-15	09890
+09950	accepted	Phyllanthus discoideus  (Baill.) Muell. Arg.	Phyllanthaceae	2012-11-15	09950
+09951	synonym	Margaritaria discoidea (Baill.) Webster	Euphorbiaceae	2012-11-15	09950
+09960	accepted	Phyllanthus fischeri  Pax	Phyllanthaceae	2012-11-15	09960
+09970	accepted	Phyllanthus nummulariifolius Poiret	Phyllanthaceae	2012-11-15	09970
+09990	accepted	Phymatodes scolopendria (Burm.) Ching	Polypodiceae	2012-11-15	09990
+10040	accepted	Piliostigma reticulatum (DC.) Hochst.	Fabaceae	2012-11-15	10040
+10041	synonym	Bauhinia reticulata DC.	Fabaceae	2012-11-15	10040
+10050	accepted	Piliostigma thonningii (Schumach.) Milne-Redh.	Fabaceae	2012-11-15	10050
+10051	synonym	Bauhinia thonningii Schumach.	Fabaceae	2012-11-15	10050
+10080	accepted	Piper umbellatum L.	Piperaceae	2012-11-15	10080
+10130	accepted	Plantago palmata Hook. f.	Plantaginaceae	2012-11-15	10130
+10165	accepted	Plectranthus caninus Roth.	Lamiaceae	2012-11-15	10165
+10180	accepted	Plectranthus laxiflorus Benth.	Lamiaceae	2012-11-15	10180
+10181	synonym	Plectranthus albus Gürke	Lamiaceae	2012-11-15	10180
+10182	synonym	Plectranthus lanuginosus (Hochst. ex Benth.) Agnew	Lamiaceae	2012-11-15	10180
+02270	accepted	Calpurnia aurea (Ait.) Benth. subsp. aurea	Fabaceae	2012-11-15	02270
+02280	accepted	Calpurnia intrusa E. Mey.	Fabaceae	2012-11-15	02280
+02630	accepted	Cassia nigricans Vahl	Fabaceae	2012-11-15	02630
+07400	accepted	Ipomoea mauritiana Jacq.	Convolvulaceae	2012-11-15	07400
+09290	accepted	Oryza sativa L.	Poaceae	2012-11-15	09290
+03580	accepted	Combretum collinum Fresen.	Combretaceae	2012-11-15	03580
+11001	synonym	Landolphia florida  Benth.	Apocynaceae	2012-11-15	11000
+11000	accepted	Saba florida (Benth.) Bullock	Apocynaceae	2012-11-15	11000
+11002	synonym	Landolphia comorensis K. Schum.	Apocynaceae	2012-11-15	11000
+11110	accepted	Salvia nilotica Juss. ex Jacq.	Lamiaceae	2012-11-15	11110
+11140	accepted	Samanea dinklagei (Harms) Keay	Fabaceae	2012-11-15	11140
+12700	accepted	Typha latifolia L.	Typhaceae	2012-11-15	12700
+06931	synonym	Hoslundia oppositifolia P. Beauv.	Lamiaceae	2012-11-15	06930
+00310	accepted	Acacia sp.	Mimosaceae	2012-11-15	00310
+00320	accepted	Acacia stuhlmannii Taub.	Mimosaceae	2012-11-15	00320
+00340	accepted	Acalypha fruticosa  Forssk.	Euphorbiaceae	2012-11-15	00340
+00341	synonym	Acalypha amentacea  Roxb.	Euphorbiaceae	2012-11-15	00340
+03121	synonym	Cayratia fischeri ?	Vitaceae	2012-11-15	03120
+03130	accepted	Cissus petiolata Hook. f.	Vitaceae	2012-11-15	03130
+03150	accepted	Cissus producta Afzel.	Vitaceae	2012-11-15	03150
+03200	accepted	Citrullus sp.	Cucurbitaceae	2012-11-15	03200
+03220	accepted	Citrus limon (L.) Burm. f.	Rutaceae	2012-11-15	03220
+03230	accepted	Clausena anisata (Willd.) Hook. f. ex Benth.	Rutaceae	2012-11-15	03230
+03250	accepted	Clematis hirsuta Guill. & Perr.	Ranunculaceae	2012-11-15	03250
+04360	accepted	Curtonus panicatus N.E. Br.	Iridaceae	2012-11-15	04360
+04370	accepted	Cuscuta  kilimandschari Oliver	Convolvulaceae	2012-11-15	04370
+04380	accepted	Cussonia arborea  Hochst. ex A. Rich.	Araliaceae	2012-11-15	04380
+04405	accepted	Cyathula polycephala Baker	Amaranthaceae	2012-11-15	04405
+04420	accepted	Cycnium adonense E. Meyer ex Benth.	Scrophulariaceae	2012-11-15	04420
+04430	accepted	Cymbopogon giganteus Chiov.	Poaceae	2012-11-15	04430
+12598	accepted	Tridax procumbens L.	Asteraceae	2012-11-15	12598
+10120	accepted	Plantago lanceolata  L.	Plantaginaceae	2012-11-15	10120
+10140	accepted	Platycelyphium voense (Engl.) Wild	Papilionaceae	2012-11-15	10140
+10150	accepted	Plectocephalus varians (A.Rich.) C.Jeffrey ex Cufod.	Asteraceae	2012-11-15	10150
+10162	synonym	Coleus barbatus (Andr.) Benth.	Lamiaceae	2012-11-15	10160
+10170	accepted	Plectranthus cylindraceus Hochst. ex Benth.	Lamiaceae	2012-11-15	10170
+10190	accepted	Plectranthus sp.	Lamiaceae	2012-11-15	10190
+10200	accepted	Pluchea ovalis (Pers.) DC.	Asteraceae	2012-11-15	10200
+10210	accepted	Plumbago zeylanica  L.	Plumbaginaceae	2012-11-15	10210
+10220	accepted	Podocarpus falcatus (Thunb.) R. Br. ex  Mirbel	Podocarpaceae	2012-11-15	10220
+10230	accepted	Polygala kalaxariensis Schinz.	Polygalaceae	2012-11-15	10230
+10240	accepted	Polygala ruwenzoriensis Chodat	Polygalaceae	2012-11-15	10240
+08490	accepted	Maytenus acuminata (L. f.) Loes.	Celastraceae	2012-11-15	08490
+12480	accepted	Tinospora fragosa (Verd.) Verd. & Troupin	Menispermaceae	2012-11-15	12480
+10480	accepted	Pseudosabicea arborea (K. Schum.) Halle subsp. beq	Rubiaceae	2012-11-15	10480
+10490	accepted	Pseudosopubia hildebrandtii (Vatke) Engl.	Scrophulariaceae	2012-11-15	10490
+10500	accepted	Psidium guajava L.	Myrtaceae	2012-11-15	10500
+10520	accepted	Psorospermum baumii  Engl.	Hypericaceae	2012-11-15	10520
+06830	accepted	Hibiscus ferrugineus Cav.	Malvaceae	2012-11-15	06830
+06850	accepted	Hibiscus gossypinus Thunb.	Malvaceae	2012-11-15	06850
+06940	accepted	Hunteria zeylanica (Retz.) Gard. ex Thw. var. afri	Apocynaceae	2012-11-15	06940
+06970	accepted	Hygrophila auriculata (Schumach.) Heine	Acanthaceae	2012-11-15	06970
+06980	accepted	Hymenocardia acida Tul.	Hymenocardiaceae	2012-11-15	06980
+06990	accepted	Hypericum revolutum Vahl	Hypericaceae	2012-11-15	06990
+07000	accepted	Hyphaene sp.	Palmae	2012-11-15	07000
+07010	accepted	Hyphaene thebaica (L.) Mart.	Palmae	2012-11-15	07010
+07030	accepted	Hypoestes triflora (Forsskal) Roemer & Schultes	Acanthaceae	2012-11-15	07030
+07040	accepted	Hypoxis angustifolia Lam.	Hypoxidaceae	2012-11-15	07040
+07050	accepted	Hypoxis argentea  Harv. ex. Bak.	Hypoxidaceae	2012-11-15	07050
+07060	accepted	Hypoxis villosa L.	Hypoxidaceae	2012-11-15	07060
+07070	accepted	Hyptis pectinata (L.) Poir.	Lamiaceae	2012-11-15	07070
+07120	accepted	Iboza multiflora (Benth.) E.A. Bruce	Lamiaceae	2012-11-15	07120
+07130	accepted	Impatiens masisiensis  De Wild.	Balsaminaceae	2012-11-15	07130
+07140	accepted	Impatiens pseudoviola  Gilg	Balsaminaceae	2012-11-15	07140
+07150	accepted	Impatiens rothii Hook.f.	Balsaminaceae	2012-11-15	07150
+07160	accepted	Impatiens stuhlmannii Warb.	Balsaminaceae	2012-11-15	07160
+07170	accepted	Indigofera arrecta  Hochst.ex A. Rich.	Fabaceae	2012-11-15	07170
+07180	accepted	Indigofera asparagoides Taub.	Fabaceae	2012-11-15	07180
+07200	accepted	Indigofera cylindrica DC.	Fabaceae	2012-11-15	07200
+07210	accepted	Indigofera hirsuta L.	Fabaceae	2012-11-15	07210
+07230	accepted	Indigofera philenoptera ?	Fabaceae	2012-11-15	07230
+07241	synonym	Indigofera tettensis Klotzsch.	Fabaceae	2012-11-15	07240
+07250	accepted	Indigofera sp.	Fabaceae	2012-11-15	07250
+07270	accepted	Indigofera tinctoria  L.	Fabaceae	2012-11-15	07270
+07271	synonym	Indigofera bergii Vatke	Fabaceae	2012-11-15	07270
+07300	accepted	Iphionopsis rotundifolia (Oliv. & Hiern) Anderb.	Asteraceae	2012-11-15	07300
+07301	synonym	Iphiona rotundifolia Oliv. & Hiern	Asteraceae	2012-11-15	07300
+02572	synonym	Cassia senna  L.	Fabaceae	2012-11-15	02570
+02580	accepted	Cassia didymobotrya Fres.	Fabaceae	2012-11-15	02580
+06600	accepted	Heeria paniculosa  O. Ktze	Anacardiaceae	2012-11-15	06600
+06630	accepted	Heeria sp.	Anacardiaceae	2012-11-15	06630
+06640	accepted	Heinsia pulchella (G. Don) K. Schum.	Rubiaceae	2012-11-15	06640
+06660	accepted	Helichrysum formosissimum (Schultz-Bip.) Schultz-B	Asteraceae	2012-11-15	06660
+06680	accepted	Helichrysum fruticosum (Forssk.) Vatke	Asteraceae	2012-11-15	06680
+06690	accepted	Helichrysum gerberifolium Sch.Bip. ex A.Rich.	Asteraceae	2012-11-15	06690
+01505	accepted	Asplenium aethiopicum (Burm.f.) Bech.	Aspleniaceae	2012-11-15	01505
+00715	accepted	Agrocharis melanantha Hochst.	Apiaceae	2012-11-15	00715
+00815	accepted	Alchemilla abyssinica Fresen.	Rosaceae	2012-11-15	00815
+01655	accepted	Basananthe hanningtoniana (Mast.) W.J. de Wilde	Passifloraceae	2012-11-15	01655
+01715	accepted	Berula erecta (Hudson) Coville	Apiaceae	2012-11-15	01715
+02880	accepted	Cheilanthes farinosa (Forssk.) Kaulf.	Pteridaceae	2012-11-15	02880
+05495	accepted	Erythrina brucei Schweinf.	Fabaceae	2012-11-15	05495
+10878	accepted	Rosa abyssinica Lindl.	Rosaceae	2012-11-15	10878
+10255	accepted	Polygala steudneri Chodat	Polygalaceae	2012-11-15	10255
+07277	accepted	Inula confertiflora A. Rich	Asteraceae	2012-11-15	07277
+05995	accepted	Ficus palmata Forssk.	Moraceae	2012-11-15	05995
+06557	accepted	Haplosciadium abyssinicum Hochst.	Apiaceae	2012-11-15	06557
+09351	synonym	Oxalis radicosa A.Rich.	Oxalidaceae	2012-11-15	09350
+12117	accepted	Symphytum officinale L.	Boraginaceae	2012-11-15	12117
+12404	accepted	Tetrorchidium didymostemon (Baill.) Pax & K.Hoffm.	Euphorbiaceae	2012-11-15	12404
+12665	accepted	Tropaeolum majus L.	Tropaeolaceae	2012-11-15	12665
+12705	accepted	Uapaca guineensis Müll. Arg.	Euphorbiaceae	2012-11-15	12705
+13025	accepted	Viola abyssinica Steud. Ex Oliv.	Violaceae	2012-11-15	13025
+00051	synonym	Faidherbia albida (Delile) A. Chev.	Mimosaceae	2012-11-15	00050
+00585	accepted	Afraegle paniculata (Schum.) Engl.	Rutaceae	2012-11-15	00585
+00695	accepted	Agelanthus dodoneifolius (DC.) Pohl. & Wiens	Loranthaceae	2012-11-15	00695
+07835	accepted	Landolphia heudelotii A. DC.	Apocynaceae	2012-11-15	07835
+12375	accepted	Terminalia laxiflora Engl. & Diels	Combretaceae	2012-11-15	12375
+09555	accepted	Passiflora foetida L.	Passifloraceae	2012-11-15	09555
+09205	accepted	Olax subscorpioidea Oliv.	Olacaceae	2012-11-15	09205
+12380	accepted	Terminalia macroptera Guil. & Perr.	Combretaceae	2012-11-15	12380
+00413	synonym	Achyranthes aspera L. var. sicula	Amaranthaceae	2012-11-15	00410
+03192	synonym	Colocynthis citrullus (L.) Kuntze	Cucurbitaceae	2012-11-15	03190
+06951	synonym	Hydnora abyssinica A.Br.	Hydnoraceae	2012-11-15	06950
+00095	accepted	Acacia etbaïca Schweinf.	Mimosaceae	2012-11-15	00095
+06265	accepted	Gnidia stenophylla Gilg	Thymelaeaceae	2012-11-15	06265
+06767	accepted	Heteromorpha arborescens (Speng) Cham. & Schltdl.	Apiaceae	2012-11-15	06767
+01146	synonym	Ampelocissus cavicaulis (Baker) Planch.	Vitaceae	2012-11-15	01145
+02055	accepted	Breonadia salicina (Vahl) Hepper and Wood	Rubiaceae	2012-11-15	02055
+04155	accepted	Crotalaria spinosa Hochst ex Benth.	Fabaceae	2012-11-15	04155
+04840	accepted	Dioscorea quartiniana A. Rich.	Dioscoreaceae	2012-11-15	04840
+05185	accepted	Dyschoriste multicaulis Lindau	Acanthaceae	2012-11-15	05185
+10250	accepted	Polygala sphenoptera Fresen.	Polygalaceae	2012-11-15	10250
+02141	synonym	Butyrospermum paradoxum subsp. parkii (G. Don) Hepper	Sapotaceae	2012-11-15	02140
+04460	accepted	Cymbopogon schoenanthus (L.) Spreng.	Poaceae	2012-11-15	04460
+04480	accepted	Cynodon dactylon  (L.) Pers.	Poaceae	2012-11-15	04480
+04500	accepted	Cynodon sp.	Poaceae	2012-11-15	04500
+04520	accepted	Cynoglossum lanceolatun Forssk.	Boraginaceae	2012-11-15	04520
+04540	accepted	Cyperus articulatus L.	Cyperaceae	2012-11-15	04540
+04560	accepted	Cyperus kilimandscharicus Kük.	Cyperaceae	2012-11-15	04560
+04570	accepted	Cyperus latifolius Poir.	Cyperaceae	2012-11-15	04570
+04580	accepted	Cyperus papyrus L.	Cyperaceae	2012-11-15	04580
+04590	accepted	Cyperus rotundus L.	Cyperaceae	2012-11-15	04590
+04600	accepted	Cyperus sp.	Cyperaceae	2012-11-15	04600
+04610	accepted	Cyphostemma cyphopetalum (Fresen.)  Descoings ex  Wild & Drummond	Vitaceae	2012-11-15	04610
+03392	synonym	Clutia glabrescens Knauf	Euphorbiaceae	2012-11-15	03390
+03393	synonym	Clutia lanceolata Hochst. var. glabra A. Rich.	Euphorbiaceae	2012-11-15	03390
+03431	synonym	Coccinia indica Wight & Arn.	Cucurbitaceae	2012-11-15	03430
+03430	accepted	Coccinia grandis (L.) Voigt	Cucurbitaceae	2012-11-15	03430
+03450	accepted	Cochlospermum planchonii Hook. f.	Bixaceae	2012-11-15	03450
+03461	synonym	Cochlospermum niloticum Oliv.	Bixaceae	2012-11-15	03460
+03480	accepted	Coix lacryma-jobi L.	Poaceae	2012-11-15	03480
+03490	accepted	Cola acuminata (P. Beauv.) Schott & Endl.	Sterculiaceae	2012-11-15	03490
+10160	accepted	Plectranthus barbatus  Andrews	Lamiaceae	2012-11-15	10160
+03570	accepted	Combretum  adenogonium Steud. ex A. Rich.	Combretaceae	2012-11-15	03570
+03571	synonym	Combretum fragrans F. Hoffm.	Combretaceae	2012-11-15	03570
+00180	accepted	Acacia nilotica (L.) Willd. ex  Del.	Mimosaceae	2012-11-15	00180
+00182	synonym	Acacia scorpioides (L.) W.F. Wight	Mimosaceae	2012-11-15	00180
+12381	synonym	Terminalia chevalieri Diels	Combretaceae	2012-11-15	12380
+12400	accepted	Tetradenia riparia (Hochst.) Codd	Lamiaceae	2012-11-15	12400
+12401	synonym	Iboza riparia (Hochst.) N.E. Br.	Lamiaceae	2012-11-15	12400
+06650	accepted	Helichrysum ceres S. Moore	Asteraceae	2012-11-15	06650
+00230	accepted	Acacia polyacantha Willd.	Mimosaceae	2012-11-15	00230
+00240	accepted	Acacia raddiana Savi	Mimosaceae	2012-11-15	00240
+00241	synonym	Acacia tortilis (Forssk.) Hayne	Mimosaceae	2012-11-15	00240
+00250	accepted	Acacia reficiens Wawra & Peyr.	Mimosaceae	2012-11-15	00250
+00290	accepted	Acacia sieberiana DC.	Mimosaceae	2012-11-15	00290
+04080	accepted	Crinum macowanii Bak.	Amaryllidaceae	2012-11-15	04080
+12580	accepted	Trichodesma physaloides (Fenzl) A. DC.	Boraginaceae	2012-11-15	12580
+12593	synonym	Borago zeylanica Burm.	Boraginaceae	2012-11-15	12590
+12592	synonym	Boraginoides zeylanica Hiern	Boraginaceae	2012-11-15	12590
+12591	synonym	Boraginella zeylanica O. Kuntze	Boraginaceae	2012-11-15	12590
+10860	accepted	Rhynchosia minima (L.) DC. var. prostrata (Harvey) Meikle	Fabaceae	2012-11-15	10860
+10871	synonym	Ricinus vulgaris Mill.	Euphorbiaceae	2012-11-15	10870
+10880	accepted	Roupellina boivini (Baillon) Pichon	Apocynaceae	2012-11-15	10880
+05600	accepted	Euclea divinorum  Hiern	Ebenaceae	2012-11-15	05600
+05601	synonym	Euclea keniensis R.E. Fries	Ebenaceae	2012-11-15	05600
+05602	synonym	Euclea lanceolata auct. non E. Mey.	Ebenaceae	2012-11-15	05600
+05000	accepted	Dolichos kilimandschari Taub.	Fabaceae	2012-11-15	05000
+05040	accepted	Dombeya bagshawei Baker f.	Sterculiaceae	2012-11-15	05040
+05050	accepted	Dombeya goetzenii K. Schum.	Sterculiaceae	2012-11-15	05050
+05070	accepted	Dombeya sp.	Sterculiaceae	2012-11-15	05070
+05080	accepted	Dracaena afromontana  Mildbr.	Dracaenaceae	2012-11-15	05080
+05090	accepted	Dracaena arborea (Willd.) Link	Dracaenaceae	2012-11-15	05090
+05110	accepted	Dracaena sp.	Dracaenaceae	2012-11-15	05110
+05130	accepted	Dracaena usambarensis Engl.	Dracaenaceae	2012-11-15	05130
+05150	accepted	Drymaria cordata (L.) Willd. ex  Roem. & Schult.	Caryophyllaceae	2012-11-15	05150
+05180	accepted	Dryopteris sp.	Dryopteridaceae	2012-11-15	05180
+05220	accepted	Eclipta prostrata (L.) L.	Asteraceae	2012-11-15	05220
+05230	accepted	Ehretia cymosa Thonning	Boraginaceae	2012-11-15	05230
+05260	accepted	Ekebergia capensis Sparrm.	Meliaceae	2012-11-15	05260
+01480	accepted	Aspilia ciliata (Schum.) Wild	Asteraceae	2012-11-15	01480
+01492	synonym	Aspilia holstii O.Hoffm	Asteraceae	2012-11-15	01490
+06900	accepted	Hibiscus trionium L.	Malvaceae	2012-11-15	06900
+08460	accepted	Marantochloa leucantha (K. Schum.) Milne-Redh.	Marantaceae	2012-11-15	08460
+02300	accepted	Canavalia virosa  (Roxb.) Wight & Arn.	Fabaceae	2012-11-15	02300
+02301	synonym	Canavalia gladiata Auct. non (Jacq.) DC.	Fabaceae	2012-11-15	02300
+02310	accepted	Cannabis sativa L.	Cannabaceae	2012-11-15	02310
+02320	accepted	Cannabis sativa L. subsp. indica (Lam.) Small & Cr	Cannabaceae	2012-11-15	02320
+02330	accepted	Canthium sp.	Rubiaceae	2012-11-15	02330
+02350	accepted	Capparis cartilaginea Decne.	Capparaceae	2012-11-15	02350
+07840	accepted	Landolphia sp.	Apocynaceae	2012-11-15	07840
+07900	accepted	Lannea schweinfurthii (Engl.) Engl. var stuhlmannii (Engl.) Kokwaro	Anacardiaceae	2012-11-15	07900
+07910	accepted	Lannea velutina A. Rich.	Anacardiaceae	2012-11-15	07910
+07930	accepted	Lantana rugosa Thunb.	Verbenaceae	2012-11-15	07930
+07950	accepted	Lantana viburnoides (Forsk.) Vahl	Verbenaceae	2012-11-15	07950
+07960	accepted	Lasianthus  kilimandschari  K. Schum.	Rubiaceae	2012-11-15	07960
+07970	accepted	Lastreopsis efulensis (Bak.) Tardieu	Aspidiaceae	2012-11-15	07970
+00325	accepted	Acacia xanthophloea Benth.	Mimosaceae	2012-11-15	00325
+04130	accepted	Crotalaria laburnifolia L.	Fabaceae	2012-11-15	04130
+08001	synonym	Lawsonia alba Lam.	Lythraceae	2012-11-15	08000
+08010	accepted	Lebrunia bushaie Staner	Clusiaceae	2012-11-15	08010
+07851	synonym	Odina acida (A. Rich.) Oliv.	Anacardiaceae	2012-11-15	07850
+07981	synonym	Soncus exauriculatus (Oliv. & Hiern) Hoffm.	Anacardiaceae	2012-11-15	07980
+07860	accepted	Lannea edulis (Sond.) Engl.	Anacardiaceae	2012-11-15	07860
+07870	accepted	Lannea microcarpa Engl. & Krause	Anacardiaceae	2012-11-15	07870
+07880	accepted	Lannea schimperi  (Hochst. ex A. Rich.) Engl.	Anacardiaceae	2012-11-15	07880
+07890	accepted	Lannea schweinfurthii (Engl.) Engl.	Anacardiaceae	2012-11-15	07890
+06490	accepted	Gutenbergia cordifolia Benth. ex Oliv.	Asteraceae	2012-11-15	06490
+06501	synonym	Cleome gynandra L.	Capparaceae	2012-11-15	06500
+06500	accepted	Gynandropsis gynandra (L.) Briq.	Capparaceae	2012-11-15	06500
+06522	synonym	Haemanthus coccineus Forssk.	Amaryllidaceae	2012-11-15	06520
+06121	synonym	Gardenia medicinalis Vahl ex Schum.	Rubiaceae	2012-11-15	06120
+06140	accepted	Gerrardanthus lobatus (Cogn.) Jeffrey	Cucurbitaceae	2012-11-15	06140
+06150	accepted	Girardinia bullosa (Steudel) Wedd.	Urticaceae	2012-11-15	06150
+06540	accepted	Hallea rubrostipulata (K. Schum.) J. - L. Leroy	Rubiaceae	2012-11-15	06540
+05650	accepted	Euphorbia candelabrum  Trémaux  ex  Kotschy	Euphorbiaceae	2012-11-15	05650
+05651	synonym	Euphorbia calycina N. E. Br.	Euphorbiaceae	2012-11-15	05650
+05670	accepted	Euphorbia cuneata Vahl	Euphorbiaceae	2012-11-15	05670
+05700	accepted	Euphorbia grantii Oliv.	Euphorbiaceae	2012-11-15	05700
+02190	accepted	Cadaba rotundifolia Forssk.	Capparaceae	2012-11-15	02190
+02210	accepted	Cajanus cajan (L.) Millsp.	Fabaceae	2012-11-15	02210
+02211	synonym	Cajanus indicus Spreng	Fabaceae	2012-11-15	02210
+02251	synonym	Asclepias procera Aiton	Apocynaceae	2012-11-15	02250
+04820	accepted	Dioscorea dregeana (Kunth) T.Durand & Schinz	Dioscoreaceae	2012-11-15	04820
+04860	accepted	Dioscorea sinensis Sweet	Dioscoreaceae	2012-11-15	04860
+06070	accepted	Fuerstia africana T.C.E. Fries	Lamiaceae	2012-11-15	06070
+01950	accepted	Boswellia dalzielii Hutch.	Burseraceae	2012-11-15	01950
+01970	accepted	Boswellia sacra Flûckiger-Dupéron	Burseraceae	2012-11-15	01970
+08761	synonym	Momordica brevispinosa (Cogn.) Chiov.	Cucurbitaceae	2012-11-15	08760
+08780	accepted	Monechma subsessile  (Oliv.) C.B.  Clarke	Acanthaceae	2012-11-15	08780
+05310	accepted	Eleusine indica (L.) Gaertn.	Poaceae	2012-11-15	05310
+05320	accepted	Embelia schimperi Vatke	Myrsinaceae	2012-11-15	05320
+05321	synonym	Embelia  kilimandschari Gilg	Myrsinaceae	2012-11-15	05320
+05330	accepted	Embelia sp.	Myrsinaceae	2012-11-15	05330
+11070	accepted	Salsola foetida Del. ex Spreng.	Chenopodiaceae	2012-11-15	11070
+05636	synonym	Euphorbia forsskalii J. Gay	Euphorbiaceae	2012-11-15	05635
+04551	synonym	Cyperus aureus Tenore	Cyperaceae	2012-11-15	04550
+04550	accepted	Cyperus esculentus L.	Cyperaceae	2012-11-15	04550
+09320	accepted	Osyris quadripartita Salzm. ex  Decne.	Santalaceae	2012-11-15	09320
+09321	synonym	Osyris tenuifolia Engl.	Santalaceae	2012-11-15	09320
+09330	accepted	Osyris wightiana Wall.	Santalaceae	2012-11-15	09330
+09360	accepted	Oxygonum sinuatum (Meissn.) Dammer	Polygonaceae	2012-11-15	09360
+02700	accepted	Cassia sp.	Fabaceae	2012-11-15	02700
+02711	synonym	Senna spectabilis (DC.) Irwin & Barneby	Fabaceae	2012-11-15	02710
+02720	accepted	Cassia tora L.	Fabaceae	2012-11-15	02720
+02721	synonym	Cassia obtusifolia L.	Fabaceae	2012-11-15	02720
+02722	synonym	Senna obtusifolia (L.) H.S.Irwin & Barneby	Fabaceae	2012-11-15	02720
+02740	accepted	Cassytha filiformis L.	Lauraceae	2012-11-15	02740
+02741	synonym	Cassytha guineensis Schum. & Thonn.	Lauraceae	2012-11-15	02740
+02800	accepted	Celosia stuhlmanniana Schinz	Amaranthaceae	2012-11-15	02800
+03170	accepted	Cissus rubiginosa Planch.	Vitaceae	2012-11-15	03170
+03180	accepted	Citrullus colocynthis (L.) Schrad.	Cucurbitaceae	2012-11-15	03180
+03181	synonym	Cucumis colocynthis L.	Cucurbitaceae	2012-11-15	03180
+03182	synonym	Colocynthis vulgaris Schrad.	Cucurbitaceae	2012-11-15	03180
+03520	accepted	Coleus sp.	Lamiaceae	2012-11-15	03520
+10163	synonym	Ocimum cinereum R. Br.	Lamiaceae	2012-11-15	10160
+03540	accepted	Colocasia esculenta (L.) Schott	Araceae	2012-11-15	03540
+04721	synonym	Dichrocephala bicolor (Roth) Schldl.	Asteraceae	2012-11-15	04720
+04720	accepted	Dichrocephala integrifolia (L.f.) O. Ktze	Asteraceae	2012-11-15	04720
+04710	accepted	Dicerocaryum zanguebaricum (Lour.) Merr.	Pedaliaceae	2012-11-15	04710
+04750	accepted	Dicliptera verticillata (Forssk.) C. Christ.	Acanthaceae	2012-11-15	04750
+08840	accepted	Moringa borziana Mattei	Moringaceae	2012-11-15	08840
+08841	synonym	Hyperanthera borziana (Mattei) Chiov	Moringaceae	2012-11-15	08840
+08860	accepted	Moringa ruspoliana Engl.	Moringaceae	2012-11-15	08860
+08870	accepted	Mucuna coriacea Bak.	Fabaceae	2012-11-15	08870
+08891	synonym	Mucuna pruriens (L.) DC. var. pruriens	Fabaceae	2012-11-15	08890
+08900	accepted	Mucuna sp.	Fabaceae	2012-11-15	08900
+02930	accepted	Chenopodium opulifolium Auct. non Schrad.	Chenopodiaceae	2012-11-15	02930
+02931	synonym	Chenopodium ugandae (Aellen) Aellen	Chenopodiaceae	2012-11-15	02930
+02970	accepted	Chrozophora brocchiana Vis.	Euphorbiaceae	2012-11-15	02970
+02990	accepted	Chrysophyllum argyrophyllum Hiern	Sapotaceae	2012-11-15	02990
+03010	accepted	Cinchona sp.	Rubiaceae	2012-11-15	03010
+03030	accepted	Cinnamomum cassia Lour.	Lauraceae	2012-11-15	03030
+02900	accepted	Chenopodium ambrosioides L.	Chenopodiaceae	2012-11-15	02900
+02910	accepted	Chenopodium foetidum Schrad.	Chenopodiaceae	2012-11-15	02910
+02920	accepted	Chenopodium myricoides (Hochst.) R. Br. ex Vatke	Chenopodiaceae	2012-11-15	02920
+03500	accepted	Cola cordifolia R. Br.	Sterculiaceae	2012-11-15	03500
+04780	accepted	Digitaria sp.	Poaceae	2012-11-15	04780
+04790	accepted	Diodia scandens Sw.	Rubiaceae	2012-11-15	04790
+04810	accepted	Dioscorea buchananii Benth.	Dioscoreaceae	2012-11-15	04810
+09600	accepted	Pavetta crassipes K. Schum.	Rubiaceae	2012-11-15	09600
+13020	accepted	Vigna vexillata (L.) A. Rich.	Fabaceae	2012-11-15	13020
+13091	synonym	Waltheria americana L.	Sterculiaceae	2012-11-15	13090
+13090	accepted	Waltheria indica L.	Sterculiaceae	2012-11-15	13090
+00560	accepted	Aerva javanica (Burm.f.) Juss.	Amaranthaceae	2012-11-15	00560
+11080	accepted	Salsola longifolia Forssk.	Chenopodiaceae	2012-11-15	11080
+03210	accepted	Citrus aurantiifolia (Christm.) Swingle	Rutaceae	2012-11-15	03210
+03240	accepted	Clematis brachiata Thunb.	Ranunculaceae	2012-11-15	03240
+03260	accepted	Clematis simensis Fres.	Ranunculaceae	2012-11-15	03260
+13120	accepted	Wissadula amplissima (L.) R. E. Fries. var. rostrata (Sch. & Th.) R.E. Fries.	Malvaceae	2012-11-15	13120
+13130	accepted	Withania somnifera (L.) Dun.	Solanaceae	2012-11-15	13130
+13140	accepted	Ximenia americana L.	Olacaceae	2012-11-15	13140
+13152	synonym	Ximenia americana L. var. tomentosa Engl.	Olacaceae	2012-11-15	13150
+13151	synonym	Ximenia americana L. var. caffra (Sond.) Engl.	Olacaceae	2012-11-15	13150
+13150	accepted	Ximenia caffra Sond.	Olacaceae	2012-11-15	13150
+12520	accepted	Tragia brevipes Pax	Euphorbiaceae	2012-11-15	12520
+12540	accepted	Trema orientalis (L.) Blume	Ulmaceae	2012-11-15	12540
+12541	synonym	Trema guineensis (Schum. & Thonn. ) Ficalho	Ulmaceae	2012-11-15	12540
+03110	accepted	Cissus cyphopetala Fresen.	Vitaceae	2012-11-15	03110
+11120	accepted	Salvia repens Burch.	Lamiaceae	2012-11-15	11120
+11130	accepted	Salvia sp.	Lamiaceae	2012-11-15	11130
+11141	synonym	Pithecellobium dinklagei (Harms) Harms	Fabaceae	2012-11-15	11140
+11150	accepted	Sansevieria liberica Gérôme & Labroy	Dracaenaceae	2012-11-15	11150
+03020	accepted	Cinchona succirubra Pav.	Rubiaceae	2012-11-15	03020
+03050	accepted	Cissampelos owariensis P. Beauv. ex DC.	Menispermaceae	2012-11-15	03050
+03061	synonym	Cissampelos orbiculata DC.	Menispermaceae	2012-11-15	03060
+03100	accepted	Cissus cymosa Schum. & Thonn.	Vitaceae	2012-11-15	03100
+03140	accepted	Cissus populnea Guill. & Perr.	Vitaceae	2012-11-15	03140
+03160	accepted	Cissus quadrangularis L.	Vitaceae	2012-11-15	03160
+03161	synonym	Vitis quadrangularis (L.) Wall. ex Wight & Arn.	Vitaceae	2012-11-15	03160
+11781	synonym	Solenostemma oleifolium (Nect.) Bull. & Bruce	Asclepiadaceae	2012-11-15	11780
+02370	accepted	Capparis decidua (Forssk.) Edgew.	Capparaceae	2012-11-15	02370
+05720	accepted	Euphorbia hirta L.	Euphorbiaceae	2012-11-15	05720
+05730	accepted	Euphorbia kamerunica Pax	Euphorbiaceae	2012-11-15	05730
+05750	accepted	Euphorbia magnicapsula S. Carter	Euphorbiaceae	2012-11-15	05750
+05760	accepted	Euphorbia matabelensis Pax	Euphorbiaceae	2012-11-15	05760
+02571	synonym	Cassia acutifolia  Del.	Fabaceae	2012-11-15	02570
+09580	accepted	Pavetta abyssinica Fresen.	Rubiaceae	2012-11-15	09580
+04470	accepted	Cynara scolymus L.	Asteraceae	2012-11-15	04470
+04490	accepted	Cynodon nlemfuensis Vanderyst	Poaceae	2012-11-15	04490
+04530	accepted	Cyperus alternifolius L.	Cyperaceae	2012-11-15	04530
+00470	accepted	Adansonia digitata L.	Bombacaceae	2012-11-15	00470
+04451	synonym	Cymbopogon schoenanthus (L.) Spreng. subsp. proximum (Hochst. ex A. Rich.) Maire & Weiller	Poaceae	2012-11-15	04450
+03600	accepted	Combretum glutinosum Perr. ex  DC.	Combretaceae	2012-11-15	03600
+00570	accepted	Aerva persica var. latifolia (Vahl) Cuf.	Amaranthaceae	2012-11-15	00570
+00580	accepted	Aerva sp.	Amaranthaceae	2012-11-15	00580
+00590	accepted	Aframomum cuspidatum (Gagnep.) K. Schum.	Zingiberaceae	2012-11-15	00590
+01640	accepted	Barleria mucronata Lindau	Acanthaceae	2012-11-15	01640
+01650	accepted	Barleria stuhlmannii Lindau	Acanthaceae	2012-11-15	01650
+12610	accepted	Triumfetta cordifolia  A. Rich.	Tiliaceae	2012-11-15	12610
+01272	synonym	Annona senegalensis Pers. var. senegalensis	Annonaceae	2012-11-15	01270
+01271	synonym	Annona arenaria Thonn.	Annonaceae	2012-11-15	01270
+03572	synonym	Combretum ghasalense Engl. & Diels	Combretaceae	2012-11-15	03570
+03811	synonym	Commiphora kyimbilensis Engl.	Burseraceae	2012-11-15	03810
+05221	synonym	Eclipta alba (L.) Hassk.	Asteraceae	2012-11-15	05220
+00070	accepted	Acacia brevispica Harms	Mimosaceae	2012-11-15	00070
+00080	accepted	Acacia bussei Harms ex Y.Sjöstedt	Mimosaceae	2012-11-15	00080
+00090	accepted	Acacia drepanolobium Harms ex Sjöstedt	Mimosaceae	2012-11-15	00090
+00100	accepted	Acacia exocephaleia ?	Mimosaceae	2012-11-15	00100
+00110	accepted	Acacia flava (Forssk.) Schweinf.	Mimosaceae	2012-11-15	00110
+00120	accepted	Acacia laeta R.Br. ex Benth.	Mimosaceae	2012-11-15	00120
+09390	accepted	Pachycarpus rhinophyllus (K. Schum.) N. E. Br.	Asclepiadaceae	2012-11-15	09390
+09400	accepted	Panicum sp.	Poaceae	2012-11-15	09400
+09410	accepted	Pappea capensis E. & Z. var. radlkoferi Schinz.	Sapindaceae	2012-11-15	09410
+09420	accepted	Pappea capensis Ecklon & Zeyher	Sapindaceae	2012-11-15	09420
+09430	accepted	Parinari benna Scott - Elliot	Chrysobalanaceae	2012-11-15	09430
+09470	accepted	Parinari sp.	Chrysobalanaceae	2012-11-15	09470
+13312	synonym	Ziziphus sphaerocarpa  Tul.	Rhamnaceae	2012-11-15	13310
+01830	accepted	Boophone disticha (L.f.) Herbert	Amaryllidaceae	2012-11-15	01830
+01840	accepted	Borassus flabellifer L.	Palmae	2012-11-15	01840
+01841	synonym	Borassus aethiopum Mart.	Palmae	2012-11-15	01840
+01850	accepted	Borreria verticillata (L.) G. F. W. Mey.	Rubiaceae	2012-11-15	01850
+08800	accepted	Monsonia biflora DC.	Geraniaceae	2012-11-15	08800
+08810	accepted	Monsonia glauca Knuth	Geraniaceae	2012-11-15	08810
+08820	accepted	Monsonia ovata Cav.	Geraniaceae	2012-11-15	08820
+08830	accepted	Morinda lucida Benth.	Rubiaceae	2012-11-15	08830
+10390	accepted	Pouzolzia parasitica (Forssk.) Schweinf.	Urticaceae	2012-11-15	10390
+10400	accepted	Pramnia maxima ?  (Premna maxima T.C.E.Fr. ?)	Verbenaceae	2012-11-15	10400
+10410	accepted	Prosopis africana (Guill. & Perr.) Taub.	Fabaceae	2012-11-15	10410
+11270	accepted	Scoparia dulcis L.	Scrophulariaceae	2012-11-15	11270
+10580	accepted	Pteridium aquilinum  (L.) Kühn	Dennstaedtiaceae	2012-11-15	10580
+10620	accepted	Pterocarpus erinaceus Poir.	Fabaceae	2012-11-15	10620
+10662	synonym	Pupalia atropurpurea (Lam.) Moq.	Amaranthaceae	2012-11-15	10660
+06240	accepted	Glycine javanica L.	Lamiaceae	2012-11-15	06240
+06260	accepted	Gnidia kraussiana Meissner	Thymelaeaceae	2012-11-15	06260
+06270	accepted	Gomphocarpus fructicosus (L.) Aiton f.	Asclepiadaceae	2012-11-15	06270
+03071	synonym	Cyphostemma adenocaule (Steud.)  Descoings	Vitaceae	2012-11-15	03070
+10805	accepted	Rhus pentaphylla Desf.	Anacardiaceae	2012-11-15	10805
+11205	accepted	Schouwia purpurea (Forssk.) Schw.	Brassicaceae	2012-11-15	11205
+09081	synonym	Nitraria retusa (Forssk.) Asch.	Nitrariaceae	2012-11-15	09080
+10065	accepted	Pinus halepensis Mill.	Pinaceae	2012-11-15	10065
+01365	accepted	Aristida ciliata Desf.	Poaceae	2012-11-15	01365
+01555	accepted	Avena sativa L	Poaceae	2012-11-15	01555
+02215	accepted	Calligonum azel Maire	Polygonaceae	2012-11-15	02215
+03245	accepted	Clematis flammula L.	Ranunculaceae	2012-11-15	03245
+03275	accepted	Clematis vitalba L.	Ranunculaceae	2012-11-15	03275
+12235	accepted	Tamarix gallica L.	Tamaricaceae	2012-11-15	12235
+05885	accepted	Fagonia bruguieri DC.	Zygophyllaceae	2012-11-15	05885
+09080	accepted	Nitraria tridentata Desf.	Nitrariaceae	2012-11-15	09080
+08851	synonym	Moringa pterygosperma Gaertn.	Moringaceae	2012-11-15	08850
+06821	synonym	Abelmoschus esculentus (L.) Moench	Malvaceae	2012-11-15	06820
+05920	accepted	Ficus capensis Thunb.	Moraceae	2012-11-15	05920
+05961	synonym	Ficus sycomorus L. subsp. gnaphalocarpa (Miq.)  C.C. Berg	Moraceae	2012-11-15	05960
+09710	accepted	Pennisetum sp.	Poaceae	2012-11-15	09710
+09720	accepted	Pennisetum trachyphyllum Pilg.	Poaceae	2012-11-15	09720
+09731	synonym	Pennisetum americanum  (L.) K. Schum.	Poaceae	2012-11-15	09730
+09740	accepted	Pentaclethra macrophylla Benth.	Fabaceae	2012-11-15	09740
+11871	synonym	Borreria princae K. Schum.	Rubiaceae	2012-11-15	11870
+12571	synonym	Trichilia roka (Forssk.) Chiov	Meliaceae	2012-11-15	12570
+08071	synonym	Leptadenia lancifolia (Schumach & Thonn.) Decne.	Asclepiadaceae	2012-11-15	08070
+08090	accepted	Leptadenia heterophylla (Del.) Decne.	Asclepiadaceae	2012-11-15	08090
+08100	accepted	Leptadenia pyrotechnica (Forssk.) Decne.	Asclepiadaceae	2012-11-15	08100
+08101	synonym	Leptadenia spartium Wight & Arn.	Asclepiadaceae	2012-11-15	08100
+08110	accepted	Leucas calostachys Oliv.	Lamiaceae	2012-11-15	08110
+02960	accepted	Chenopodium vulvaria  L.	Chenopodiaceae	2012-11-15	02960
+03790	accepted	Commiphora rostrata Engl.	Burseraceae	2012-11-15	03790
+03800	accepted	Commiphora sp.	Burseraceae	2012-11-15	03800
+01700	accepted	Bersama abyssinica Fres. subsp. abyssinica  var. abyssinica	Melianthaceae	2012-11-15	01700
+02710	accepted	Cassia spectabilis DC.	Fabaceae	2012-11-15	02710
+02730	accepted	Cassine aethiopica Thunb.	Celastraceae	2012-11-15	02730
+02750	accepted	Cathormion rhombifolium (Benth.) Hutch. & Dandy	Fabaceae	2012-11-15	02750
+03120	accepted	Cissus fischeri Gilg	Vitaceae	2012-11-15	03120
+02760	accepted	Cedrelopsis grevei  H. Bn.	Meliaceae	2012-11-15	02760
+02780	accepted	Ceiba pentandra (L.) Gaertn.	Bombacaceae	2012-11-15	02780
+03270	accepted	Clematis sp.	Ranunculaceae	2012-11-15	03270
+03795	accepted	Commiphora paolii Chiov.	Burseraceae	2012-11-15	03795
+00990	accepted	Aloe sp.	Aloaceae	2012-11-15	00990
+04665	accepted	Debra glabra ?	ZZ	2012-11-15	04665
+04980	accepted	Dobera glabra (Forssk.) Poir.	Salvadoraceae	2012-11-15	04980
+00091	accepted	Acacia ehrenbergiana Hayne	Mimosaceae	2012-11-15	00091
+12565	accepted	Tribulus terrestris L.	Zygophyllaceae	2012-11-15	12565
+06870	accepted	Hibiscus sabdariffa L.	Malvaceae	2012-11-15	06870
+06890	accepted	Hibiscus surattensis L.	Malvaceae	2012-11-15	06890
+02060	accepted	Bridelia angolensis Welw. ex  Muell. Arg.	Euphorbiaceae	2012-11-15	02060
+02090	accepted	Brillantaisia cicatricosa  Lindau.	Acanthaceae	2012-11-15	02090
+02110	accepted	Brucea antidysenterica J.F. Mill.	Simaroubaceae	2012-11-15	02110
+02610	accepted	Cassia italica (Mill.) Lam. ex. F. W. Andr.	Fabaceae	2012-11-15	02610
+02600	accepted	Cassia italica (Mill.) Lam. ex. F. W. Andr. subsp. arachoides (Burch.) Brenan.	Fabaceae	2012-11-15	02600
+08130	accepted	Leucas martinicensis (Jacq.) R. Br.	Lamiaceae	2012-11-15	08130
+10340	accepted	Portulaca oleracea L.	Portulacaceae	2012-11-15	10340
+10360	accepted	Portulaca quadrifida L.	Portulacaceae	2012-11-15	10360
+10370	accepted	Portulaca sp.	Portulacaceae	2012-11-15	10370
+10380	accepted	Pouzolzia denudata De Wild. & Th. Dur.	Urticaceae	2012-11-15	10380
+00021	synonym	Glycine abrus L.	Fabaceae	2012-11-15	00020
+00360	accepted	Acalypha sp.	Euphorbiaceae	2012-11-15	00360
+00370	accepted	Acalypha villicaulis Hochst.ex A. Rich.	Euphorbiaceae	2012-11-15	00370
+00380	accepted	Acalypha volkensii Pax	Euphorbiaceae	2012-11-15	00380
+00400	accepted	Acanthus pubescens (Thomson ex Oliv.) Engl.	Acanthaceae	2012-11-15	00400
+00401	synonym	Acanthus arboreus C.B.Clarke	Acanthaceae	2012-11-15	00400
+00563	synonym	Aerva persica (Burm.) Merrill	Amaranthaceae	2012-11-15	00560
+00561	synonym	Achyranthes javanica (Burm.f.) Pers.	Amaranthaceae	2012-11-15	00560
+00420	accepted	Achyrospermum schimperi (Hochst. ex  Briq.) Perkins ex  Mildbr.	Lamiaceae	2012-11-15	00420
+00840	accepted	Allium cepa L.	Alliaceae	2012-11-15	00840
+03645	accepted	Commelina ancilema ?	Commelinaceae	2012-11-15	03645
+03650	accepted	Commelina benghalensis L.	Commelinaceae	2012-11-15	03650
+03680	accepted	Commelina sp.	Commelinaceae	2012-11-15	03680
+03690	accepted	Commelina vogelii C.B.Cl.	Commelinaceae	2012-11-15	03690
+03700	accepted	Commicarpus plumbagineus (Cav.) Standley	Nyctaginaceae	2012-11-15	03700
+03701	synonym	Commicarpus commersonii (Baillon) Cavaco	Nyctaginaceae	2012-11-15	03700
+03720	accepted	Commiphora erythraea (Ehrenb.) Engl.	Burseraceae	2012-11-15	03720
+08910	accepted	Musa sp.	Musaceae	2012-11-15	08910
+08920	accepted	Musa paradisiaca L.	Musaceae	2012-11-15	08920
+08940	accepted	Myrica kandtiana Engl.	Myricaceae	2012-11-15	08940
+11050	accepted	Salsola crassa auct.	Chenopodiaceae	2012-11-15	11050
+00040	accepted	Acacia abyssinica  Hochst. ex  Benth.	Mimosaceae	2012-11-15	00040
+00050	accepted	Acacia albida Del.	Mimosaceae	2012-11-15	00050
+00061	synonym	Acacia macrothyrsa Harms.	Mimosaceae	2012-11-15	00060
+08095	accepted	Leptadenia madagascariensis Decne.	Asclepiadaceae	2012-11-15	08095
+09235	accepted	Oncoba spinosa Forssk.	Flacourtiaceae	2012-11-15	09235
+01375	accepted	Aristolochia elegans Mast.	Aristolochiaceae	2012-11-15	01375
+08650	accepted	Milicia excelsa (Welw.) C.C. Berg	Moraceae	2012-11-15	08650
+08651	synonym	Chlorophora excelsa (Welw) Benth. & Hook.	Moraceae	2012-11-15	08650
+08720	accepted	Momordica balsamina L.	Cucurbitaceae	2012-11-15	08720
+09070	accepted	Nicotiana tabacum L.	Solanaceae	2012-11-15	09070
+10010	accepted	Phytolacca dodecandra  L'Hérit.	Phytolaccaceae	2012-11-15	10010
+11930	accepted	Stachytarpheta jamaicensis Vahl	Verbenaceae	2012-11-15	11930
+12810	accepted	Vernonia angola O. Hoffm.	Asteraceae	2012-11-15	12810
+13160	accepted	Ximenia caffra Sond. var. caffra	Olacaceae	2012-11-15	13160
+13170	accepted	Xylopia aethiopica (Dunal) A. Rich.	Annonaceae	2012-11-15	13170
+13171	synonym	Uvaria aethiopica Guil. et Pers.	Annonaceae	2012-11-15	13170
+13190	accepted	Xysmalobium undulatum (L.) W.T.Aiton	Apocynaceae	2012-11-15	13190
+13260	accepted	Zehneria scabra  (L.f.) Sond.	Cucurbitaceae	2012-11-15	13260
+13261	synonym	Melothria punctata (Thunb.) Cogn.	Cucurbitaceae	2012-11-15	13260
+06700	accepted	Helichrysum kirkii Oliv. & Hiern	Asteraceae	2012-11-15	06700
+06720	accepted	Helichrysum schimperi (Schultz - Bip.) Moeser	Asteraceae	2012-11-15	06720
+06730	accepted	Helinus mystacinus (Ait.) E. Mey . ex  Steud.	Rhamnaceae	2012-11-15	06730
+06740	accepted	Heliotropium bacciferum Forssk.	Boraginaceae	2012-11-15	06740
+06741	synonym	Heliotropium undulatum Vahl	Boraginaceae	2012-11-15	06740
+06770	accepted	Hexalobus monopetalus (A. Rich.) Engl. & Diels	Annonaceae	2012-11-15	06770
+06771	synonym	Uvaria monopetala A. Richard.	Annonaceae	2012-11-15	06770
+10771	synonym	Rhoicissus erythrodes (Fresen.) Planch.	Vitaceae	2012-11-15	10770
+05405	accepted	Eragrostis tenuifolia (A. Rich.) Hochst. ex Steud.	Poaceae	2012-11-15	05405
+05075	accepted	Dovyalis macrocalyx (Oliv.) Warb	Flacourtiaceae	2012-11-15	05075
+04045	accepted	Crassocephalum rubens (Juss. ex Jacq.) Moore	Asteraceae	2012-11-15	04045
+09760	accepted	Pentanisia auranogyne S. Moore	Rubiaceae	2012-11-15	09760
+09770	accepted	Pentanisia prunelloides Walp.	Rubiaceae	2012-11-15	09770
+09780	accepted	Pentas longiflora Oliv.	Rubiaceae	2012-11-15	09780
+12455	accepted	Tinnea aethiopica Kotschy ex Hook.f.	Lamiaceae	2012-11-15	12455
+12481	synonym	Desmonema fragosum Verd.	Menispermaceae	2012-11-15	12480
+12500	accepted	Toddalia aculeata Pers.	Rutaceae	2012-11-15	12500
+13222	synonym	Fagara macrophylla (Oliv.) Engl. var. preussi Engl	Rutaceae	2012-11-15	13220
+11941	synonym	Peucedanum araliaceum (Hochst.) Benth.	Apiaceae	2012-11-15	11940
+01890	accepted	Boscia augustifilia Guill. & Perr.	Capparaceae	2012-11-15	01890
+01900	accepted	Boscia coriacea Pax	Capparaceae	2012-11-15	01900
+01910	accepted	Boscia elegans Gilg	Capparaceae	2012-11-15	01910
+01920	accepted	Boscia mossambicensis Klotz	Capparaceae	2012-11-15	01920
+01930	accepted	Boscia salicifolia Oliv.	Capparaceae	2012-11-15	01930
+01931	synonym	Boscia powellii Sprague & Green	Capparaceae	2012-11-15	01930
+01932	synonym	Boscia stylosa Gilg & Bened.	Capparaceae	2012-11-15	01930
+01940	accepted	Boscia senegalensis (Pers.) Lam. ex Poir.	Capparaceae	2012-11-15	01940
+03820	accepted	Convolvulus sagittatus Thunb. var. aschersonii (Engl.) Verdc.	Convolvulaceae	2012-11-15	03820
+03840	accepted	Conyza aegyptiaca (L.) Ait.	Asteraceae	2012-11-15	03840
+03860	accepted	Conyza naudini Bonnet	Asteraceae	2012-11-15	03860
+03040	accepted	Cissampelos mucronata A. Rich.	Menispermaceae	2012-11-15	03040
+03041	synonym	Cissampelos pareira L.T	Menispermaceae	2012-11-15	03040
+03060	accepted	Cissampelos pareira L. var. orbiculala (DC.) Miq.	Menispermaceae	2012-11-15	03060
+03080	accepted	Cissus aralioides  (Welw. ex Bak.) Planch.	Vitaceae	2012-11-15	03080
+03090	accepted	Cissus cactiformis Gilg.	Vitaceae	2012-11-15	03090
+04120	accepted	Crossopteryx  febrifuga (Afz. ex G. Don) Benth.	Rubiaceae	2012-11-15	04120
+04121	synonym	Rondeletia africana T. Winterb.	Rubiaceae	2012-11-15	04120
+04170	accepted	Croton gratissimus Burch.	Euphorbiaceae	2012-11-15	04170
+04190	accepted	Croton megalocarpus Hutch.	Euphorbiaceae	2012-11-15	04190
+04210	accepted	Croton sylvaticus  Hoschst. ex  Krauss	Euphorbiaceae	2012-11-15	04210
+04250	accepted	Cucumis ficifolius A. Rich.	Cucurbitaceae	2012-11-15	04250
+04262	synonym	Cucumis melo L.	Cucurbitaceae	2012-11-15	04260
+04260	accepted	Cucumis melo L. var. agrestis Naud.	Cucurbitaceae	2012-11-15	04260
+02130	accepted	Bulbine narcissifolia Salm - Dyck.	Asphodelaceae	2012-11-15	02130
+02150	accepted	Butyrospermum sp.	Sapotaceae	2012-11-15	02150
+10970	accepted	Rytigynia castanea  Robyns	Rubiaceae	2012-11-15	10970
+10971	synonym	Rytigynia monantha (K.Schum.) Robyns	Rubiaceae	2012-11-15	10970
+10990	accepted	Saba comorensis (Bojer) Pichon	Apocynaceae	2012-11-15	10990
+05030	accepted	Dolichos trinervatus Bak.	Fabaceae	2012-11-15	05030
+05060	accepted	Dombeya mollis Hook.	Sterculiaceae	2012-11-15	05060
+05100	accepted	Dracaena deremensis Engl.	Dracaenaceae	2012-11-15	05100
+05120	accepted	Dracaena steudneri Engl.	Dracaenaceae	2012-11-15	05120
+05140	accepted	Droogmansia pteropus (Baker) De Wild.	Fabaceae	2012-11-15	05140
+05160	accepted	Dryopteris filix-mas (L.) Schott	Dryopteridaceae	2012-11-15	05160
+01941	synonym	Boscia octandra Hochst. ex  Radlk.	Capparaceae	2012-11-15	01940
+03870	accepted	Conyza newii  Oliv. & Hiern	Asteraceae	2012-11-15	03870
+03890	accepted	Copaifera baumania Harms	Fabaceae	2012-11-15	03890
+03910	accepted	Corchorus trilocularis Lam.	Tiliaceae	2012-11-15	03910
+03930	accepted	Cordia africana Lam.	Boraginaceae	2012-11-15	03930
+03940	accepted	Cordia gharaf (Forssk.) Ehrenb. ex Asch.	Boraginaceae	2012-11-15	03940
+03942	synonym	Cordia rothii Roem. & Schult	Boraginaceae	2012-11-15	03940
+01561	synonym	Avicennia germinans (L. ) L.	Avicenniaceae	2012-11-15	01560
+04670	accepted	Delonix elata  (L.) Gamble	Fabaceae	2012-11-15	04670
+04690	accepted	Detarium microcarpum Guill. & Perr.	Fabaceae	2012-11-15	04690
+04745	accepted	Dichrostachys glomerata (Forssk.) Chiov.	Fabaceae	2012-11-15	04745
+04770	accepted	Digitaria abyssinica  (A. Rich.) Stapf	Poaceae	2012-11-15	04770
+11980	accepted	Sterculia quinqueloba (Garcke) K. Schum.	Sterculiaceae	2012-11-15	11980
+12000	accepted	Sterculia sp.	Sterculiaceae	2012-11-15	12000
+12020	accepted	Striga senegalensis Benth.	Scrophulariaceae	2012-11-15	12020
+12021	synonym	Striga hermontheca (Del.) Benth.	Scrophulariaceae	2012-11-15	12020
+12050	accepted	Strychnos sp.	Strychnaceae	2012-11-15	12050
+12060	accepted	Strychnos spinosa Lam.	Strychnaceae	2012-11-15	12060
+12061	synonym	Strychnos buettneri Gilg	Strychnaceae	2012-11-15	12060
+12130	accepted	Synadenium grantii Hook. f.	Euphorbiaceae	2012-11-15	12130
+12160	accepted	Syzygium cordatum Hochst. in C.Krauss	Myrtaceae	2012-11-15	12160
+12190	accepted	Tacazzea apiculata Oliv.	Asclepiadaceae	2012-11-15	12190
+12801	synonym	Vernonia senegalensis A. Chev.	Asteraceae	2012-11-15	12800
+12221	synonym	Tamarindus erythraea Mattei	Fabaceae	2012-11-15	12220
+12222	accepted	Tamarindus sp.	Fabaceae	2012-11-15	12222
+12280	accepted	Teclea nobilis Del.	Rutaceae	2012-11-15	12280
+12310	accepted	Tephrosia nana Kotschy ex Schweinf.	Fabaceae	2012-11-15	12310
+12311	synonym	Tephrosia barbigera Welw. ex Bak.	Fabaceae	2012-11-15	12310
+11540	accepted	Solanum aculeastrum Dunal	Solanaceae	2012-11-15	11540
+11560	accepted	Solanum adoense Hoschst.	Solanaceae	2012-11-15	11560
+03190	accepted	Citrullus lanatus (Thunb.) Matsumara & Makai	Cucurbitaceae	2012-11-15	03190
+03191	synonym	Citrullus vulgaris Eckl. & Zeyh.	Cucurbitaceae	2012-11-15	03190
+12770	accepted	Vangueria sp.	Rubiaceae	2012-11-15	12770
+12780	accepted	Verbascum sinaiticum Benth.	Scrophulariaceae	2012-11-15	12780
+12790	accepted	Verbena officinalis L.	Verbenaceae	2012-11-15	12790
+09260	accepted	Opuntia vulgaris Mill.	Cactaceae	2012-11-15	09260
+09280	accepted	Orobanche minor Smith	Orobanchaceae	2012-11-15	09280
+05826	accepted	Euphorbia sp.	Euphorbiaceae	2012-11-15	05826
+05865	accepted	Fagara capensis Thunb.	Rutaceae	2012-11-15	05865
+06820	accepted	Hibiscus esculentus (L.) Moench	Malvaceae	2012-11-15	06820
+06840	accepted	Hibiscus fuscus Garcke	Malvaceae	2012-11-15	06840
+06880	accepted	Hibiscus sp.	Malvaceae	2012-11-15	06880
+06920	accepted	Holarrhena africana DC.	Apocynaceae	2012-11-15	06920
+06921	synonym	Holarrhena floribunda (G. Don) Dur. & Schinz	Apocynaceae	2012-11-15	06920
+06160	accepted	Girardinia condensata (Hochst. ex Steud.) Wedd.	Urticaceae	2012-11-15	06160
+06170	accepted	Gladiolus dalenii Van Geel	Iridaceae	2012-11-15	06170
+06180	accepted	Gladiolus natalensis Reinw. ex  Hook.f.	Iridaceae	2012-11-15	06180
+06190	accepted	Gladiolus psittacinus Hook.f.	Iridaceae	2012-11-15	06190
+06200	accepted	Gladiolus sp.	Iridaceae	2012-11-15	06200
+06210	accepted	Glinus lotoides L.	Aizoaceae	2012-11-15	06210
+06230	accepted	Glossonema boveanum (Decne.) Decne. subsp. nubicum	Asclepiadaceae	2012-11-15	06230
+06280	accepted	Gomphocarpus physocarpus E. Mey.	Asclepiadaceae	2012-11-15	06280
+06290	accepted	Gossypioides kirkii   (Mast.) J.B. Hutch.	Malvaceae	2012-11-15	06290
+06310	accepted	Gossypium simpsonii Watt.	Malvaceae	2012-11-15	06310
+06320	accepted	Gossypium sp.	Malvaceae	2012-11-15	06320
+06360	accepted	Grewia ferruginea Hochst. ex A. Rich.	Tiliaceae	2012-11-15	06360
+06381	synonym	Grewia venusta Fresen.	Tiliaceae	2012-11-15	06380
+06390	accepted	Grewia similis K. Schum.	Tiliaceae	2012-11-15	06390
+06410	accepted	Grewia tembensis Frensen	Tiliaceae	2012-11-15	06410
+06430	accepted	Grewia villosa  Willd.	Tiliaceae	2012-11-15	06430
+06431	synonym	Grewia echinulata  Del.	Tiliaceae	2012-11-15	06430
+06450	accepted	Guibourtia coleosperma J. Léonard	Fabaceae	2012-11-15	06450
+06460	accepted	Guiera senegalensis J.F. Gmel.	Combretaceae	2012-11-15	06460
+06480	accepted	Gunnera perpensa L.	Gunneraceae	2012-11-15	06480
+06502	synonym	Gynandropsis pentaphylla DC.	Capparaceae	2012-11-15	06500
+06510	accepted	Gynura ruwenzoriensis  (S. Moore) S. Moore	Asteraceae	2012-11-15	06510
+12040	accepted	Strychnos potatorum L. f.	Strychnaceae	2012-11-15	12040
+12070	accepted	Suaeda sp.	Chenopodiaceae	2012-11-15	12070
+05300	accepted	Eleusine coracana (L.) Gaertn.	Poaceae	2012-11-15	05300
+01851	synonym	Spermacoce verticillata L.	Rubiaceae	2012-11-15	01850
+01860	accepted	Boscia albitrunca (Burch.) Gilg. & Benedict	Capparaceae	2012-11-15	01860
+01870	accepted	Boscia angustifolia A. Rich.	Capparaceae	2012-11-15	01870
+01880	accepted	Boscia angustifolia A. Rich. var. angustifolia	Capparaceae	2012-11-15	01880
+07580	accepted	Kalanchoe densiflora Rolfe	Crassulaceae	2012-11-15	07580
+07600	accepted	Kalanchoe glaucescens Britt.	Crassulaceae	2012-11-15	07600
+07601	synonym	Kalanchoe beniensis De Wild.	Crassulaceae	2012-11-15	07600
+07630	accepted	Kalanchoe sp.	Crassulaceae	2012-11-15	07630
+07661	synonym	Swietenia senegalensis Desv.	Meliaceae	2012-11-15	07660
+07670	accepted	Kigelia aethiopica Decne.	Bignoniaceae	2012-11-15	07670
+07700	accepted	Kleinia sp.	Asteraceae	2012-11-15	07700
+09450	accepted	Parinari excelsa Sabine	Chrysobalanaceae	2012-11-15	09450
+09000	accepted	Neoboutonia melleri (Müll.Arg.) Prain	Euphorbiaceae	2012-11-15	09000
+01600	accepted	Balanites aegyptiaca (L.) Del.	Zygophyllaceae	2012-11-15	01600
+01601	synonym	Balanites gillettii Cufod.	Zygophyllaceae	2012-11-15	01600
+01410	accepted	Artocarpus heterophyllus Lam.	Moraceae	2012-11-15	01410
+01421	synonym	Asparagus flagellaris Baker	Asparagaceae	2012-11-15	01420
+01430	accepted	Asparagus africanus Lam.	Asparagaceae	2012-11-15	01430
+13360	accepted	Zygophyllum album L.	Zygophyllaceae	2012-11-15	13360
+00755	accepted	Albizia adianthifolia (Schum.) W. F. Wight	Fabaceae	2012-11-15	00755
+03750	accepted	Commiphora incisa Chiov.	Burseraceae	2012-11-15	03750
+11532	accepted	Sideroxylon inerme L.	Sapotaceae	2012-11-15	11532
+11695	accepted	Solanum mauritianum Scop.	Solanaceae	2012-11-15	11695
+11935	accepted	Stangeria eriopus (Kunze) Baill.	Zamiaceae	2012-11-15	11935
+12032	accepted	Strychnos decussata (Pappe) Gilg	Strychnaceae	2012-11-15	12032
+12034	accepted	Strychnos henningsii Gilg	Strychnaceae	2012-11-15	12034
+12405	accepted	Teucrium africanum Thumb.	Lamiaceae	2012-11-15	12405
+12898	accepted	Vernonia mespilifolia Less.	Asteraceae	2012-11-15	12898
+13195	accepted	Zanthoxylum capense (Thumb.) Harv.	Rutaceae	2012-11-15	13195
+01321	synonym	Anvillea radiata Coss. & Dr. var. australis Chev	Synantheraceae	2012-11-15	01320
+03491	synonym	Cola nitida (Vent.) Scott & Endl.	Sterculiaceae	2012-11-15	03490
+04631	synonym	Dalbergia dekindtiana Harms	Fabaceae	2012-11-15	04630
+08975	accepted	Mystroxylon aethiopicum (Thunb.) Loes	Celastraceae	2012-11-15	08975
+12791	synonym	Verbena officinalis L. subsp. africana R.Fern. & Verdc.	Verbenaceae	2012-11-15	12790
+10446	synonym	Amygdalus persica L.	Rosaceae	2012-11-15	10445
+11102	accepted	Salvadora persica L. var. persica	Salvadoraceae	2012-11-15	11102
+00030	accepted	Abutilon grandifolium (Willd.) Sw.	Malvaceae	2012-11-15	00030
+00112	accepted	Acacia hockii De Wild	Mimosaceae	2012-11-15	00112
+05073	accepted	Dovyalis abyssinica (A. Rich.) Warb	Flacourtiaceae	2012-11-15	05073
+06715	accepted	Helichrysum odoratissimum (L.) Sweet	Asteraceae	2012-11-15	06715
+10175	accepted	Plectranthus edulis (Vatke) Agnew	Lamiaceae	2012-11-15	10175
+10227	accepted	Pollichia campestris Aiton	Illecebraceae	2012-11-15	10227
+11185	accepted	Satureja abyssinica (Benth.) Briq.	Lamiaceae	2012-11-15	11185
+11275	accepted	Scutia myrtina (Burm. F.) Kuntz	Rhamnaceae	2012-11-15	11275
+12031	accepted	Struthiola thomsonii Oliv.	Thymaeleaceae	2012-11-15	12031
+00932	accepted	Aloe greatheadii var. davyana (Schonl.) H.F. Glen & D.S. Hardy	Aloaceae	2012-11-15	00932
+03070	accepted	Cissus adenocaulis Steud. ex A. Rich.	Vitaceae	2012-11-15	03070
+04630	accepted	Dalbergia nitidula Bak.	Fabaceae	2012-11-15	04630
+04640	accepted	Daniellia oliveri (Rolfe) Hutch. & Dalziel	Fabaceae	2012-11-15	04640
+04641	synonym	Paradaniellia oliveri  Rolfe	Fabaceae	2012-11-15	04640
+04652	synonym	Datura fastuosa L.	Solanaceae	2012-11-15	04650
+11760	accepted	Solanum terminale Forssk.	Solanaceae	2012-11-15	11760
+11780	accepted	Solenostemma arghel  (Del.) Hayne	Asclepiadaceae	2012-11-15	11780
+11180	accepted	Sarcostemma viminale (L.) R. Br.	Apocynaceae	2012-11-15	11180
+11190	accepted	Satureja pseudosimensis Brenan	Lamiaceae	2012-11-15	11190
+12640	accepted	Triumfetta rhomboidea  Jacq.	Tiliaceae	2012-11-15	12640
+12711	synonym	Uapaca somon Aubrév. & Léandri	Euphorbiaceae	2012-11-15	12710
+12710	accepted	Uapaca togoensis Pax	Euphorbiaceae	2012-11-15	12710
+12740	accepted	Urera hypselodendron (Hochst. ex  A. Rich.) Wedd.	Urticaceae	2012-11-15	12740
+12750	accepted	Urginea altissima (L.f.) Bak.	Hyacinthaceae	2012-11-15	12750
+12760	accepted	Urtica massaica Mildbr.	Urticaceae	2012-11-15	12760
+12800	accepted	Vernonia amygdalina Delile	Asteraceae	2012-11-15	12800
+12830	accepted	Vernonia colorata (Willd.) Drake	Asteraceae	2012-11-15	12830
+12891	synonym	Vernonia alboviolaceae De Wild.	Asteraceae	2012-11-15	12890
+10775	accepted	Rhus albidum Schousb.	Anacardiaceae	2012-11-15	10775
+00450	accepted	Acorus calamus L.	Acoraceae	2012-11-15	00450
+00460	accepted	Acrotome inflata Benth.	Lamiaceae	2012-11-15	00460
+00480	accepted	Adenia bequaertii Robyns & Lawalrée	Passifloraceae	2012-11-15	00480
+05824	accepted	Euphorbia somalensis Pax	Euphorbiaceae	2012-11-15	05824
+10310	accepted	Polyscias fulva  (Hiern) Harms	Araliaceae	2012-11-15	10310
+10330	accepted	Portulaca foliosa Ker-Gawl.	Portulacaceae	2012-11-15	10330
+10350	accepted	Portulaca oleracea L.var. sativa DC.	Portulacaceae	2012-11-15	10350
+06521	synonym	Scadoxus multiflorus (Martyn) Rafin.	Amaryllidaceae	2012-11-15	06520
+06530	accepted	Hagenia abyssinica (Bruce) J.F. Gmel.	Rosaceae	2012-11-15	06530
+08915	accepted	Musa acuminata Colla.	Musaceae	2012-11-15	08915
+06561	synonym	Harrisonia occidentalis Engl.	Simaroubaceae	2012-11-15	06560
+08390	accepted	Maesa lanceolata Forssk.	Myrsinaceae	2012-11-15	08390
+08660	accepted	Millettia dura Dunn	Fabaceae	2012-11-15	08660
+08670	accepted	Millettia versicolor Welw. ex  Bak.	Fabaceae	2012-11-15	08670
+09370	accepted	Oxytenanthera abyssinica (A. Rich.) Munro	Poaceae	2012-11-15	09370
+09520	accepted	Parkinsonia aculeata  L.	Fabaceae	2012-11-15	09520
+09530	accepted	Parmelia hottentotta (Ach.) Ach	Parmeliaceae	2012-11-15	09530
+09570	accepted	Pausinystalia johimbe (K. Schum.) Pierre ex  Beill	Rubiaceae	2012-11-15	09570
+09590	accepted	Pavetta albertina S. Moore	Rubiaceae	2012-11-15	09590
+09610	accepted	Pavetta gardeniifolia A. Rich.	Rubiaceae	2012-11-15	09610
+09620	accepted	Pavetta oblongifolia Bremek.	Rubiaceae	2012-11-15	09620
+09630	accepted	Pavetta ternifolia (Oliv.) Hiern	Rubiaceae	2012-11-15	09630
+09651	synonym	Pelargonium reniforme Curt.	Geraniaceae	2012-11-15	09650
+09670	accepted	Pellaea calomelanos (Sw.) Link	Sinopteridaceae	2012-11-15	09670
+09680	accepted	Pennisetum dalzielii Stapf. & Hubbard	Poaceae	2012-11-15	09680
+09690	accepted	Pennisetum pedicellatum Trin.	Poaceae	2012-11-15	09690
+10762	synonym	Rhoicissus sansibariensis Gilg.	Vitaceae	2012-11-15	10760
+10763	synonym	Rhoicissus schlechteri Gilg & Brandt.	Vitaceae	2012-11-15	10760
+10770	accepted	Rhoicissus tridentata (L.f.) Wild & Drummond	Vitaceae	2012-11-15	10770
+01260	accepted	Annona muricata L.	Annonaceae	2012-11-15	01260
+01280	accepted	Annona squamosa L.	Annonaceae	2012-11-15	01280
+01290	accepted	Anogeissus leiocarpus (DC.) Guill. & Perr.	Combretaceae	2012-11-15	01290
+01291	synonym	Anogeissus schimperi Hochst. ex  Hutch. & Dalziel	Combretaceae	2012-11-15	01290
+01300	accepted	Anonidium mannii (Oliv.) Engl. & Diels	Annonaceae	2012-11-15	01300
+01310	accepted	Ansellia africana Lindl.	Orchidaceae	2012-11-15	01310
+01320	accepted	Anvillea radiata Coss. & Dr.	Synantheraceae	2012-11-15	01320
+01330	accepted	Apium graveolens L.	Apiaceae	2012-11-15	01330
+01340	accepted	Apodytes dimidiata E. Mey. Ex Arn.	Icacinaceae	2012-11-15	01340
+01350	accepted	Arachis hypogaea L.	Fabaceae	2012-11-15	01350
+01360	accepted	Argemone mexicana L.	Papaveraceae	2012-11-15	01360
+01370	accepted	Aristolochia bracteata Retz.	Aristolochiaceae	2012-11-15	01370
+01380	accepted	Artemisia abyssinica Sch.Bip ex Rich	Asteraceae	2012-11-15	01380
+01390	accepted	Artemisia herba-alba Asso	Asteraceae	2012-11-15	01390
+06670	accepted	Helichrysum forskahlii  (J.F.Gmel.) Hilliard	Asteraceae	2012-11-15	06670
+03581	synonym	Combretum hypopilinum Diels	Combretaceae	2012-11-15	03580
+07550	accepted	Justicia flava  (Forssk.) Vahl	Acanthaceae	2012-11-15	07550
+07560	accepted	Kaempferia ethele Wood	Zingiberaceae	2012-11-15	07560
+07570	accepted	Kalanchoe crenata (Andr.) Haw.	Crassulaceae	2012-11-15	07570
+07610	accepted	Kalanchoe marmorata Bak.	Crassulaceae	2012-11-15	07610
+07620	accepted	Kalanchoe somaliensis Bak.	Crassulaceae	2012-11-15	07620
+07640	accepted	Kedrostis gijef (J.F. Gmel.) C. Jeffr.	Cucurbitaceae	2012-11-15	07640
+07650	accepted	Khaya anthotheca (Welw.) DC.	Meliaceae	2012-11-15	07650
+07660	accepted	Khaya senegalensis (Desv.) A. Juss.	Meliaceae	2012-11-15	07660
+07680	accepted	Kigelia aethiopica Decne. var. bornuensis Sprague	Bignoniaceae	2012-11-15	07680
+07710	accepted	Kniphofia foliosa Hochst	Asphodelaceae	2012-11-15	07710
+07720	accepted	Kolobopetalum chevalieri (Hutch. & Dalz.) Troupin	Menispermaceae	2012-11-15	07720
+07740	accepted	Kotschya africana  Endl.var. bequaertii   (De Wild) Verdc.	Fabaceae	2012-11-15	07740
+07760	accepted	Lactuca sativa L.	Asteraceae	2012-11-15	07760
+05170	accepted	Dryopteris pentheri  (Krasser) C.Chr.	Dryopteridaceae	2012-11-15	05170
+06491	synonym	Erlangea cordifolia (Benth. ex Oliv.) S. Moore	Asteraceae	2012-11-15	06490
+04961	synonym	Dissotis irvingiana Hook. f.	Melastomataceae	2012-11-15	04960
+04962	synonym	Dissotis irvingiana Hook. var. irvingiana f. abyssinica	Melastomataceae	2012-11-15	04960
+05990	accepted	Ficus ovata Valh	Moraceae	2012-11-15	05990
+12755	accepted	Urginea maritima L.	Hyacinthaceae	2012-11-15	12755
+02875	accepted	Chamaerops humilis L.	Palmaceae	2012-11-15	02875
+01185	accepted	Anastatica hierochuntica L	Brassicaceae	2012-11-15	01185
+11645	accepted	Solanum hastifolium Dunal	Solanaceae	2012-11-15	11645
+11580	accepted	Solanum anguivi Lam.	Solanaceae	2012-11-15	11580
+11590	accepted	Solanum bojeri  Dun.	Solanaceae	2012-11-15	11590
+11610	accepted	Solanum cerasiferum Dun.	Solanaceae	2012-11-15	11610
+10960	accepted	Rumex usambarensis  (Engl.) Damm.	Polygonaceae	2012-11-15	10960
+10980	accepted	Rytigynia kivuensis (Krause) Robyns	Rubiaceae	2012-11-15	10980
+11010	accepted	Saba senegalensis (A.DC.) Pichon	Apocynaceae	2012-11-15	11010
+11022	accepted	Saccharum sp.	Poaceae	2012-11-15	11022
+11031	synonym	Salix mucronata Thunb.	Salicaceae	2012-11-15	11030
+11330	accepted	Senecio lyratipartitus Sch.- Bip. ex A. Rich.	Asteraceae	2012-11-15	11330
+11340	accepted	Senecio maranguensis O. Hoffm.	Asteraceae	2012-11-15	11340
+11370	accepted	Senecio sp.	Asteraceae	2012-11-15	11370
+11390	accepted	Sesamum alatum Thonning	Pedaliaceae	2012-11-15	11390
+03295	accepted	Cleome arabica L.subsp. amblyocarpa Barr. & Murb.	Capparaceae	2012-11-15	03295
+04153	accepted	Crotalaria saharae Coss	Fabaceae	2012-11-15	04153
+04156	accepted	Crotalaria vialattei Batt.	Fabaceae	2012-11-15	04156
+11790	accepted	Sonchus oleraceus L.	Asteraceae	2012-11-15	11790
+11810	accepted	Sonchus sp.	Asteraceae	2012-11-15	11810
+08120	accepted	Leucas deflexa Hook. f.	Lamiaceae	2012-11-15	08120
+02430	accepted	Capsicum frutescens L.	Solanaceae	2012-11-15	02430
+02450	accepted	Caralluma dalzielii N.E. Br.	Asclepiadaceae	2012-11-15	02450
+02470	accepted	Caralluma sp.	Asclepiadaceae	2012-11-15	02470
+02490	accepted	Carapa procera DC.	Meliaceae	2012-11-15	02490
+03280	accepted	Clematopsis scabiosifolia (DC.) Hutch.	Ranunculaceae	2012-11-15	03280
+08471	synonym	Markhamia hildebrandtii (Bak.) Sprague	Bignoniaceae	2012-11-15	08470
+09335	accepted	Othonna natalensis Sch. Bip.	Asteraceae	2012-11-15	09335
+10755	accepted	Rhoicissus capensis Planch.	Vitaceae	2012-11-15	10755
+11105	accepted	Salvia africana-coerulea L.	Lamiaceae	2012-11-15	11105
+10590	accepted	Pteris similis Kühn	Pteridaceae	2012-11-15	10590
+10600	accepted	Pterocarpus africanus ?	Fabaceae	2012-11-15	10600
+10610	accepted	Pterocarpus angolensis DC.	Fabaceae	2012-11-15	10610
+10630	accepted	Pterocarpus satanlinoides L'Herv. ex - DC. f.	Fabaceae	2012-11-15	10630
+10640	accepted	Pterodiscus ruspolii Engl.	Pedialiaceae	2012-11-15	10640
+10650	accepted	Pulicaria crispa (Forssk.) Benth. ex  Oliv.	Asteraceae	2012-11-15	10650
+10651	synonym	Aster crispa Forssk.	Asteraceae	2012-11-15	10650
+10670	accepted	Pycnostachys eminii Guerke	Lamiaceae	2012-11-15	10670
+10690	accepted	Pycnostachys umbrosa (Vatke) Perkins	Lamiaceae	2012-11-15	10690
+10700	accepted	Ranunculus multifidus Forssk.	Ranunculaceae	2012-11-15	10700
+07790	accepted	Lagenaria rufa (Gilg)  Jeffrey	Cucurbitaceae	2012-11-15	07790
+07800	accepted	Lagenaria siceraria (Molina) Standley	Cucurbitaceae	2012-11-15	07800
+07810	accepted	Lagenaria sp.	Cucurbitaceae	2012-11-15	07810
+07820	accepted	Lagenaria sphaerica (Sond.) Naud.	Cucurbitaceae	2012-11-15	07820
+07821	synonym	Sphaerosicyos sphaericus (Sond.) Cogn.	Cucurbitaceae	2012-11-15	07820
+07830	accepted	Laggera tomentosa Sch-Bip	Asteraceae	2012-11-15	07830
+07401	synonym	Ipomoea digitata sensu auct., non L.	Convolvulaceae	2012-11-15	07400
+07410	accepted	Ipomoea quamoclit L.	Convolvulaceae	2012-11-15	07410
+07491	synonym	Jatropha acerifolia Salisb.	Euphorbiaceae	2012-11-15	07490
+07492	synonym	Jatropha afrocurcas Pax.	Euphorbiaceae	2012-11-15	07490
+02671	synonym	Senna siamea (DC.) Irwin & Barneby	Fabaceae	2012-11-15	02670
+02681	synonym	Cassia kotschyana Oliv.	Fabaceae	2012-11-15	02680
+02680	accepted	Cassia sieberiana DC.	Fabaceae	2012-11-15	02680
+03550	accepted	Colophospermum mopane (Benth.) J. Léonar	Fabaceae	2012-11-15	03550
+03770	accepted	Commiphora merkei Engl.	Burseraceae	2012-11-15	03770
+03780	accepted	Commiphora myrrha (Nees) Engl.	Burseraceae	2012-11-15	03780
+03810	accepted	Commiphora zimmermannii Engl.	Burseraceae	2012-11-15	03810
+05550	accepted	Eucalyptus globulus Labill.	Myrtaceae	2012-11-15	05550
+07430	accepted	Ipomoea sp.	Convolvulaceae	2012-11-15	07430
+06020	accepted	Ficus sp.	Moraceae	2012-11-15	06020
+06350	accepted	Grewia carpinifolia Juss.	Tiliaceae	2012-11-15	06350
+02690	accepted	Cassia singueana Del.	Fabaceae	2012-11-15	02690
+02692	synonym	Cassia goratensis Fres.	Fabaceae	2012-11-15	02690
+06560	accepted	Harrisonia abyssinica Oliv.	Simaroubaceae	2012-11-15	06560
+06860	accepted	Hibiscus noldae Bak. f.	Malvaceae	2012-11-15	06860
+07780	accepted	Lagenaria abyssinica  (Hook. f.) Jeffrey	Cucurbitaceae	2012-11-15	07780
+07781	synonym	Adenopus abyssinicus Hook. f.	Cucurbitaceae	2012-11-15	07780
+07801	synonym	Lagenaria vulgaris Ser.	Cucurbitaceae	2012-11-15	07800
+08450	accepted	Manihot glaziovii  Muell. Arg.	Euphorbiaceae	2012-11-15	08450
+06400	accepted	Grewia sp.	Tiliaceae	2012-11-15	06400
+11890	accepted	Spilanthes acmella  Auct. non (L.) Murr.	Asteraceae	2012-11-15	11890
+11910	accepted	Sporobolus marginatus A. Rich.	Poaceae	2012-11-15	11910
+11920	accepted	Stachys aethiopica L.	Lamiaceae	2012-11-15	11920
+12660	accepted	Trochomeria dalzielii Hutch.	Cucurbitaceae	2012-11-15	12660
+12670	accepted	Turraea vogelii Hook. f. ex Benth.	Meliaceae	2012-11-15	12670
+00330	accepted	Acalypha ambigua Pax	Euphorbiaceae	2012-11-15	00330
+04650	accepted	Datura metel L.	Solanaceae	2012-11-15	04650
+10802	accepted	Rhus natalensis var. macrocarpa (Schweinf.) Cufod.	Anacardiaceae	2012-11-15	10802
+10810	accepted	Rhus vulgaris Meikle	Anacardiaceae	2012-11-15	10810
+06930	accepted	Hoslundia opposita Vahl	Lamiaceae	2012-11-15	06930
+06950	accepted	Hydnora johannis Beccari	Hydnoraceae	2012-11-15	06950
+06960	accepted	Hydrocotyle mannii Hook. f.	Apiaceae	2012-11-15	06960
+07692	synonym	Kigelia aculifolia Engl. ex Sprague	Bignoniaceae	2012-11-15	07690
+07100	accepted	Hyptis spicigera Lam.	Lamiaceae	2012-11-15	07100
+07110	accepted	Hyptis suaveolens Poit.	Lamiaceae	2012-11-15	07110
+07190	accepted	Indigofera atriceps Hook. f.	Fabaceae	2012-11-15	07190
+07220	accepted	Indigofera homblei Baker	Fabaceae	2012-11-15	07220
+07240	accepted	Indigofera schimperi Jaub. & Spach	Fabaceae	2012-11-15	07240
+02250	accepted	Calotropis procera (Aiton) W.T.Aiton	Apocynaceae	2012-11-15	02250
+02831	synonym	Celtis soyauxii Engl.	Ulmaceae	2012-11-15	02830
+02840	accepted	Celtis philippensis Blanco	Ulmaceae	2012-11-15	02840
+02842	synonym	Celtis prantlii Priemer ex Engl.	Ulmaceae	2012-11-15	02840
+02850	accepted	Centella asiatica (L.) Urb.	Apiaceae	2012-11-15	02850
+02851	synonym	Hydrocotyle asiatica L.	Apiaceae	2012-11-15	02850
+02140	accepted	Butyrospermum paradoxum (Gaertner f.) Hepper	Sapotaceae	2012-11-15	02140
+02121	synonym	Kalanchoe pinnata (Lam.) Pers.	Crassulaceae	2012-11-15	02120
+13280	accepted	Ziziphus abyssinica A. Rich.	Rhamnaceae	2012-11-15	13280
+00130	accepted	Acacia macrostachya Reichenb. ex DC.	Mimosaceae	2012-11-15	00130
+00142	synonym	Mimosa mellifera Vahl.	Fabaceae	2012-11-15	00140
+00151	synonym	Acacia semlikiensis De Wild.	Mimosaceae	2012-11-15	00150
+00170	accepted	Acacia nilotica (L.) Del.  subsp. subaldta (Vatke) Brenan	Mimosaceae	2012-11-15	00170
+00171	synonym	Acacia seyal Del. var. fistula (Schweinf.) Oliv.	Mimosaceae	2012-11-15	00170
+00190	accepted	Acacia nilotica (L.) Willd. ex  Del. var. adansonii (Guill. & Perr.) O. Ktze.	Mimosaceae	2012-11-15	00190
+00191	synonym	Acacia nilotica (L.) Willd. ex  Del. subsp.  adstringens (Schumm. & Thonn.) Roberty	Mimosaceae	2012-11-15	00190
+00211	synonym	Acacia oerforta (Forssk.) Schweinf.	Mimosaceae	2012-11-15	00210
+00210	accepted	Acacia nubica Benth.	Mimosaceae	2012-11-15	00210
+08350	accepted	Maerua angolensis DC.	Capparaceae	2012-11-15	08350
+08360	accepted	Maerua crassifolia Forssk.	Capparaceae	2012-11-15	08360
+08361	synonym	Maerua rigida  R. Br.	Capparaceae	2012-11-15	08360
+08381	synonym	Courbonia subcordata Gilg	Capparaceae	2012-11-15	08380
+08380	accepted	Maerua subcordata  (Gilg) DC.	Capparaceae	2012-11-15	08380
+08440	accepted	Manihot esculenta Crantz	Euphorbiaceae	2012-11-15	08440
+08441	synonym	Manihot utilissima Pohl	Euphorbiaceae	2012-11-15	08440
+08470	accepted	Markhamia lutea (Benth.) K. Schum.	Bignoniaceae	2012-11-15	08470
+08500	accepted	Maytenus senegalensis (Lam.) Exell	Celastraceae	2012-11-15	08500
+08501	synonym	Gymnosporia senegalensis (Lam.) Loes.	Celastraceae	2012-11-15	08500
+08510	accepted	Melanthera scandens (Schumach. & Thonn.) Roberty	Asteraceae	2012-11-15	08510
+08530	accepted	Melianthus major L.	Melianthaceae	2012-11-15	08530
+08560	accepted	Mentha aquatica L.	Lamiaceae	2012-11-15	08560
+08590	accepted	Microglossa oblongifolia O. Hoffm.	Asteraceae	2012-11-15	08590
+02395	accepted	Capparis sepiaria L. var. citrifolia (Lam) Tölken	Capparaceae	2012-11-15	02395
+04355	accepted	Curtisia dentata (Burn. F.) C.A. Sm.	Cornaceae	2012-11-15	04355
+04395	accepted	Cussonia spicata Thumb.	Araliaceae	2012-11-15	04395
+04605	accepted	Cyphostemma cirrhosum (Thumb.) Descoings ex Wild & Drum.	Vitaceae	2012-11-15	04605
+05295	accepted	Elephantorrhiza elephantina (Burch.) Skeels	Fabaceae	2012-11-15	05295
+05862	accepted	Exomis microphylla (Thumb.) Aellen var. axyrioides (Fenzl) Aellen	Chenopodiaceae	2012-11-15	05862
+06255	accepted	Gnidia capitata L.f.	Thymelaeaceae	2012-11-15	06255
+06385	accepted	Grewia occidentalis L.f.	Tiliaceae	2012-11-15	06385
+06515	accepted	Haemanthus albiflos Jacq	Amaryllidaceae	2012-11-15	06515
+07245	accepted	Indigofera sessilifolia DC.	Fabaceae	2012-11-15	07245
+08025	accepted	Ledebouria revoluta (L.f.) Jessop	Hyacinthaceae	2012-11-15	08025
+08115	accepted	Leucas capensis (Benth.) Engl.	Lamiaceae	2012-11-15	08115
+08475	accepted	Marrubium vulgare L.	Lamiaceae	2012-11-15	08475
+09232	accepted	Olea europaea subsp. africana (Mill.) P.S. Green	Oleaceae	2012-11-15	09232
+10205	accepted	Plumbago auriculata Lam.	Plumbaginaceae	2012-11-15	10205
+10225	accepted	Podocarpus latifolius (Thumb.) R. Br. Ex Mirb.	Podocarpaceae	2012-11-15	10225
+10325	accepted	Polystachya ottoniana Reichb. f.	Orchidaceae	2012-11-15	10325
+10435	accepted	Protorhus longifolia (Bernh.) Engl.	Anarcardiaceae	2012-11-15	10435
+10445	accepted	Prunus persica (L.) Batsch	Rosaceae	2012-11-15	10445
+10795	accepted	Rhus incisa L.f.	Anacardiaceae	2012-11-15	10795
+11145	accepted	Sansevieria hyacinthoides (L.) Druce	Dracaenaceae	2012-11-15	11145
+11203	accepted	Schotia latifolia Jacq.	Fabaceae	2012-11-15	11203
+11285	accepted	Secamone filiformis (L.f.) J.H. Ross	Apocynaceae	2012-11-15	11285
+00962	accepted	Aloe marlothii (A. Berger) subsp. Marlothii	Aloaceae	2012-11-15	00962
+01022	accepted	Aloe zebrina Baker	Aloaceae	2012-11-15	01022
+01442	accepted	Asparagus laricinus Burch.	Asparagaceae	2012-11-15	01442
+02732	accepted	Cassine transvaalensis (Burtt Davy) Codd	Celastraceae	2012-11-15	02732
+04162	accepted	Croton dichogamus var gratissimus	Euphorbiaceae	2012-11-15	04162
+04706	accepted	Dicerocaryum eriocarpum (Decne.)  Abels.	Pedaliaceae	2012-11-15	04706
+04708	accepted	Dicerocaryum senecioides (Klotzsch) Abels	Pedaliaceae	2012-11-15	04708
+05336	accepted	Englerophytum magalismontanum (Sond.) T. D. Penn.	Sapotaceae	2012-11-15	05336
+06558	accepted	Harpagophytum procumbens DC. Ex Meisn.	Pedaliaceae	2012-11-15	06558
+07052	accepted	Hypoxis hemerocallidea Fisch. & Avé-Lall.	Hypoxidaceae	2012-11-15	07052
+07054	accepted	Hypoxis rigidula  Baker	Hypoxidaceae	2012-11-15	07054
+09384	accepted	Ozoroa paniculosa (Sond.) R. & A. Fern. var. paniculosa	Anacardiaceae	2012-11-15	09384
+09676	accepted	Peltophorum africanum Sond	Fabaceae	2012-11-15	09676
+09972	accepted	Phyllanthus parvulus Sond.	Phyllanthaceae	2012-11-15	09972
+09973	accepted	Phyllanthus parvulus var. garipensis (E. Mey. ex Drège) Radcl.-Sm.	Phyllanthaceae	2012-11-15	09973
+09974	synonym	Phyllanthus burchellii Müll. Arg.	Phyllanthaceae	2012-11-15	09973
+10386	accepted	Pouzolzia mixta Solms. Laub.	Urticaceae	2012-11-15	10386
+10772	accepted	Rhoicissus tridentata (L.F.)  Wild & Drumm. subsp. cuneifolia (Eckl. & Zeyh.) N.R. Urton	Vitaceae	2012-11-15	10772
+10798	accepted	Rhus lancea L.f.	Anacardiaceae	2012-11-15	10798
+11201	accepted	Schkuhria pinnata (Lam.) O. Kuntze	Asteraceae	2012-11-15	11201
+11308	accepted	Seddera suffruticosa (Schinz) Hall. f.	Convolvulaceae	2012-11-15	11308
+02615	accepted	Senna italica Miller subsp. arachoides (Burchell) Lock	Fabaceae	2012-11-15	02615
+11713	accepted	Solanum panduriforme Drege ex Dun.	Solanaceae	2012-11-15	11713
+12386	accepted	Terminalia sericea Burch. ex DC.	Combretaceae	2012-11-15	12386
+12642	accepted	Triumfetta sonderi Ficalho & Hiern	Tiliaceae	2012-11-15	12642
+12758	accepted	Urginea sanguinea Schinz	Hyacinthaceae	2012-11-15	12758
+13072	accepted	Vitex zeyheri Sond.	Verbenaceae	2012-11-15	13072
+13142	accepted	Ximenia americana L. var. microphylla Welwitsch ex Oliver	Olacaceae	2012-11-15	13142
+13296	accepted	Ziziphus mucronata Willd.	Rhamnaceae	2012-11-15	13296
+10011	synonym	Phytolacca abyssinica Mog.	Phytolaccaceae	2012-11-15	10010
+07545	accepted	Justicia exigua S. Moore	Acanthaceae	2012-11-15	07545
+12765	accepted	Vangueria apiculata K. Schum.	Rubiaceae	2012-11-15	12765
+02691	synonym	Senna singueana Del.	Fabaceae	2012-11-15	02690
+08045	accepted	Leonotis mollissima Guerke	Lamiaceae	2012-11-15	08045
+04043	synonym	Solanecio mannii (Hoock. f.) C. Jeffrey	Asteraceae	2012-11-15	04040
+00140	accepted	Acacia mellifera (Vahl) Benth.	Mimosaceae	2012-11-15	00140
+02205	accepted	Caesalpinia volkensii Harms	Fabaceae	2012-11-15	02205
+05580	accepted	Eucalyptus maidenii F.J. Muell.	Myrtaceae	2012-11-15	05580
+10067	accepted	Pinus patula Schldl.. & Cham.	Pinaceae	2012-11-15	10067
+04410	accepted	Cyathula uncinulata (Schrad.) Schinz	Amaranthaceae	2012-11-15	04410
+02755	accepted	Cayratia ibuensis (Hook.f.) Suesseng	Vitaceae	2012-11-15	02755
+04615	accepted	Cyphostemma maranguense (Gilg) Desc.	Vitaceae	2012-11-15	04615
+09231	accepted	Olea europaea L.	Oleaceae	2012-11-15	09231
+10875	accepted	Ritchiea albersii Gilg	Capparaceae	2012-11-15	10875
+05052	accepted	Dorstenia barnimiana Schweinf.	Moraceae	2012-11-15	05052
+05195	accepted	Echinops kebericho Mesfin	Asteraceae	2012-11-15	05195
+05403	accepted	Eragrostis tef (Zuccagni) Trotter	Poaceae	2012-11-15	05403
+10402	accepted	Premna schimperi Engl.	Verbenaceae	2012-11-15	10402
+03851	synonym	Conyza floribunda Kunth	Asteraceae	2012-11-15	03850
+12796	synonym	Vernonia grantii Oliv.	Asteraceae	2012-11-15	12795
+12797	synonym	Vernonia macrocephala A.Rich.	Asteraceae	2012-11-15	12795
+10945	accepted	Rumex nervosus Vahl	Polygonaceae	2012-11-15	10945
+11345	accepted	Senecio myriocephalus Sch. Bip. Ex. A. Rich	Asteraceae	2012-11-15	11345
+06062	synonym	Anethum foeniculum A. Rich.	Apiaceae	2012-11-15	06060
+00092	accepted	Acacia erythrocalyx Brenan	Mimosaceae	2012-11-15	00092
+06905	accepted	Hildebrandtia sepalosa Rendle	Convolvulaceae	2012-11-15	06905
+00087	accepted	Acacia decurrens Willd.	Mimosaceae	2012-11-15	00087
+00537	accepted	Adenopodia spicata (E. Mey.) Presl	Fabaceae	2012-11-15	00537
+00813	accepted	Albuca sp.	Hyacinthaceae	2012-11-15	00813
+00873	accepted	Aloe arborescens Mill.	Aloaceae	2012-11-15	00873
+00966	synonym	Aloe latifolia (Haw.) Haw.	Aloaceae	2012-11-15	00961
+01605	accepted	Balanites maughamii Sprague	Zygophyllaceae	2012-11-15	01605
+01685	accepted	Berchemia zeyheri (Sond.) Grubov	Rhamnaceae	2012-11-15	01685
+02013	accepted	Brachylaena discolor DC.	Asteraceae	2012-11-15	02013
+02127	accepted	Bulbine asphodeloides (L.) Spreng.	Asphodelaceae	2012-11-15	02127
+02281	synonym	Calpurnia villosa Harv.	Fabaceae	2012-11-15	02280
+02394	accepted	Capparis sepiaria L.	Capparaceae	2012-11-15	02394
+02545	accepted	Cassia abbreviata Oliv.	Fabaceae	2012-11-15	02545
+02885	accepted	Chenopodium album L.	Chenopodiaceae	2012-11-15	02885
+03400	accepted	Clutia pulchella L.	Euphorbiaceae	2012-11-15	03400
+03575	accepted	Combretum caffrum (Eckl. & Zeyh.) Kuntze	Combretaceae	2012-11-15	03575
+03595	accepted	Combretum erythrophyllum (Burch.) Sond.	Combretaceae	2012-11-15	03595
+03633	accepted	Combretum paniculatum Vent.	Combretaceae	2012-11-15	03633
+04095	accepted	Crocosmia paniculata (Klatt) Goldblatt	Iridaceae	2012-11-15	04095
+04255	accepted	Cucumis africanus L.f.	Cucurbitaceae	2012-11-15	04255
+04435	accepted	Cymbopogon marginatus (Steud.) Stapf ex Burtt Davy	Poaceae	2012-11-15	04435
+06355	accepted	Grewia fallax K.Schum.	Tiliaceae	2012-11-15	06355
+12029	accepted	Strophanthus eminii Asch. & Pax	Apocynaceae	2012-11-15	12029
+11415	accepted	Sesamum calycinum Welw.	Pedaliaceae	2012-11-15	11415
+06865	accepted	Hibiscus pycnostemon Hochr.	Malvaceae	2012-11-15	06865
+09115	accepted	Obetia radula (Baker) Baker ex B.D.Jacks	Urticaceae	2012-11-15	09115
+09935	accepted	Phragmites mauritianus Kunth	Poaceae	2012-11-15	09935
+09116	synonym	Obetia pinnatifida Bak.	Urticaceae	2012-11-15	09115
+02745	accepted	Casuarina cunninghamiana Miq.	Casuarinaceae	2012-11-15	02745
+04929	accepted	Discopodium penninervium Hochst.	Solanaceae	2012-11-15	04929
+09545	accepted	Parthenium hysterophorus L.	Asteraceae	2012-11-15	09545
+13137	accepted	Xanthium strumarium L.	Asteraceae	2012-11-15	13137
+07555	accepted	Justicia schimperiana (Hochst. ex Nees) T. Anderson	Acanthaceae	2012-11-15	07555
+11905	synonym	Spondias lutea L.	Anacardiaceae	2012-11-15	11904
+02591	synonym	Senna hirsuta (L.) H.S.Irwin & Barneby	Fabaceae	2012-11-15	02590
+01801	synonym	Laggera alata (D.Don) Sch.Bip. ex Oliv.	Asteraceae	2012-11-15	01800
+03878	accepted	Conyza sp.	Asteraceae	2012-11-15	03878
+11534	synonym	Sida cuneifolia auct.	Malvaceae	2012-11-15	11531
+01775	accepted	Blepharis stuhlmanni Lindau	Acanthaceae	2012-11-15	01775
+04620	accepted	Dalbergia boehmii Taub.	Fabaceae	2012-11-15	04620
+12205	accepted	Talinum caffrum (Thunb.) Eckl. & Zeyh.	Portulacaceae	2012-11-15	12205
+03622	synonym	Combretum microlepidotum Engl.	Combretaceae	2012-11-15	03620
+02410	accepted	Capparis tomentosa Lam.	Capparaceae	2012-11-15	02410
+03216	synonym	Citrus sinensis (L.) Osbeck	Rutaceae	2012-11-15	03215
+11945	accepted	Stellaria media (L.) Vill.	Caryophyllaceae	2012-11-15	11945
+00821	synonym	Alchornea cordata Benth.	Euphorbiaceae	2012-11-15	00820
+11571	synonym	Solanum gilo Raddi	Solanaceae	2012-11-15	11570
+07786	synonym	Adenopus breviflorus Benth.	Cucurbitaceae	2012-11-15	07785
+01318	accepted	Antidesma venosum E.Mey. ex Tul.	Euphorbiaceae	2012-11-15	01318
+03551	synonym	Colophospermum mopane (J.Kirk ex Benth.) J.Kirk ex J.Léonard	Fabaceae	2012-11-15	03550
+12572	synonym	Trichilia emetica Vahl subsp. emetica	Meliaceae	2012-11-15	12570
+12410	accepted	Teucrium trifidum Retz.	Lamiaceae	2012-11-15	12410
+00036	accepted	Abutilon sonneratianum (Cav.) Sweet	Malvaceae	2012-11-15	00036
+03853	synonym	Erigeron naudinii (Bonnet) Humbert	Asteraceae	2012-11-15	03850
+08230	accepted	Lonchocarpus cyanescens (Schumach. & Thonn.) Benth.	Fabaceae	2012-11-15	08230
+01140	accepted	Amomum sp.	Zingiberaceae	2012-11-15	01140
+00291	synonym	Acacia sieberiana DC. var. sieberiana	Mimosaceae	2012-11-15	00290
+11537	accepted	Snowdenia polystachya (Fresen.) Pilg.	Poaceae	2012-11-15	11537
+08472	synonym	Markhamia platycalyx (Baker) Sprague	Bignoniaceae	2012-11-15	08470
+05136	synonym	Dregea macrantha Klotzsch	Apocynaceae	2012-11-15	05135
+02065	accepted	Bridelia brideliifolia (Pax) Fedde	Phyllanthaceae	2012-11-15	02065
+12292	accepted	Tecomaria capensis (Thunb.) Spach	Bignoniaceae	2012-11-15	12292
+00908	accepted	Aloe elgonica Bullock	Aloaceae	2012-11-15	00908
+00963	accepted	Aloe microstigma Salm-Dyck	Aloaceae	2012-11-15	00963
+09237	synonym	Olinia usambarensis Gilg	Oliniaceae	2012-11-15	09236
+12245	accepted	Tambourissa leptophylla Drake	Monimiaceae	2012-11-15	12245
+04145	accepted	Crotalaria natalitia Meisn.	Fabaceae	2012-11-15	04145
+03745	accepted	Commiphora hodai Sprague	Burseraceae	2012-11-15	03745
+10774	accepted	Rhus abyssinica Hochst. ex Oliv.	Anacardiaceae	2012-11-15	10774
+11887	accepted	Sphaeranthus steetzii Oliv. & Hiern	Asteraceae	2012-11-15	11887
+11965	accepted	Sterculia alexandri Harv.	Sterculiaceae	2012-11-15	11965
+00712	accepted	Agrocharis incognita (C.Norman) Heywood & Jury	Apiaceae	2012-11-15	00712
+04402	accepted	Cyathula cylindrica Moq.	Amaranthaceae	2012-11-15	04402
+12195	accepted	Tagetes erecta L.	Asteraceae	2012-11-15	12195
+01090	accepted	Amaranthus sp.	Amaranthaceae	2012-11-15	01090
+02050	accepted	Brassica sp.	Brassicaceae	2012-11-15	02050
+00552	accepted	Adina microcephala (Delile) Hiern	Rubiaceae	2012-11-15	00552
+03605	accepted	Combretum lamprocarpum Diels	Combretaceae	2012-11-15	03605
+08667	accepted	Millettia thonningii (Schumach. & Thonn.) Baker	Fabaceae	2012-11-15	08667
+11925	accepted	Stachytarpheta angustifolia (Mill.) Vahl	Verbenaceae	2012-11-15	11925
+12252	accepted	Tapinanthus dodoneifolius (DC.) Danser	Loranthaceae	2012-11-15	12252
+12253	accepted	Tapinanthus globiferus (A.Rich.) Tiegh.	Loranthaceae	2012-11-15	12253
+12382	accepted	Terminalia mollis M.A.Lawson	Combretaceae	2012-11-15	12382
+09677	accepted	Peltophorum ferrugineum (Decne.) Benth.	Fabaceae	2012-11-15	09677
+03585	accepted	Combretum imberbe Wawra	Combretaceae	2012-11-15	03585
+00964	accepted	Aloe marlothii A.Berger	Aloaceae	2012-11-15	00964
+00992	accepted	Aloe spicata L.f.	Aloaceae	2012-11-15	00992
+06042	synonym	Ficus burkei (Miq.) Miq.	Moraceae	2012-11-15	06040
+08965	accepted	Myrothamnus flabellifolius Welw.	Myrothamnaceae	2012-11-15	08965
+06380	accepted	Grewia mollis Juss.	Tiliaceae	2012-11-15	06380
+04845	accepted	Dioscorea latifolia Benth. var. sylvestris A. Chev.	Dioscoreaceae	2012-11-15	04845
+09773	accepted	Pentas dewevrei De Wild. & T.Durand	Rubiaceae	2012-11-15	09773
+01026	synonym	Alstonia gilletii De Wild.	Apocynaceae	2012-11-15	01025
+01145	accepted	Ampelocissus abyssinica (Hochst. Ex Rich.) Planch.	Vitaceae	2012-11-15	01145
+09885	accepted	Persea gratissima Gaertn.	Lauraceae	2012-11-15	09885
+10731	synonym	Rauvolfia macrophylla Stapf	Apocynaceae	2012-11-15	10730
+09425	accepted	Parietaria debilis G.Forst.	Urticaceae	2012-11-15	09425
+12220	accepted	Tamarindus indica L.	Fabaceae	2012-11-15	12220
+11020	accepted	Saccharum officinarum L.	Poaceae	2012-11-15	11020
+01265	accepted	Annona reticulata L.	Annonaceae	2012-11-15	01265
+08107	accepted	Leucas aspera (Willd.) Link	Lamiaceae	2012-11-15	08107
+08713	accepted	Mollugo hirta Thunb.	Molluginaceae	2012-11-15	08713
+11820	accepted	Sorghum bicolor (L.) Moench	Poaceae	2012-11-15	11820
+01452	accepted	Asparagus setaceus (Kunth) Jessop	Asparagaceae	2012-11-15	01452
+00961	accepted	Aloe maculata All.	Aloaceae	2012-11-15	00961
+06622	synonym	Ozoroa insignis subsp. reticulata (Baker f.) J.B.Gillett	Anacardiaceae	2012-11-15	06620
+05261	synonym	Ekebergia rueppelliana (Fresen.) A.Rich.	Meliaceae	2012-11-15	05260
+00350	accepted	Acalypha racemosa Baill.	Euphorbiaceae	2012-11-15	00350
+00907	accepted	Aloe dichotoma Masson	Aloaceae	2012-11-15	00907
+03396	accepted	Clutia mollis Pax	Euphorbiaceae	2012-11-15	03396
+03405	accepted	Clutia richardiana Müll.Arg.	Euphorbiaceae	2012-11-15	03405
+03573	accepted	Combretum binderianum Kotschy	Combretaceae	2012-11-15	03573
+03592	accepted	Combretum elgonense Exell	Combretaceae	2012-11-15	03592
+04611	accepted	Cyphostemma heterotrichum (Gilg & R.E.Fr.) Desc. ex Wild & R.B.Drumm.	Vitaceae	2012-11-15	04611
+04618	accepted	Cyphostemma orondo (Gilg & M.Brandt) Desc.	Vitaceae	2012-11-15	04618
+05182	accepted	Drypetes gerrardii Hutch.	Euphorbiaceae	2012-11-15	05182
+05938	accepted	Ficus amadiensis De Wild.	Moraceae	2012-11-15	05938
+06045	accepted	Ficus vallis-choudae Delile	Moraceae	2012-11-15	06045
+06110	accepted	Galium simense Fres.	Rubiaceae	2012-11-15	06110
+06420	accepted	Grewia tenax (Forssk.) Fiori	Tiliaceae	2012-11-15	06420
+07452	accepted	Jacaranda mimosifolia D.Don	Bignonaceae	2012-11-15	07452
+08155	accepted	Lippia grandifolia var. longipedunculata Moldenke	Verbenaceae	2012-11-15	08155
+08335	accepted	Macaranga kilimandscharica Pax	Euphorbiaceae	2012-11-15	08335
+13045	accepted	Vitex fischeri Gürke	Verbenaceae	2012-11-15	13045
+08775	accepted	Mondia whitei (Hook.f.) Skeels	Apocynaceae	2012-11-15	08775
+09010	accepted	Neocarya macrophylla  (Sabine) Prance	Chrysobalanaceae	2012-11-15	09010
+09170	accepted	Ocimum gratissimum  L.	Lamiaceae	2012-11-15	09170
+09625	accepted	Pavetta oliveriana Hiern	Rubiaceae	2012-11-15	09625
+09975	accepted	Phyllanthus ovalifolius Forssk.	Phyllanthaceae	2012-11-15	09975
+10183	accepted	Plectranthus lactiflorus (Vatke) Agnew	Lamiaceae	2012-11-15	10183
+12668	accepted	Turraea holstii Gürke	Meliaceae	2012-11-15	12668
+12669	accepted	Turraea robusta Gürke	Meliaceae	2012-11-15	12669
+12680	accepted	Tylostemon mannii (Meisn.) Stapf	Lauraceae	2012-11-15	12680
+10800	accepted	Rhus natalensis Bernh. ex  Krauss	Anacardiaceae	2012-11-15	10800
+10879	accepted	Rotheca myricoides (Hochst.) Steane & Mabb	Lamiaceae	2012-11-15	10879
+11167	accepted	Sapium ellipticum (Hochst.) Pax	Euphorbiaceae	2012-11-15	11167
+12036	accepted	Strychnos innocua Delile	Strychnaceae	2012-11-15	12036
+12460	accepted	Tinnea barteri Gürke	Lamiaceae	2012-11-15	12460
+04923	synonym	Diplorhynchus condylocarpon subsp. mossambicensis (Benth. ex Oliv.) P.A.Duvign.	Apocynaceae	2012-11-15	04920
+09660	accepted	Pelargonium sidifolium (Thunb.) R.Knuth	Geraniaceae	2012-11-15	09660
+06556	accepted	Haplocarpha scaposa Harv.	Asteraceae	2012-11-15	06556
+06910	accepted	Hippobromus pauciflorus (L.f.) Radlk.	Sapindaceae	2012-11-15	06910
+10155	accepted	Plectranthus ambiguus (Bolus) Codd	Lamiaceae	2012-11-15	10155
+03715	accepted	Commiphora eminii Engl.	Burseraceae	2012-11-15	03715
+05074	accepted	Dovyalis caffra (Hook.f. & Harv.) Hook.f.	Flacourtiaceae	2012-11-15	05074
+10215	accepted	Plumeria alba L.	Apocynaceae	2012-11-15	10215
+12767	accepted	Vangueria infausta Burch.	Rubiaceae	2012-11-15	12767
+02137	accepted	Burkea africana Hook.	Fabaceae	2012-11-15	02137
+01415	accepted	Asparagus sp.	Asparagaceae	2012-11-15	01415
+06766	accepted	Hermannia guerkeana K.Schum.	Malvaceae	2012-11-15	06766
+11195	accepted	Scadoxus sp.	Amaryllidaceae	2012-11-15	11195
