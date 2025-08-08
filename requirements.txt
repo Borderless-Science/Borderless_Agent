@@ -1,0 +1,19 @@
+# Core libraries
+langdetect==1.0.9
+openai==1.99.0
+requests==2.32.4
+python-dotenv==1.1.1
+
+# LangChain and vector store
+langchain==0.3.27
+langchain-openai==0.3.28
+langchain-community==0.3.27
+faiss-cpu==1.11.0  # For vector similarity search
+
+# Optional (for ArxivLoader to work correctly)
+arxiv==2.2.0
+
+crewai==0.157.0
+
+# For typing and compatibility
+typing-extensions>=4.5.0

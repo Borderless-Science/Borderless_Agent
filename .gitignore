@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.conda/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# Data files
+*.csv
+*.tsv
+*.dat
+*.db
+*.sqlite3
+
+# Model files
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.joblib
+*.pkl
+
+# Results and outputs
+*.out
+*.tmp
+
+# Config files
+*.env
+
+# Build
+build/
+dist/
+*.egg-info/
+*.egg
