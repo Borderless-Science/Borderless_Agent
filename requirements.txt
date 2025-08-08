@@ -1,8 +1,10 @@
 # Core libraries
+streamlit==1.48.0
 langdetect==1.0.9
 openai==1.99.0
 requests==2.32.4
 python-dotenv==1.1.1
+pymupdf==1.26.3
 
 # LangChain and vector store
 langchain==0.3.27
