@@ -2,9 +2,7 @@
 from langchain_community.vectorstores import FAISS
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from core.config import VECTOR_DB_PATH, EMBEDDING_MODEL_NAME
-
 import asyncio
-import threading
 
 try:
     asyncio.get_running_loop()
