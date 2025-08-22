@@ -1,21 +1,27 @@
-# Core libraries
+# Web Framework
 streamlit==1.48.0
-langdetect==1.0.9
-openai==1.99.0
+
+# HTTP and Environment
 requests==2.32.4
 python-dotenv==1.1.1
-pymupdf==1.26.3
+protobuf==6.32.0
 
-# LangChain and vector store
+# LangChain Core Framework
 langchain==0.3.27
-langchain-openai==0.3.28
+langchain-core==0.3.74
 langchain-community==0.3.27
+
+# LangChain Google Integration
+langchain-google-genai==2.1.9
+google-ai-generativelanguage==0.6.18
+google-api-core==2.25.1
+
+# Vector Store and Search
 faiss-cpu==1.11.0  # For vector similarity search
 
-# Optional (for ArxivLoader to work correctly)
-arxiv==2.2.0
+# AI Agents and Tools
+crewai==0.165.1
+crewai-tools==0.62.3
 
-crewai==0.157.0
-
-# For typing and compatibility
-typing-extensions>=4.5.0
+# Database
+SQLAlchemy==2.0.43
