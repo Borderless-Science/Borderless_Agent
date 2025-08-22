@@ -8,6 +8,7 @@ load_dotenv()
 # API Keys
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+SERPER_API_KEY = os.getenv("SERPER_API_KEY")
 
 # Paths
 VECTOR_DB_PATH = "vector_db"
