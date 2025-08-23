@@ -1,22 +1,22 @@
 FROM python:3.11-slim
 
-WORKDIR /Borderless_Agent
+WORKDIR /app
 
-# Install system dependencies
-#RUN apt-get update && apt-get install -y \
-#    gcc \
-#    && rm -rf /var/lib/apt/lists/
+# Copy requirements and install dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy requirements and install Python dependencies
-COPY requirements.txt /tmp/requirements.txt
-RUN pip install -r /tmp/requirements.txt
+# Copy all Python files
+COPY *.py ./
 
+# Copy data directory
+COPY data/ ./data/
 
-# Copy application code
-#COPY Borderless_Agent/app/ .
+# Copy environment file
+COPY .env .
 
 # Expose port
 EXPOSE 8000
 
 # Run the application
-CMD ["uvicorn", "app.fast:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+CMD ["uvicorn", "fast:app", "--host", "0.0.0.0", "--port", "8000"]
