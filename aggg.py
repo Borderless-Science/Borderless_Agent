@@ -54,6 +54,7 @@ load_dotenv()
 # conn.close()
 
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash-lite")
+google_api_key=os.getenv("GOOGLE_API_KEY")
 agent = LLM(model="gemini/gemini-2.5-flash-lite")
 
 #db = SQLDatabase.from_uri("sqlite:///tcmbank_database.db")
