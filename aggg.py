@@ -2,9 +2,10 @@ import sqlite3
 import os
 import glob
 # Load environment variables FIRST
+from dotenv import load_dotenv
 load_dotenv()
 from textwrap import dedent
-from dotenv import load_dotenv
+
 from IPython.display import display, Markdown
 import pandas as pd
 from pydantic import Field
