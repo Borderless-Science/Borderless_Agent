@@ -1,6 +1,8 @@
 import sqlite3
 import os
 import glob
+# Load environment variables FIRST
+load_dotenv()
 from textwrap import dedent
 from dotenv import load_dotenv
 from IPython.display import display, Markdown
