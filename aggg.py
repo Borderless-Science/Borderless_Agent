@@ -53,8 +53,8 @@ load_dotenv()
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash-lite")
 agent = LLM(model="gemini/gemini-2.5-flash-lite")
 
-db = SQLDatabase.from_uri("sqlite:///tcmbank_database.db")
-
+#db = SQLDatabase.from_uri("sqlite:///tcmbank_database.db")
+db = SQLDatabase.from_uri("sqlite:///app/data/tcmbank_database.db")
 
 @tool("list_tables")
 def list_tables() -> str:
