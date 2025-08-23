@@ -13,7 +13,7 @@ RUN pip install -r /tmp/requirements.txt
 
 
 # Copy application code
-COPY Borderless_Agent/app/ .
+#COPY Borderless_Agent/app/ .
 
 # Expose port
 EXPOSE 8000
