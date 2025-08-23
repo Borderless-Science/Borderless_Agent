@@ -3,8 +3,9 @@ FROM python:3.11-slim
 WORKDIR /Borderless_Agent
 
 # Copy requirements and install dependencies
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+COPY requirements.txt /tmp/requirements.txt
+RUN pip install -r /tmp/requirements.txt
+
 
 # Copy all Python files
 COPY *.py ./
@@ -13,7 +14,6 @@ COPY *.py ./
 COPY data/ ./data/
 
 # Copy environment file
-COPY .env .
 
 # Expose port
 EXPOSE 8000
